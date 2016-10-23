@@ -24,7 +24,7 @@ Thank you for looking :) Good hunting!
 - [#frontenddevelopers.org](http://frontenddevelopers.org/) - A Slack powered community for creative developers to share knowledge
 - [Toptal](https://www.toptal.com/) - Hire the top 3% of freelance talent
 - [#freelance](http://freelance.chat/) - A community for freelancers on Slack
-
+- [Nextspace](http://nextspace.us/) - (**US ONLY** [for now]) - A coworking space for entrepreneurs and developers to work and network
 
 ### License
 None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts.
