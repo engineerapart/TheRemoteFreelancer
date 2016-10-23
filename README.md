@@ -1,4 +1,6 @@
-![Remote Freelancer Logo](./RemoteFreelancer.png)
+<p align="center">
+  <img src="./RemoteFreelancer.png">
+</p>
 
 # The Remote Freelancer
 List of community-curated resources to find topical remote freelance &amp; contract work for software developers, web designers, and more!
@@ -8,6 +10,8 @@ This repo was inspired by [this Hacker News thread](https://news.ycombinator.com
 
 ## Contributing
 Please please please contribute to the list! If you have freelance work available, or know someone who does, feel free to open a pull request to augment this list! If PRs come in quuite regularly I'll actually bother to create a website and backend for it.
+
+Also, if anyone would like to make a proper logo for this, I'd be eternally grateful. I whipped this one together using [VennGage](https://venngage.com).
 
 Thank you for looking :) Good hunting!
 
