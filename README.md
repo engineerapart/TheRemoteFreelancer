@@ -25,6 +25,7 @@ Thank you for looking :) Good hunting!
 - [Toptal](https://www.toptal.com/) - Hire the top 3% of freelance talent
 - [#freelance](http://freelance.chat/) - A community for freelancers on Slack
 - [Nextspace](http://nextspace.us/) - (**US ONLY** [for now]) - A coworking space for entrepreneurs and developers to work and network
+- [CodeMentor.io](https://codementor.io) - Get paid while making an impact. Become a Codementor for the next wave of makers.
 
 ### License
 None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts.
