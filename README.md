@@ -37,7 +37,7 @@ Thank you for looking :) Good hunting!
 - [Freelancer.com](http://www.freelancer.com/) - Freelancer.com is the world's largest freelancing, outsourcing and crowdsourcing marketplace by number of users and projects.
 - [Pilot](https://pilot.co/) - Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
 - [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com) - An extensive remote job board aggregator.
-- [X-Team](http://x-team.com) - X-Team provides motivated developers, ready to join your team. We are the most developer-centric company for remote developers, helping them learn and grow like few tech companies have done before. "Work on incredible projects. Unelash your potential. From anywhere."
+- [X-Team](http://x-team.com) - X-Team provides motivated developers, ready to join your team. We are the most developer-centric company for remote developers, helping them learn and grow like few tech companies have done before. "Work on incredible projects. Unleash your potential. From anywhere."
 - [Authentic Jobs](http://www.authenticjobs.com/#onlyremote=1") - Full-time and freelance job opportunities for creatives.
 - [Dribbble Jobs](https://dribbble.com/jobs?utf8=%E2%9C%93&amp;anywhere=true&amp;location=Anywhere")
   span.description Remote jobs for designers.
