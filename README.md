@@ -16,6 +16,7 @@ Also, if anyone would like to make a proper logo for this, I'd be eternally grat
 Thank you for looking :) Good hunting!
 
 # The List
+- [Freelancer.com](http://www.freelancer.com/) - Freelancer.com is the world's largest freelancing, outsourcing and crowdsourcing marketplace by number of users and projects.
 - [Code Gophers](https://codegophers.com/) - Your personal army of programmers. Email us a programming task and we'll finish it in 48 hours. [Become a Gopher](https://codegophers.com/apply.html)
 - [PeoplePerHour](https://www.peopleperhour.com) - We help you start small, move fast and build it up!
 - [Remote|OK](https://remoteok.io/) - Let's find you a **job** you can do **anywhere**
