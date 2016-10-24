@@ -21,13 +21,13 @@ Thank you for looking :) Good hunting!
 
 - [Code Gophers](https://codegophers.com/) - Your personal army of programmers. Email us a programming task and we'll finish it in 48 hours. [Become a Gopher](https://codegophers.com/apply.html)
 - [PeoplePerHour](https://www.peopleperhour.com) - We help you start small, move fast and build it up!
-- [Remote|OK](https://remoteok.io/) - Let's find you a **job** you can do **anywhere**
+- [Remote|OK](https://remoteok.io/) - Let's find you a job you can do anywhere
 - [Working Nomads](http://www.workingnomads.co/jobs) - A curated list of remote jobs for the modern working nomad.
 - [Domino](https://www.askdomino.com/freelancer) - Recommendation-only freelancing. Has a Slack channel for networking & discussions.
 - [#frontenddevelopers.org](http://frontenddevelopers.org/) - A Slack powered community for creative developers to share knowledge
 - [Toptal](https://www.toptal.com/) - Hire the top 3% of freelance talent
 - [#freelance](http://freelance.chat/) - A community for freelancers on Slack
-- [Nextspace](http://nextspace.us/) - (**US ONLY** [for now]) - A coworking space for entrepreneurs and developers to work and network
+- [Nextspace](http://nextspace.us/) - A coworking space for entrepreneurs and developers to work and network (US only for now)
 - [CodeMentor.io](https://codementor.io) - Get paid while making an impact. Become a Codementor for the next wave of makers.
 - [DOZ.com](https://www.doz.com) - Plan your digital marketing campaigns and outsource them to marketing pros.
 - [Pipeline](https://www.pipelinedaily.com/#why-use) - Sends curated projects to your inbox weekly. Made by freelancers for freelancers
