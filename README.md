@@ -22,6 +22,7 @@ Thank you for looking :) Good hunting!
 - [Code Gophers](https://codegophers.com/) - Your personal army of programmers. Email us a programming task and we'll finish it in 48 hours. [Become a Gopher](https://codegophers.com/apply.html)
 - [PeoplePerHour](https://www.peopleperhour.com) - We help you start small, move fast and build it up!
 - [Remote|OK](https://remoteok.io/) - Let's find you a **job** you can do **anywhere**
+- [Loom](https://www.joinloom.com) - work-for-equity platform for entrepreneurs and developers.
 - [Working Nomads](http://www.workingnomads.co/jobs) - A curated list of remote jobs for the modern working nomad.
 - [Domino](https://www.askdomino.com/freelancer) - Recommendation-only freelancing. Has a Slack channel for networking & discussions.
 - [#frontenddevelopers.org](http://frontenddevelopers.org/) - A Slack powered community for creative developers to share knowledge
