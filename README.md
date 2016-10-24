@@ -33,13 +33,12 @@ Thank you for looking :) Good hunting!
 - [Pipeline](https://www.pipelinedaily.com/#why-use) - Sends curated projects to your inbox weekly. Made by freelancers for freelancers
 - [We Work Remotely](https://weworkremotely.com/) - Find jobs that aren't restricted by commutes or a particular geographic area.
 - [HackHands] (https://hackhands.com) - Live programming help. Get paid per minute, while helping other programmers.
+- [RemoteBase](https://remotebase.io/) - An Open Database of Remote Companies
 
 ## French language
 
 - [Codeur](https://www.codeur.com/) - Leader in France.
 - [Hopwork](https://www.hopwork.fr/) - Is getting some tractions.
-
-
 
 ### License
 None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts. (Ok, officially, "The Unlicense")
