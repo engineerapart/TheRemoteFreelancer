@@ -35,6 +35,7 @@ Thank you for looking :) Good hunting!
 - [HackHands] (https://hackhands.com) - Live programming help. Get paid per minute, while helping other programmers.
 - [RemoteBase](https://remotebase.io/) - An Open Database of Remote Companies
 - [Freelancer.com](http://www.freelancer.com/) - Freelancer.com is the world's largest freelancing, outsourcing and crowdsourcing marketplace by number of users and projects.
+- [Pilot](https://pilot.co/) - Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
 
 ## French language
 
