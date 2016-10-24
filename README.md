@@ -16,17 +16,17 @@ Also, if anyone would like to make a proper logo for this, I'd be eternally grat
 Thank you for looking :) Good hunting!
 
 # The List
-- [Code Gophers](https://codegophers.com/) - Your personal army of programmers. Email us a programming task and we'll finish it in 48 hours. [Become a Gopher](https://codegophers.com/apply.html)
-- [PeoplePerHour](https://www.peopleperhour.com) - We help you start small, move fast and build it up!
-- [Remote|OK](https://remoteok.io/) - Let's find you a **job** you can do **anywhere**
-- [Working Nomads](http://www.workingnomads.co/jobs) - A curated list of remote jobs for the modern working nomad.
-- [Domino](https://www.askdomino.com/freelancer) - Recommendation-only freelancing. Has a Slack channel for networking & discussions.
-- [#frontenddevelopers.org](http://frontenddevelopers.org/) - A Slack powered community for creative developers to share knowledge
-- [Toptal](https://www.toptal.com/) - Hire the top 3% of freelance talent
 - [#freelance](http://freelance.chat/) - A community for freelancers on Slack
-- [Nextspace](http://nextspace.us/) - (**US ONLY** [for now]) - A coworking space for entrepreneurs and developers to work and network
+- [#frontenddevelopers.org](http://frontenddevelopers.org/) - A Slack powered community for creative developers to share knowledge
+- [Code Gophers](https://codegophers.com/) - Your personal army of programmers. Email us a programming task and we'll finish it in 48 hours. [Become a Gopher](https://codegophers.com/apply.html)
 - [CodeMentor.io](https://codementor.io) - Get paid while making an impact. Become a Codementor for the next wave of makers.
 - [CodersClan.net](https://codersclan.net) - Become a verified coder and do coding tasks with bounty between 25USD and 800USD
+- [Domino](https://www.askdomino.com/freelancer) - Recommendation-only freelancing. Has a Slack channel for networking & discussions.
+- [Nextspace](http://nextspace.us/) - (**US ONLY** [for now]) - A coworking space for entrepreneurs and developers to work and network
+- [PeoplePerHour](https://www.peopleperhour.com) - We help you start small, move fast and build it up!
+- [Remote|OK](https://remoteok.io/) - Let's find you a **job** you can do **anywhere**
+- [Toptal](https://www.toptal.com/) - Hire the top 3% of freelance talent
+- [Working Nomads](http://www.workingnomads.co/jobs) - A curated list of remote jobs for the modern working nomad.
 
 ### License
 None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts. (Ok, officially, "The Unlicense")
