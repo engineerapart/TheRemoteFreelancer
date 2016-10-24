@@ -53,6 +53,7 @@ Thank you for looking :) Good hunting!
 - [Jobscribe](http://jobscri.be/) - Get a daily email with remote jobs at tech startups.
 - [Remote Digest](http://remotedigest.com/) - Get weekly emails with awesome remote jobs for developers.
 - [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html) - Remote jobs for Go/Golang developers.
+- [Seven Days](https://www.sevendays.co/) - Where startups find talent
 
 ## French language
 
