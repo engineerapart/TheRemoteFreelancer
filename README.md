@@ -16,6 +16,9 @@ Also, if anyone would like to make a proper logo for this, I'd be eternally grat
 Thank you for looking :) Good hunting!
 
 # The List
+
+## English language
+
 - [Code Gophers](https://codegophers.com/) - Your personal army of programmers. Email us a programming task and we'll finish it in 48 hours. [Become a Gopher](https://codegophers.com/apply.html)
 - [PeoplePerHour](https://www.peopleperhour.com) - We help you start small, move fast and build it up!
 - [Remote|OK](https://remoteok.io/) - Let's find you a **job** you can do **anywhere**
@@ -26,6 +29,13 @@ Thank you for looking :) Good hunting!
 - [#freelance](http://freelance.chat/) - A community for freelancers on Slack
 - [Nextspace](http://nextspace.us/) - (**US ONLY** [for now]) - A coworking space for entrepreneurs and developers to work and network
 - [CodeMentor.io](https://codementor.io) - Get paid while making an impact. Become a Codementor for the next wave of makers.
+
+## French language
+
+- [Codeur](https://www.codeur.com/) - Leader in France.
+- [Hopwork](https://www.hopwork.fr/) - Is getting some tractions.
+
+
 
 ### License
 None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts. (Ok, officially, "The Unlicense")
