@@ -54,6 +54,7 @@ Thank you for looking :) Good hunting!
 - [Remote Digest](http://remotedigest.com/) - Get weekly emails with awesome remote jobs for developers.
 - [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html) - Remote jobs for Go/Golang developers.
 - [Seven Days](https://www.sevendays.co/) - Where startups find talent
+- [Crew](https://crew.co/) - Handpicked Freelance Web Designers & Develoeprs
 
 ## French language
 
