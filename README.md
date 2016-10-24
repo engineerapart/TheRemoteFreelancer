@@ -29,6 +29,7 @@ Thank you for looking :) Good hunting!
 - [DOZ.com](https://www.doz.com) - Plan your digital marketing campaigns and outsource them to marketing pros.
 - [Pipeline](https://www.pipelinedaily.com/#why-use) - Sends curated projects to your inbox weekly. Made by freelancers for freelancers
 - [We Work Remotely](https://weworkremotely.com/) - Find jobs that aren't restricted by commutes or a particular geographic area.
+- [HackHands] (https://hackhands.com) - Live programming help. Get paid per minute, while helping other programmers.
 
 ### License
 None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts. (Ok, officially, "The Unlicense")
