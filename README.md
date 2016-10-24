@@ -21,7 +21,8 @@ Thank you for looking :) Good hunting!
 - [Code Gophers](https://codegophers.com/) - Your personal army of programmers. Email us a programming task and we'll finish it in 48 hours. [Become a Gopher](https://codegophers.com/apply.html)
 - [CodeMentor.io](https://codementor.io) - Get paid while making an impact. Become a Codementor for the next wave of makers.
 - [CodersClan.net](https://codersclan.net) - Become a verified coder and do coding tasks with bounty between 25USD and 800USD
-- [Domino](https://www.askdomino.com/freelancer) - Recommendation-only freelancing. Has a Slack channel for networking & discussions.
+- [Domino](https://www.wearedomino.com/freelancer) - Recommendation-only freelancing. Has a Slack channel for networking & discussions.
+- [Folyo](https://www.folyo.me) - Freelance Job listing board
 - [Nextspace](http://nextspace.us/) - (**US ONLY** [for now]) - A coworking space for entrepreneurs and developers to work and network
 - [PeoplePerHour](https://www.peopleperhour.com) - We help you start small, move fast and build it up!
 - [Remote|OK](https://remoteok.io/) - Let's find you a **job** you can do **anywhere**
