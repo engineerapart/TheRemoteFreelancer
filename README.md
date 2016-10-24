@@ -16,6 +16,9 @@ Also, if anyone would like to make a proper logo for this, I'd be eternally grat
 Thank you for looking :) Good hunting!
 
 # The List
+
+## English language
+
 - [Code Gophers](https://codegophers.com/) - Your personal army of programmers. Email us a programming task and we'll finish it in 48 hours. [Become a Gopher](https://codegophers.com/apply.html)
 - [PeoplePerHour](https://www.peopleperhour.com) - We help you start small, move fast and build it up!
 - [Remote|OK](https://remoteok.io/) - Let's find you a **job** you can do **anywhere**
@@ -29,6 +32,13 @@ Thank you for looking :) Good hunting!
 - [DOZ.com](https://www.doz.com) - Plan your digital marketing campaigns and outsource them to marketing pros.
 - [Pipeline](https://www.pipelinedaily.com/#why-use) - Sends curated projects to your inbox weekly. Made by freelancers for freelancers
 - [We Work Remotely](https://weworkremotely.com/) - Find jobs that aren't restricted by commutes or a particular geographic area.
+
+## French language
+
+- [Codeur](https://www.codeur.com/) - Leader in France.
+- [Hopwork](https://www.hopwork.fr/) - Is getting some tractions.
+
+
 
 ### License
 None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts. (Ok, officially, "The Unlicense")
