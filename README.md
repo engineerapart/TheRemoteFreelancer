@@ -28,4 +28,4 @@ Thank you for looking :) Good hunting!
 - [CodeMentor.io](https://codementor.io) - Get paid while making an impact. Become a Codementor for the next wave of makers.
 
 ### License
-None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts.
+None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts. (Ok, officially, "The Unlicense")
