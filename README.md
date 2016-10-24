@@ -53,6 +53,7 @@ Thank you for looking :) Good hunting!
 - [Jobscribe](http://jobscri.be/) - Get a daily email with remote jobs at tech startups.
 - [Remote Digest](http://remotedigest.com/) - Get weekly emails with awesome remote jobs for developers.
 - [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html) - Remote jobs for Go/Golang developers.
+- [Lightboard](https://lightboard.io) - bite-sized design projects (4-20hrs) for marketing and sales departments. Vetted clients, managed projects.
 
 ## French language
 
