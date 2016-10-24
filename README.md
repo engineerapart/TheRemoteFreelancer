@@ -34,6 +34,7 @@ Thank you for looking :) Good hunting!
 - [We Work Remotely](https://weworkremotely.com/) - Find jobs that aren't restricted by commutes or a particular geographic area.
 - [HackHands] (https://hackhands.com) - Live programming help. Get paid per minute, while helping other programmers.
 - [RemoteBase](https://remotebase.io/) - An Open Database of Remote Companies
+- [Freelancer.com](http://www.freelancer.com/) - Freelancer.com is the world's largest freelancing, outsourcing and crowdsourcing marketplace by number of users and projects.
 
 ## French language
 
