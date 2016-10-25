@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./RemoteFreelancer.png">
-</p>
+![RemoteFreelancer](./RemoteFreelancer.png)
 
 # The Remote Freelancer
 List of community-curated resources to find topical remote freelance &amp; contract work for software developers, web designers, and more!
@@ -27,7 +25,7 @@ Thank you for looking :) Good hunting!
 - [#frontenddevelopers.org](http://frontenddevelopers.org/) - A Slack powered community for creative developers to share knowledge
 - [Toptal](https://www.toptal.com/) - Hire the top 3% of freelance talent
 - [#freelance](http://freelance.chat/) - A community for freelancers on Slack
-- [Nextspace](http://nextspace.us/) - (**US ONLY** [for now]) - A coworking space for entrepreneurs and developers to work and network
+- [Nextspace](http://nextspace.us/) - (**US ONLY** for now) - A coworking space for entrepreneurs and developers to work and network
 - [CodeMentor.io](https://codementor.io) - Get paid while making an impact. Become a Codementor for the next wave of makers.
 - [DOZ.com](https://www.doz.com) - Plan your digital marketing campaigns and outsource them to marketing pros.
 - [Pipeline](https://www.pipelinedaily.com/#why-use) - Sends curated projects to your inbox weekly. Made by freelancers for freelancers
@@ -43,9 +41,9 @@ Thank you for looking :) Good hunting!
   span.description Remote jobs for designers.
 - [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)- Remote jobs for developers.
 - [Angel List Jobs](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D) - Apply privately to thousands of the best startup jobs.
-- [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote" - Features remote IT jobs in a standardized and detailed way.
+- [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) - Features remote IT jobs in a standardized and detailed way.
 - [ITflow](http://itflow.biz/) - ITflow - The best remote IT jobs.
-- [Jobbox](https://www.jobbox.io/offers?t=&amp;s=featured&amp;r=on) - Jobbox connects the best tech candidates with the best jobs.
+- [landing.jobs](https://landing.jobs/offers/?page=1&s=featured&s_l=0&s_h=100) - landing.jobs connects the best tech candidates with the best jobs.
 - [jobsRemotely](https://jobsremotely.com/remote/jobs) - Find jobs that are not restricted to a particular location.
 - [RemoteCoder](https://remotecoder.io/)- The place to find the best remote jobs.
 - [WFH](https://www.wfh.io/) - A job board focusing on remote jobs in the technology space.
