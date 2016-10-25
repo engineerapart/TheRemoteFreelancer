@@ -23,7 +23,7 @@ Thank you for looking :) Good hunting!
 - [PeoplePerHour](https://www.peopleperhour.com) - We help you start small, move fast and build it up!
 - [Remote|OK](https://remoteok.io/) - Let's find you a **job** you can do **anywhere**
 - [Working Nomads](http://www.workingnomads.co/jobs) - A curated list of remote jobs for the modern working nomad.
-- [Domino](https://www.askdomino.com/freelancer) - Recommendation-only freelancing. Has a Slack channel for networking & discussions.
+- [Domino](https://www.wearedomino.com/freelancer) - Recommendation-only freelancing. Has a Slack channel for networking & discussions.
 - [#frontenddevelopers.org](http://frontenddevelopers.org/) - A Slack powered community for creative developers to share knowledge
 - [Toptal](https://www.toptal.com/) - Hire the top 3% of freelance talent
 - [#freelance](http://freelance.chat/) - A community for freelancers on Slack
