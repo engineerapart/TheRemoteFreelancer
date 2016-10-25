@@ -40,7 +40,7 @@ Thank you for looking :) Good hunting!
 - [X-Team](http://x-team.com) - X-Team provides motivated developers, ready to join your team. We are the most developer-centric company for remote developers, helping them learn and grow like few tech companies have done before. "Work on incredible projects. Unelash your potential. From anywhere."
 - [Authentic Jobs](http://www.authenticjobs.com/#onlyremote=1") - Full-time and freelance job opportunities for creatives.
 - [Dribbble Jobs](https://dribbble.com/jobs?utf8=%E2%9C%93&amp;anywhere=true&amp;location=Anywhere")
-  span.description Remote jobs for designers.
+  Remote jobs for designers.
 - [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)- Remote jobs for developers.
 - [Angel List Jobs](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D) - Apply privately to thousands of the best startup jobs.
 - [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote" - Features remote IT jobs in a standardized and detailed way.
