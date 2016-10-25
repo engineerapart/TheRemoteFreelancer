@@ -39,15 +39,14 @@ Thank you for looking :) Good hunting!
 - [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com) - An extensive remote job board aggregator.
 - [X-Team](http://x-team.com) - X-Team provides motivated developers, ready to join your team. We are the most developer-centric company for remote developers, helping them learn and grow like few tech companies have done before. "Work on incredible projects. Unelash your potential. From anywhere."
 - [Authentic Jobs](http://www.authenticjobs.com/#onlyremote=1") - Full-time and freelance job opportunities for creatives.
-- [Dribbble Jobs](https://dribbble.com/jobs?utf8=%E2%9C%93&amp;anywhere=true&amp;location=Anywhere")
-  span.description Remote jobs for designers.
-- [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)- Remote jobs for developers.
+- [Dribbble Jobs](https://dribbble.com/jobs?utf8=%E2%9C%93&amp;anywhere=true&amp;location=Anywhere") - Remote jobs for designers.
+- [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote) - Remote jobs for developers.
 - [Angel List Jobs](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D) - Apply privately to thousands of the best startup jobs.
 - [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote" - Features remote IT jobs in a standardized and detailed way.
 - [ITflow](http://itflow.biz/) - ITflow - The best remote IT jobs.
 - [Jobbox](https://www.jobbox.io/offers?t=&amp;s=featured&amp;r=on) - Jobbox connects the best tech candidates with the best jobs.
 - [jobsRemotely](https://jobsremotely.com/remote/jobs) - Find jobs that are not restricted to a particular location.
-- [RemoteCoder](https://remotecoder.io/)- The place to find the best remote jobs.
+- [RemoteCoder](https://remotecoder.io/) - The place to find the best remote jobs.
 - [WFH](https://www.wfh.io/) - A job board focusing on remote jobs in the technology space.
 - [Jobmote](http://jobmote.com/) - Jobmote is a directory of IT career opportunities that allow you to work from home.
 - [Jobscribe](http://jobscri.be/) - Get a daily email with remote jobs at tech startups.
