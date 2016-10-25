@@ -59,5 +59,10 @@ Thank you for looking :) Good hunting!
 - [Codeur](https://www.codeur.com/) - Leader in France.
 - [Hopwork](https://www.hopwork.fr/) - Is getting some tractions.
 
+## Dutch language
+
+- [Freelance.nl](https://freelance.nl/) - Leader in the Netherlands.
+- [Marktplaats](http://klussen.marktplaats.nl/diensten-en-vakmensen/klussen/0) - Kind of like Craigslist.
+
 ### License
 None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts. (Ok, officially, "The Unlicense")
