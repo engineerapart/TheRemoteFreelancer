@@ -44,7 +44,6 @@ Thank you for looking :) Good hunting!
 - [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)- Remote jobs for developers.
 - [Angel List Jobs](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D) - Apply privately to thousands of the best startup jobs.
 - [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote" - Features remote IT jobs in a standardized and detailed way.
-- [ITflow](http://itflow.biz/) - ITflow - The best remote IT jobs.
 - [Jobbox](https://www.jobbox.io/offers?t=&amp;s=featured&amp;r=on) - Jobbox connects the best tech candidates with the best jobs.
 - [jobsRemotely](https://jobsremotely.com/remote/jobs) - Find jobs that are not restricted to a particular location.
 - [RemoteCoder](https://remotecoder.io/)- The place to find the best remote jobs.
