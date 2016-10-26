@@ -43,7 +43,7 @@ Thank you for looking :) Good hunting!
   span.description Remote jobs for designers.
 - [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)- Remote jobs for developers.
 - [Angel List Jobs](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D) - Apply privately to thousands of the best startup jobs.
-- [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote" - Features remote IT jobs in a standardized and detailed way.
+- [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) - Features remote IT jobs in a standardized and detailed way.
 - [ITflow](http://itflow.biz/) - ITflow - The best remote IT jobs.
 - [Jobbox](https://www.jobbox.io/offers?t=&amp;s=featured&amp;r=on) - Jobbox connects the best tech candidates with the best jobs.
 - [jobsRemotely](https://jobsremotely.com/remote/jobs) - Find jobs that are not restricted to a particular location.
@@ -58,6 +58,9 @@ Thank you for looking :) Good hunting!
 
 - [Codeur](https://www.codeur.com/) - Leader in France.
 - [Hopwork](https://www.hopwork.fr/) - Is getting some tractions.
+
+## Spanish language
+- [Freelancer MX](https://www.freelancer.mx) - <i>Contrata a freelancers expertos para tu trabajo en línea.</i>
 
 ### License
 None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts. (Ok, officially, "The Unlicense")
