@@ -53,6 +53,8 @@ Thank you for looking :) Good hunting!
 - [Jobscribe](http://jobscri.be/) - Get a daily email with remote jobs at tech startups.
 - [Remote Digest](http://remotedigest.com/) - Get weekly emails with awesome remote jobs for developers.
 - [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html) - Remote jobs for Go/Golang developers.
+- [Gun.io](https://gun.io/) - Gun.io is the world’s first network for freelance professionals.
+- [Coworks.com](https://coworks.com/for-freelancers/) - \#1 freelance work platform for the creative industries.
 
 ## French language
 
