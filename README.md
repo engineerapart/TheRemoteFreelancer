@@ -19,6 +19,7 @@ Thank you for looking :) Good hunting!
 
 ## English language
 
+- [10xmanagement](https://www.10xmanagement.com/) - Hire the Best Freelance Tech Talent. It has served customers like MIT, AMEX, yelp and even Google.
 - [Angel List Jobs](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D) - Apply privately to thousands of the best startup jobs.
 - [Authentic Jobs](http://www.authenticjobs.com/#onlyremote=1) - Full-time and freelance job opportunities for creatives.
 - [#freelance](http://freelance.chat/) - A community for freelancers on Slack
@@ -32,8 +33,8 @@ Thank you for looking :) Good hunting!
 - [Dribbble Jobs](https://dribbble.com/jobs?utf8=%E2%9C%93&amp;anywhere=true&amp;location=Anywhere) - Remote jobs for designers.
 - [Folyo](https://www.folyo.me) - Freelance Job listing board
 - [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html) - Remote jobs for Go/Golang developers.
+- [Guru.com](http://www.guru.com/) - Find & Hire Talented Freelancers. It also comes with [Guru Enterprise](http://www.guru.com/enterprise) to manage large number of freelancers or jobs.
 - [HackHands] (https://hackhands.com) - Live programming help. Get paid per minute, while helping other programmers.
-- [ITflow](http://itflow.biz/) - ITflow - The best remote IT jobs.
 - [Jobbox](https://www.jobbox.io/offers?t=&amp;s=featured&amp;r=on) - Jobbox connects the best tech candidates with the best jobs.
 - [Jobmote](http://jobmote.com/) - Jobmote is a directory of IT career opportunities that allow you to work from home.
 - [Jobscribe](http://jobscri.be/) - Get a daily email with remote jobs at tech startups.
