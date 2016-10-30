@@ -20,7 +20,7 @@ Thank you for looking :) Good hunting!
 ## English language
 
 - [Angel List Jobs](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D) - Apply privately to thousands of the best startup jobs.
-- [Authentic Jobs](http://www.authenticjobs.com/#onlyremote=1") - Full-time and freelance job opportunities for creatives.
+- [Authentic Jobs](http://www.authenticjobs.com/#onlyremote=1) - Full-time and freelance job opportunities for creatives.
 - [#freelance](http://freelance.chat/) - A community for freelancers on Slack
 - [#frontenddevelopers.org](http://frontenddevelopers.org/) - A Slack powered community for creative developers to share knowledge
 - [Code Gophers](https://codegophers.com/) - Your personal army of programmers. Email us a programming task and we'll finish it in 48 hours. [Become a Gopher](https://codegophers.com/apply.html)
@@ -29,7 +29,7 @@ Thank you for looking :) Good hunting!
 - [Crew](https://crew.co/) - Handpicked Freelance Web Designers & Develoeprs
 - [Domino](https://www.wearedomino.com/freelancer) - Recommendation-only freelancing. Has a Slack channel for networking & discussions.
 - [DOZ.com](https://www.doz.com) - Plan your digital marketing campaigns and outsource them to marketing pros.
-- [Dribbble Jobs](https://dribbble.com/jobs)
+- [Dribbble Jobs](https://dribbble.com/jobs?utf8=%E2%9C%93&amp;anywhere=true&amp;location=Anywhere) - Remote jobs for designers.
 - [Folyo](https://www.folyo.me) - Freelance Job listing board
 - [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html) - Remote jobs for Go/Golang developers.
 - [HackHands] (https://hackhands.com) - Live programming help. Get paid per minute, while helping other programmers.
