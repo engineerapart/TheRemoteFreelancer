@@ -35,25 +35,25 @@ Thank you for looking :) Good hunting!
 - [Folyo](https://www.folyo.me) - Freelance Job listing board
 - [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html) - Remote jobs for Go/Golang developers.
 - [Guru.com](http://www.guru.com/) - Find & Hire Talented Freelancers. It also comes with [Guru Enterprise](http://www.guru.com/enterprise) to manage large number of freelancers or jobs.
-- [HackHands] (https://hackhands.com) - Live programming help. Get paid per minute, while helping other programmers.
-- [Jobbox](https://www.jobbox.io/offers?t=&amp;s=featured&amp;r=on) - Jobbox connects the best tech candidates with the best jobs.
-- [Jobmote](http://jobmote.com/) - Jobmote is a directory of IT career opportunities that allow you to work from home.
+- [HackHands](https://hackhands.com) - Live programming help. Get paid per minute, while helping other programmers.
+- [Jobbox](https://www.jobbox.io/offers?t=&amp;s=featured&amp;r=on) - Connects the best tech candidates with the best jobs.
+- [Jobmote](http://jobmote.com/) - A directory of IT career opportunities that allow you to work from home.
 - [Jobscribe](http://jobscri.be/) - Get a daily email with remote jobs at tech startups.
 - [Lightboard](https://lightboard.io) - bite-sized design projects (4-20hrs) for marketing and sales departments. Vetted clients, managed projects.
 - [Loom](https://www.joinloom.com) - work-for-equity platform for entrepreneurs and developers.
 - [Nextspace](http://nextspace.us/) - A coworking space for entrepreneurs and developers to work and network (US only for now)
 - [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) - Features remote IT jobs in a standardized and detailed way.
 - [PeoplePerHour](https://www.peopleperhour.com) - We help you start small, move fast and build it up!
-- [Pilot](https://pilot.co/) - Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
+- [Pilot](https://pilot.co/) - A software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
 - [Pipeline](https://www.pipelinedaily.com/#why-use) - Sends curated projects to your inbox weekly. Made by freelancers for freelancers
 - [Remote|OK](https://remoteok.io/) - Let's find you a job you can do anywhere
-- [RemoteBase](https://remotebase.io/) - An Open Database of Remote Companies
+- [RemoteBase](https://remotebase.io/) - An open database of remote companies
 - [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com) - An extensive remote job board aggregator.
 - [Seven Days](https://www.sevendays.co/) - Where startups find talent
 - [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)- Remote jobs for developers.
 - [Toptal](https://www.toptal.com/) - Hire the top 3% of freelance talent
 - [We Work Remotely](https://weworkremotely.com/) - Find jobs that aren't restricted by commutes or a particular geographic area.
-- [X-Team](http://x-team.com) - X-Team provides motivated developers, ready to join your team. We are the most developer-centric company for remote developers, helping them learn and grow like few tech companies have done before. "Work on incredible projects. Unelash your potential. From anywhere."
+- [X-Team](http://x-team.com) - Provides motivated developers, ready to join your team. We are the most developer-centric company for remote developers, helping them learn and grow like few tech companies have done before. "Work on incredible projects. Unleash your potential. From anywhere."
 - [WFH](https://www.wfh.io/) - A job board focusing on remote jobs in the technology space.
 - [Working Nomads](http://www.workingnomads.co/jobs) - A curated list of remote jobs for the modern working nomad.
 
