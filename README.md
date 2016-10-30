@@ -32,6 +32,7 @@ Thank you for looking :) Good hunting!
 - [Domino](https://www.wearedomino.com/freelancer) - Recommendation-only freelancing. Has a Slack channel for networking & discussions.
 - [DOZ.com](https://www.doz.com) - Plan your digital marketing campaigns and outsource them to marketing pros.
 - [Dribbble Jobs](https://dribbble.com/jobs?utf8=%E2%9C%93&amp;anywhere=true&amp;location=Anywhere) - Remote jobs for designers.
+- [Flex Jobs](http://www.flexjobs.com) - Find telecommuting jobs and other great flexible jobs such as part-time jobs and freelance work.
 - [Folyo](https://www.folyo.me) - Freelance Job listing board
 - [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html) - Remote jobs for Go/Golang developers.
 - [Guru.com](http://www.guru.com/) - Find & Hire Talented Freelancers. It also comes with [Guru Enterprise](http://www.guru.com/enterprise) to manage large number of freelancers or jobs.
