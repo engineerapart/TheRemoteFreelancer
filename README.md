@@ -28,6 +28,7 @@ Thank you for looking :) Good hunting!
 - [Code Gophers](https://codegophers.com/) - Your personal army of programmers. Email us a programming task and we'll finish it in 48 hours. [Become a Gopher](https://codegophers.com/apply.html)
 - [CodeMentor.io](https://codementor.io) - Get paid while making an impact. Become a Codementor for the next wave of makers.
 - [CodersClan.net](https://codersclan.net) - Become a verified coder and do coding tasks with bounty between 25USD and 800USD
+- [Coworks.com](https://coworks.com/for-freelancers/) - \#1 freelance work platform for the creative industries.
 - [Crew](https://crew.co/) - Handpicked Freelance Web Designers & Develoeprs
 - [Domino](https://www.wearedomino.com/freelancer) - Recommendation-only freelancing. Has a Slack channel for networking & discussions.
 - [DOZ.com](https://www.doz.com) - Plan your digital marketing campaigns and outsource them to marketing pros.
@@ -36,6 +37,7 @@ Thank you for looking :) Good hunting!
 - [Flex Jobs](http://www.flexjobs.com) - Find telecommuting jobs and other great flexible jobs such as part-time jobs and freelance work.
 - [Folyo](https://www.folyo.me) - Freelance Job listing board
 - [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html) - Remote jobs for Go/Golang developers.
+- [Gun.io](https://gun.io/) - Gun.io is the world’s first network for freelance professionals.
 - [Guru.com](http://www.guru.com/) - Find & Hire Talented Freelancers. It also comes with [Guru Enterprise](http://www.guru.com/enterprise) to manage large number of freelancers or jobs.
 - [HackHands](https://hackhands.com) - Live programming help. Get paid per minute, while helping other programmers.
 - [Jobbox](https://www.jobbox.io/offers?t=&amp;s=featured&amp;r=on) - Connects the best tech candidates with the best jobs.
