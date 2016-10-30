@@ -56,7 +56,7 @@ Thank you for looking :) Good hunting!
 - [We Work Remotely](https://weworkremotely.com/) - Find jobs that aren't restricted by commutes or a particular geographic area.
 - [WFH](https://www.wfh.io/) - A job board focusing on remote jobs in the technology space.
 - [Working Nomads](http://www.workingnomads.co/jobs) - A curated list of remote jobs for the modern working nomad.
-- [X-Team](http://x-team.com) - X-Team provides motivated developers, ready to join your team. We are the most developer-centric company for remote developers, helping them learn and grow like few tech companies have done before. "Work on incredible projects. Unelash your potential. From anywhere."
+- [X-Team](http://x-team.com) - X-Team provides motivated developers, ready to join your team. We are the most developer-centric company for remote developers, helping them learn and grow like few tech companies have done before. "Work on incredible projects. Unleash your potential. From anywhere."
 
 ## French language
 
