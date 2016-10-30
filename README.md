@@ -39,6 +39,7 @@ Thank you for looking :) Good hunting!
 - [Jobscribe](http://jobscri.be/) - Get a daily email with remote jobs at tech startups.
 - [jobsRemotely](https://jobsremotely.com/remote/jobs) - Find jobs that are not restricted to a particular location.
 - [Lightboard](https://lightboard.io) - bite-sized design projects (4-20hrs) for marketing and sales departments. Vetted clients, managed projects.
+- [Loom](https://www.joinloom.com) - work-for-equity platform for entrepreneurs and developers.
 - [Nextspace](http://nextspace.us/) - (**US ONLY** [for now]) - A coworking space for entrepreneurs and developers to work and network
 - [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) - Features remote IT jobs in a standardized and detailed way.
 - [PeoplePerHour](https://www.peopleperhour.com) - We help you start small, move fast and build it up!
