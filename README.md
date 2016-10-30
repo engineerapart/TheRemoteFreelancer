@@ -34,7 +34,7 @@ Thank you for looking :) Good hunting!
 - [DOZ.com](https://www.doz.com) - Plan your digital marketing campaigns and outsource them to marketing pros.
 - [Dribbble Jobs](https://dribbble.com/jobs?utf8=%E2%9C%93&amp;anywhere=true&amp;location=Anywhere) - Remote jobs for designers.
 - [Fiverr](https://www.fiverr.com/) - A freelance plaform for several types of projects and skills.
-- [Flex Jobs](http://www.flexjobs.com) - Find telecommuting jobs and other great flexible jobs such as part-time jobs and freelance work.
+- [FlexJobs](https://www.flexjobs.com) - Membership site that posts professionally vetted remote, part-time, and flex opportunities. Not exclusive to engineering, but there are a large number of engineering and tech-related jobs on their board.
 - [Folyo](https://www.folyo.me) - Freelance Job listing board
 - [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html) - Remote jobs for Go/Golang developers.
 - [Gun.io](https://gun.io/) - Gun.io is the world’s first network for freelance professionals.
