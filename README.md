@@ -53,7 +53,7 @@ Thank you for looking :) Good hunting!
 - [Jobscribe](http://jobscri.be/) - Get a daily email with remote jobs at tech startups.
 - [Remote Digest](http://remotedigest.com/) - Get weekly emails with awesome remote jobs for developers.
 - [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html) - Remote jobs for Go/Golang developers.
-- [FlexJobs](https://www.flexjobs.com) - Membership site that posts professionally vetted remote opportunities. Not exclusive to engineering, but there a large number of engineering and tech-related jobs on their board.
+- [FlexJobs](https://www.flexjobs.com) - Membership site that posts professionally vetted remote, part-time, and flex opportunities. Not exclusive to engineering, but there are a large number of engineering and tech-related jobs on their board.
 
 ## French language
 
