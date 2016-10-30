@@ -69,5 +69,8 @@ Thank you for looking :) Good hunting!
 - [Freelance.nl](https://freelance.nl/) - Leader in the Netherlands.
 - [Marktplaats](http://klussen.marktplaats.nl/diensten-en-vakmensen/klussen/0) - Kind of like Craigslist.
 
+## Spanish language
+- [Freelancer MX](https://www.freelancer.mx) - Contrata a freelancers expertos para tu trabajo en línea.
+
 ### License
 None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts. (Ok, officially, "The Unlicense")
