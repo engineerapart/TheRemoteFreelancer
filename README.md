@@ -40,12 +40,12 @@ Thank you for looking :) Good hunting!
 - [jobsRemotely](https://jobsremotely.com/remote/jobs) - Find jobs that are not restricted to a particular location.
 - [Lightboard](https://lightboard.io) - bite-sized design projects (4-20hrs) for marketing and sales departments. Vetted clients, managed projects.
 - [Loom](https://www.joinloom.com) - work-for-equity platform for entrepreneurs and developers.
-- [Nextspace](http://nextspace.us/) - (**US ONLY** [for now]) - A coworking space for entrepreneurs and developers to work and network
+- [Nextspace](http://nextspace.us/) - A coworking space for entrepreneurs and developers to work and network (US only for now)
 - [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) - Features remote IT jobs in a standardized and detailed way.
 - [PeoplePerHour](https://www.peopleperhour.com) - We help you start small, move fast and build it up!
 - [Pilot](https://pilot.co/) - Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
 - [Pipeline](https://www.pipelinedaily.com/#why-use) - Sends curated projects to your inbox weekly. Made by freelancers for freelancers
-- [Remote|OK](https://remoteok.io/) - Let's find you a **job** you can do **anywhere**
+- [Remote|OK](https://remoteok.io/) - Let's find you a job you can do anywhere
 - [RemoteBase](https://remotebase.io/) - An Open Database of Remote Companies
 - [RemoteCoder](https://remotecoder.io/)- The place to find the best remote jobs.
 - [Remote Digest](http://remotedigest.com/) - Get weekly emails with awesome remote jobs for developers.
