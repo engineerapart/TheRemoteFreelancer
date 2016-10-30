@@ -24,6 +24,7 @@ Thank you for looking :) Good hunting!
 - [Authentic Jobs](http://www.authenticjobs.com/#onlyremote=1) - Full-time and freelance job opportunities for creatives.
 - [#freelance](http://freelance.chat/) - A community for freelancers on Slack
 - [#frontenddevelopers.org](http://frontenddevelopers.org/) - A Slack powered community for creative developers to share knowledge
+- [Codeable](https://codeable.io/) - Remote jobs for top WordPress developers.
 - [Code Gophers](https://codegophers.com/) - Your personal army of programmers. Email us a programming task and we'll finish it in 48 hours. [Become a Gopher](https://codegophers.com/apply.html)
 - [CodeMentor.io](https://codementor.io) - Get paid while making an impact. Become a Codementor for the next wave of makers.
 - [CodersClan.net](https://codersclan.net) - Become a verified coder and do coding tasks with bounty between 25USD and 800USD
@@ -50,14 +51,6 @@ Thank you for looking :) Good hunting!
 - [RemoteBase](https://remotebase.io/) - An Open Database of Remote Companies
 - [RemoteCoder](https://remotecoder.io/)- The place to find the best remote jobs.
 - [Remote Digest](http://remotedigest.com/) - Get weekly emails with awesome remote jobs for developers.
-- [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com) - An extensive remote job board aggregator.
-- [Seven Days](https://www.sevendays.co/) - Where startups find talent
-- [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)- Remote jobs for developers.
-- [Toptal](https://www.toptal.com/) - Hire the top 3% of freelance talent
-- [We Work Remotely](https://weworkremotely.com/) - Find jobs that aren't restricted by commutes or a particular geographic area.
-- [WFH](https://www.wfh.io/) - A job board focusing on remote jobs in the technology space.
-- [Working Nomads](http://www.workingnomads.co/jobs) - A curated list of remote jobs for the modern working nomad.
-- [X-Team](http://x-team.com) - X-Team provides motivated developers, ready to join your team. We are the most developer-centric company for remote developers, helping them learn and grow like few tech companies have done before. "Work on incredible projects. Unleash your potential. From anywhere."
 
 ## French language
 
