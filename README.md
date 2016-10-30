@@ -26,6 +26,7 @@ Thank you for looking :) Good hunting!
 - [Code Gophers](https://codegophers.com/) - Your personal army of programmers. Email us a programming task and we'll finish it in 48 hours. [Become a Gopher](https://codegophers.com/apply.html)
 - [CodeMentor.io](https://codementor.io) - Get paid while making an impact. Become a Codementor for the next wave of makers.
 - [CodersClan.net](https://codersclan.net) - Become a verified coder and do coding tasks with bounty between 25USD and 800USD
+- [Crew](https://crew.co/) - Handpicked Freelance Web Designers & Develoeprs
 - [Domino](https://www.wearedomino.com/freelancer) - Recommendation-only freelancing. Has a Slack channel for networking & discussions.
 - [DOZ.com](https://www.doz.com) - Plan your digital marketing campaigns and outsource them to marketing pros.
 - [Dribbble Jobs](https://dribbble.com/jobs)
@@ -48,6 +49,7 @@ Thank you for looking :) Good hunting!
 - [RemoteCoder](https://remotecoder.io/)- The place to find the best remote jobs.
 - [Remote Digest](http://remotedigest.com/) - Get weekly emails with awesome remote jobs for developers.
 - [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com) - An extensive remote job board aggregator.
+- [Seven Days](https://www.sevendays.co/) - Where startups find talent
 - [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)- Remote jobs for developers.
 - [Toptal](https://www.toptal.com/) - Hire the top 3% of freelance talent
 - [We Work Remotely](https://weworkremotely.com/) - Find jobs that aren't restricted by commutes or a particular geographic area.
