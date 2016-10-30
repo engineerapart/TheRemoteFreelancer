@@ -51,7 +51,7 @@ Thank you for looking :) Good hunting!
 - [RemoteBase](https://remotebase.io/) - An open database of remote companies
 - [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com) - An extensive remote job board aggregator.
 - [Seven Days](https://www.sevendays.co/) - Where startups find talent
-- [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)- Remote jobs for developers.
+- [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote) - Remote jobs for developers.
 - [Toptal](https://www.toptal.com/) - Hire the top 3% of freelance talent
 - [We Work Remotely](https://weworkremotely.com/) - Find jobs that aren't restricted by commutes or a particular geographic area.
 - [X-Team](http://x-team.com) - Provides motivated developers, ready to join your team. We are the most developer-centric company for remote developers, helping them learn and grow like few tech companies have done before. "Work on incredible projects. Unleash your potential. From anywhere."
