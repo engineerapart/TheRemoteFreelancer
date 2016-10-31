@@ -40,7 +40,8 @@ Thank you for looking :) Good hunting!
 - [Gun.io](https://gun.io/) - Gun.io is the world’s first network for freelance professionals.
 - [Guru.com](http://www.guru.com/) - Find & Hire Talented Freelancers. It also comes with [Guru Enterprise](http://www.guru.com/enterprise) to manage large number of freelancers or jobs.
 - [HackHands](https://hackhands.com) - Live programming help. Get paid per minute, while helping other programmers.
-- [Jobbox](https://www.jobbox.io/offers?t=&amp;s=featured&amp;r=on) - Connects the best tech candidates with the best jobs.
+- [Hired](https://hired.com/) - The marketplace where companies compete to hire top salespeople.
+- [Jobbox](https://www.jobbox.io/offers?t=&amp;s=featured&amp) - Connects the best tech candidates with the best jobs.
 - [Jobmote](http://jobmote.com/) - A directory of IT career opportunities that allow you to work from home.
 - [Jobscribe](http://jobscri.be/) - Get a daily email with remote jobs at tech startups.
 - [Lightboard](https://lightboard.io) - bite-sized design projects (4-20hrs) for marketing and sales departments. Vetted clients, managed projects.
