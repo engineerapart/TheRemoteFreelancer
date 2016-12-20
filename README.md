@@ -61,6 +61,7 @@ Thank you for looking :) Good hunting!
 - [X-Team](http://x-team.com) - Provides motivated developers, ready to join your team. We are the most developer-centric company for remote developers, helping them learn and grow like few tech companies have done before. "Work on incredible projects. Unleash your potential. From anywhere."
 - [WFH](https://www.wfh.io/) - A job board focusing on remote jobs in the technology space.
 - [Working Nomads](http://www.workingnomads.co/jobs) - A curated list of remote jobs for the modern working nomad.
+- [Freelance Per Hour](https://freelance-perhour.com) - A free to join jobs board specifically for Freelancers, full/part time and freelnace work.
 
 ## French language
 
