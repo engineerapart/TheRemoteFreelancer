@@ -50,7 +50,6 @@ Thank you for looking :) Good hunting!
 - [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) - Features remote IT jobs in a standardized and detailed way.
 - [PeoplePerHour](https://www.peopleperhour.com) - We help you start small, move fast and build it up!
 - [Pilot](https://pilot.co/) - A software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
-- [Pipeline](https://www.pipelinedaily.com/#why-use) - Sends curated projects to your inbox weekly. Made by freelancers for freelancers
 - [Remote|OK](https://remoteok.io/) - Let's find you a job you can do anywhere
 - [RemoteBase](https://remotebase.io/) - An open database of remote companies
 - [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com) - An extensive remote job board aggregator.
