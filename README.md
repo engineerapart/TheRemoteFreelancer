@@ -76,5 +76,8 @@ Thank you for looking :) Good hunting!
 ## Spanish language
 - [Freelancer MX](https://www.freelancer.mx) - Contrata a freelancers expertos para tu trabajo en línea.
 
+## Persian language
+- [Ponisha](http://ponisha.ir) - Ponisha is an online network for freelance professionals, in Iran. 
+
 ### License
 None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts. (Ok, officially, "The Unlicense")
