@@ -36,6 +36,7 @@ Thank you for looking :) Good hunting!
 - [Fiverr](https://www.fiverr.com/) - A freelance plaform for several types of projects and skills.
 - [FlexJobs](https://www.flexjobs.com) - Membership site that posts professionally vetted remote, part-time, and flex opportunities. Not exclusive to engineering, but there are a large number of engineering and tech-related jobs on their board.
 - [Folyo](https://www.folyo.me) - Freelance Job listing board
+- [Freelance Dev Leads](https://freelancedevleads.com/) - Freelance Developer projects collected from various online sources
 - [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html) - Remote jobs for Go/Golang developers.
 - [Gun.io](https://gun.io/) - Gun.io is the world’s first network for freelance professionals.
 - [Guru.com](http://www.guru.com/) - Find & Hire Talented Freelancers. It also comes with [Guru Enterprise](http://www.guru.com/enterprise) to manage large number of freelancers or jobs.
