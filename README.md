@@ -29,7 +29,7 @@ Thank you for looking :) Good hunting!
 - [CodeMentor.io](https://codementor.io) - Get paid while making an impact. Become a Codementor for the next wave of makers.
 - [CodersClan.net](https://codersclan.net) - Become a verified coder and do coding tasks with bounty between 25USD and 800USD
 - [Coworks.com](https://coworks.com/for-freelancers/) - \#1 freelance work platform for the creative industries.
-- [Crew](https://crew.co/) - Handpicked Freelance Web Designers & Develoeprs
+- [Crew](https://crew.co/) - Handpicked Freelance Web Designers & Developers
 - [Domino](https://www.wearedomino.com/freelancer) - Recommendation-only freelancing. Has a Slack channel for networking & discussions.
 - [DOZ.com](https://www.doz.com) - Plan your digital marketing campaigns and outsource them to marketing pros.
 - [Dribbble Jobs](https://dribbble.com/jobs?utf8=%E2%9C%93&amp;anywhere=true&amp;location=Anywhere) - Remote jobs for designers.
