@@ -62,6 +62,7 @@ Thank you for looking :) Good hunting!
 - [WFH](https://www.wfh.io/) - A job board focusing on remote jobs in the technology space.
 - [Working Nomads](http://www.workingnomads.co/jobs) - A curated list of remote jobs for the modern working nomad.
 - [Freelance Per Hour](https://freelance-perhour.com) - A free to join jobs board specifically for Freelancers, full/part time and freelnace work.
+- [Truelancer](https://www.truelancer.com) - Find Freelance Jobs Online - Truelancer.
 
 ## French language
 
