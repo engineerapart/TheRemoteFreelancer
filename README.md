@@ -53,6 +53,7 @@ Thank you for looking :) Good hunting!
 - [Pilot](https://pilot.co/) - A software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
 - [Remote|OK](https://remoteok.io/) - Let's find you a job you can do anywhere
 - [RemoteBase](https://remotebase.io/) - An open database of remote companies
+- [Remote Friendly](https://remotefriendly.work) - A jobs board for remote-friendly companies
 - [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com) - An extensive remote job board aggregator.
 - [Seven Days](https://www.sevendays.co/) - Where startups find talent
 - [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote) - Remote jobs for developers.
