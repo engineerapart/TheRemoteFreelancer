@@ -25,7 +25,6 @@ Thank you for looking :) Good hunting!
 - [#freelance](http://freelance.chat/) - A community for freelancers on Slack
 - [#frontenddevelopers.org](http://frontenddevelopers.org/) - A Slack powered community for creative developers to share knowledge
 - [Codeable](https://codeable.io/) - Remote jobs for top WordPress developers.
-- [Code Gophers](https://codegophers.com/) - Your personal army of programmers. Email us a programming task and we'll finish it in 48 hours. [Become a Gopher](https://codegophers.com/apply.html)
 - [CodeMentor.io](https://codementor.io) - Get paid while making an impact. Become a Codementor for the next wave of makers.
 - [CodersClan.net](https://codersclan.net) - Become a verified coder and do coding tasks with bounty between 25USD and 800USD
 - [Coworks.com](https://coworks.com/for-freelancers/) - \#1 freelance work platform for the creative industries.
