@@ -23,7 +23,7 @@ See [Why](#why) and [Contributing](#contributing)
 | [Angel List Jobs](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D)                         | 2,406                              | Jobs | Variety              |
 | [Hired](https://hired.com/)                                                                       | 22,504                             | Jobs | Software             |
 | [We Work Remotely](https://weworkremotely.com/)                                                   | 41,415                             | Jobs |                      |
-| [Remote|OK](https://remoteok.io/)                                                                 | 49,211                             | Jobs |                      |
+| [Remote OK](https://remoteok.io/)                                                                 | 49,211                             | Jobs |                      |
 | [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                         | 73,573                             | Jobs |                      |
 | [Authentic Jobs](http://www.authenticjobs.com/#onlyremote=1)                                      | 136,124                            | Jobs | Designers & Software |
 | [Working Nomads](http://www.workingnomads.co/jobs)                                                | 153,535                            | Jobs |                      |
