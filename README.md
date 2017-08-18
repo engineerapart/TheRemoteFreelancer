@@ -1,23 +1,9 @@
-<p align="center">
-  <img src="./RemoteFreelancer.png">
-</p>
-
 # The Remote Freelancer
 List of community-curated resources to find topical remote freelance &amp; contract work for software developers, web designers, and more!
 
-## Why
-This repo was inspired by [this Hacker News thread](https://news.ycombinator.com/item?id=12773282) about one software developer's experience with Upwork. For all those who have had bad experiences with Upwork, I wanted to create a list of additional resources that software developers can use to find freelance, nomadic and contract work.
+See [Why](#why) and [Contributing](#contributing)
 
-## Contributing
-Please please please contribute to the list! If you have freelance work available or know someone who does, feel free to open a pull request to augment this list! If PRs come in quite regularly, I'll bother to create a website and backend for it.
-
-Also, if anyone would like to make a proper logo for this, I'd be eternally grateful. I whipped this one together using [VennGage](https://venngage.com).
-
-Thank you for looking :) Good hunting!
-
-# The List
-
-## English language
+**English**
 
 - [10xmanagement](https://www.10xmanagement.com/) - Hire the Best Freelance Tech Talent. It has served customers like MIT, AMEX, yelp and even Google.
 - [Angel List Jobs](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D) - Apply privately to thousands of the best startup jobs.
@@ -65,21 +51,29 @@ Thank you for looking :) Good hunting!
 - [Working Nomads](http://www.workingnomads.co/jobs) - A curated list of remote jobs for the modern working nomad.
 - [Working Not Working](https://workingnotworking.com/) - A real-time network that connects the best creatives with the best companies.
 
-## French language
+**French**
 
 - [Codeur](https://www.codeur.com/) - Leader in France.
 - [Hopwork](https://www.hopwork.fr/) - Is getting some tractions.
 
-## Dutch language
+**Dutch**
 
 - [Freelance.nl](https://freelance.nl/) - Leader in the Netherlands.
 - [Marktplaats](http://klussen.marktplaats.nl/diensten-en-vakmensen/klussen/0) - Kind of like Craigslist.
 
-## Spanish language
+**Spanish**
 - [Freelancer MX](https://www.freelancer.mx) - Contrata a freelancers expertos para tu trabajo en línea.
 
-## Persian language
+**Persian**
 - [Ponisha](http://ponisha.ir) - Ponisha is an online network for freelance professionals, in Iran. 
 
-### License
+## Why
+This repo was inspired by [this Hacker News thread](https://news.ycombinator.com/item?id=12773282) about one software developer's experience with Upwork. For all those who have had bad experiences with Upwork, I wanted to create a list of additional resources that software developers can use to find freelance, nomadic and contract work.
+
+## Contributing
+Please please please contribute to the list! If you have freelance work available or know someone who does, feel free to open a pull request to augment this list!
+
+Thank you for looking :) Good hunting!
+
+## License
 None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts. (Ok, officially, "The Unlicense")
