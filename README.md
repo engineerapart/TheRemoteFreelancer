@@ -5,54 +5,65 @@ See [Why](#why) and [Contributing](#contributing)
 
 **English**
 
-| Name                                                                                              | Alexa Rank (Lower is more popular) |
-|---------------------------------------------------------------------------------------------------|------------------------------------|
-| [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)                            | 57                                 |
-| [Fiverr](https://www.fiverr.com/)                                                                 | 556                                |
-| [Upwork](https://upwork.com)                                                                      | 593                                |
-| [Dribbble Jobs](https://dribbble.com/jobs?utf8=%E2%9C%93&amp;anywhere=true&amp;location=Anywhere) | 1176                               |
-| [Angel List Jobs](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D)                         | 2406                               |
-| [Toptal](https://www.toptal.com/)                                                                 | 6431                               |
-| [PeoplePerHour](https://www.peopleperhour.com)                                                    | 6908                               |
-| [CodeMentor.io](https://codementor.io)                                                            | 10233                              |
-| [Guru.com](http://www.guru.com/)                                                                  | 13604                              |
-| [FlexJobs](https://www.flexjobs.com)                                                              | 20566                              |
-| [Hired](https://hired.com/)                                                                       | 22504                              |
-| [We Work Remotely](https://weworkremotely.com/)                                                   | 41415                              |
-| [Remote OK](https://remoteok.io/)                                                                 | 49211                              |
-| [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                         | 73573                              |
-| [Codeable](https://codeable.io/)                                                                  | 86665                              |
-| [Crew](https://crew.co/)                                                                          | 98419                              |
-| [Working Not Working](https://workingnotworking.com/)                                             | 116797                             |
-| [Authentic Jobs](http://www.authenticjobs.com/#onlyremote=1)                                      | 136124                             |
-| [HackHands](https://hackhands.com)                                                                | 138799                             |
-| [Working Nomads](http://www.workingnomads.co/jobs)                                                | 153535                             |
-| [X-Team](http://x-team.com)                                                                       | 174164                             |
-| [DOZ.com](https://www.doz.com)                                                                    | 280174                             |
-| [Gun.io](https://gun.io/)                                                                         | 306455                             |
-| [WFH](https://www.wfh.io/)                                                                        | 313488                             |
-| [CodersClan.net](https://codersclan.net)                                                          | 482254                             |
-| [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com)                                      | 552335                             |
-| [Lightboard](https://lightboard.io)                                                               | 590226                             |
-| [Nextspace](http://nextspace.us/)                                                                 | 823174                             |
-| [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html)                              | 844744                             |
-| [#freelance](http://freelance.chat/)                                                              | 861715                             |
-| [Moonlight](https://www.moonlightwork.com)                                                        | 944496                             |
-| [RemoteBase](https://remotebase.io/)                                                              | 962648                             |
-| [Pilot](https://pilot.co/)                                                                        | 1016443                            |
-| [Folyo](https://www.folyo.me)                                                                     | 1153666                            |
-| [10xmanagement](https://www.10xmanagement.com/)                                                   | 1169273                            |
-| [Coworks.com](https://coworks.com/for-freelancers/)                                               | 1260620                            |
-| [#frontenddevelopers.org](http://frontenddevelopers.org/)                                         | 1550259                            |
-| [Seven Days](https://www.sevendays.co/)                                                           | 1806718                            |
-| [Jobmote](http://jobmote.com/)                                                                    | 2133075                            |
-| [Remote Friendly](https://remotefriendly.work)                                                    | 3081421                            |
-| [Freelance Dev Leads](https://freelancedevleads.com/)                                             | 7021226                            |
-| [Domino](https://www.wearedomino.com/freelancer)                                                  | 9166876                            |
-| [Curated Jobs](http://curatedjobs.spirofloropoulos.com/)                                          | 10000000                           |
-| [Jobbox](https://www.jobbox.io/offers?t=&amp;s=featured&amp)                                      | 10000000                           |
-| [Jobscribe](http://jobscri.be/)                                                                   | 10000000                           |
-| [Loom](https://www.joinloom.com)                                                                  | 10000000                           |
+| Name                                           | Alexa Rank (Lower is more popular) | Type               | Type                 |
+|------------------------------------------------|------------------------------------|--------------------|----------------------|
+| [Upwork](https://upwork.com)                   | 593                                | Clients            | Software             |
+| [Toptal](https://www.toptal.com/)              | 6,431                              | Clients            | Designers & Software |
+| [PeoplePerHour](https://www.peopleperhour.com) | 6,908                              | Clients            | Designers            |
+| [CodeMentor.io](https://codementor.io)         | 10,233                             | Clients & Tutoring | Software             |
+| [Guru.com](http://www.guru.com/)               | 13,604                             | Clients            | Software             |
+| [FlexJobs](https://www.flexjobs.com)           | 20,566                             | Clients & Jobs     | Software             |
+| [Folyo](https://www.folyo.me)                  | 1,153,666                          | Clients            | Designers & Software |
+| [Loom](https://www.joinloom.com)               | 10,000,000                         | Clients            |                      |
+
+| Name                                                                                              | Alexa Rank (Lower is more popular) | Type | Type                 |
+|---------------------------------------------------------------------------------------------------|------------------------------------|------|----------------------|
+| [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)                            | 57                                 | Jobs | Software             |
+| [Dribbble Jobs](https://dribbble.com/jobs?utf8=%E2%9C%93&amp;anywhere=true&amp;location=Anywhere) | 1,176                              | Jobs | Designers            |
+| [Angel List Jobs](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D)                         | 2,406                              | Jobs | Variety              |
+| [Hired](https://hired.com/)                                                                       | 22,504                             | Jobs | Software             |
+| [We Work Remotely](https://weworkremotely.com/)                                                   | 41,415                             | Jobs |                      |
+| [Remote|OK](https://remoteok.io/)                                                                 | 49,211                             | Jobs |                      |
+| [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                         | 73,573                             | Jobs |                      |
+| [Authentic Jobs](http://www.authenticjobs.com/#onlyremote=1)                                      | 136,124                            | Jobs | Designers & Software |
+| [Working Nomads](http://www.workingnomads.co/jobs)                                                | 153,535                            | Jobs |                      |
+| [WFH](https://www.wfh.io/)                                                                        | 313,488                            | Jobs | Software             |
+| [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com)                                      | 552,335                            | Jobs |                      |
+| [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html)                              | 844,744                            | Jobs | Golang developers    |
+| [RemoteBase](https://remotebase.io/)                                                              | 962,648                            | Jobs | Software             |
+| [Coworks.com](https://coworks.com/for-freelancers/)                                               | 1,260,620                          | Jobs |                      |
+| [Seven Days](https://www.sevendays.co/)                                                           | 1,806,718                          | Jobs |                      |
+| [Jobmote](http://jobmote.com/)                                                                    | 2,133,075                          | Jobs |                      |
+| [Remote Friendly](https://remotefriendly.work)                                                    | 3,081,421                          | Jobs |                      |
+| [Freelance Dev Leads](https://freelancedevleads.com/)                                             | 7,021,226                          | Jobs |                      |
+| [Curated Jobs](http://curatedjobs.spirofloropoulos.com/)                                          | 10,000,000                         | Jobs |                      |
+| [Jobbox](https://www.jobbox.io/offers?t=&amp;s=featured&amp)                                      | 10,000,000                         | Jobs |                      |
+| [Jobscribe](http://jobscri.be/)                                                                   | 10,000,000                         | Jobs |                      |
+
+| Name                                                      | Alexa Rank (Lower is more popular) | Type      | Type     |
+|-----------------------------------------------------------|------------------------------------|-----------|----------|
+| [#freelance](http://freelance.chat/)                      | 861,715                            | Community | Software |
+| [#frontenddevelopers.org](http://frontenddevelopers.org/) | 1,550,259                          | Community |          |
+| [Domino](https://www.wearedomino.com/freelancer)          | 9,166,876                          | Community |          |
+| [Fiverr](https://www.fiverr.com/)                         | 556                                | Gigs      | Variety  |
+| [HackHands](https://hackhands.com)                        | 138,799                            | Tutoring  |          |
+
+
+| Name                                                  | Alexa Rank (Lower is more popular) | Type   | Type                          |
+|-------------------------------------------------------|------------------------------------|--------|-------------------------------|
+| [Codeable](https://codeable.io/)                      | 86,665                             | Agency | Wordpress software developers |
+| [Crew](https://crew.co/)                              | 98,419                             | Agency |                               |
+| [Working Not Working](https://workingnotworking.com/) | 116,797                            | Agency |                               |
+| [X-Team](http://x-team.com)                           | 174,164                            | Agency |                               |
+| [DOZ.com](https://www.doz.com)                        | 280,174                            | Agency | Marketing                     |
+| [Gun.io](https://gun.io/)                             | 306,455                            | Agency | Software                      |
+| [CodersClan.net](https://codersclan.net)              | 482,254                            | Agency |                               |
+| [Lightboard](https://lightboard.io)                   | 590,226                            | Agency | Designers                     |
+| [Moonlight](https://www.moonlightwork.com)            | 944,496                            | Agency | Software                      |
+| [Pilot](https://pilot.co/)                            | 1,016,443                          | Agency | Software                      |
+| [10xmanagement](https://www.10xmanagement.com/)       | 1,169,273                          | Agency | Designers & Software          |
+
+
 
 **French**
 
