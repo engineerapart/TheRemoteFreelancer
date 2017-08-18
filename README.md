@@ -5,51 +5,54 @@ See [Why](#why) and [Contributing](#contributing)
 
 **English**
 
-- [10xmanagement](https://www.10xmanagement.com/) - Hire the Best Freelance Tech Talent. It has served customers like MIT, AMEX, yelp and even Google.
-- [Angel List Jobs](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D) - Apply privately to thousands of the best startup jobs.
-- [Authentic Jobs](http://www.authenticjobs.com/#onlyremote=1) - Full-time and freelance job opportunities for creatives.
-- [#freelance](http://freelance.chat/) - A community for freelancers on Slack
-- [#frontenddevelopers.org](http://frontenddevelopers.org/) - A Slack powered community for creative developers to share knowledge
-- [Codeable](https://codeable.io/) - Remote jobs for top WordPress developers.
-- [CodeMentor.io](https://codementor.io) - Get paid while making an impact. Become a Codementor for the next wave of makers.
-- [CodersClan.net](https://codersclan.net) - Become a verified coder and do coding tasks with bounty between 25USD and 800USD
-- [Coworks.com](https://coworks.com/for-freelancers/) - \#1 freelance work platform for the creative industries.
-- [Crew](https://crew.co/) - Handpicked Freelance Web Designers & Developers
-- [Curated Jobs](http://curatedjobs.spirofloropoulos.com/) - A curated free job board for web and tech space.
-- [Domino](https://www.wearedomino.com/freelancer) - Recommendation-only freelancing. Has a Slack channel for networking & discussions.
-- [DOZ.com](https://www.doz.com) - Plan your digital marketing campaigns and outsource them to marketing pros.
-- [Dribbble Jobs](https://dribbble.com/jobs?utf8=%E2%9C%93&amp;anywhere=true&amp;location=Anywhere) - Remote jobs for designers.
-- [Fiverr](https://www.fiverr.com/) - A freelance plaform for several types of projects and skills.
-- [FlexJobs](https://www.flexjobs.com) - Membership site that posts professionally vetted remote, part-time, and flex opportunities. Not exclusive to engineering, but there are a large number of engineering and tech-related jobs on their board.
-- [Folyo](https://www.folyo.me) - Freelance Job listing board
-- [Freelance Dev Leads](https://freelancedevleads.com/) - Freelance Developer projects collected from various online sources
-- [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html) - Remote jobs for Go/Golang developers.
-- [Gun.io](https://gun.io/) - Gun.io is the world’s first network for freelance professionals.
-- [Guru.com](http://www.guru.com/) - Find & Hire Talented Freelancers. It also comes with [Guru Enterprise](http://www.guru.com/enterprise) to manage large number of freelancers or jobs.
-- [HackHands](https://hackhands.com) - Live programming help. Get paid per minute, while helping other programmers.
-- [Hired](https://hired.com/) - The marketplace where companies compete to hire top salespeople.
-- [Jobbox](https://www.jobbox.io/offers?t=&amp;s=featured&amp) - Connects the best tech candidates with the best jobs.
-- [Jobmote](http://jobmote.com/) - A directory of IT career opportunities that allow you to work from home.
-- [Jobscribe](http://jobscri.be/) - Get a daily email with remote jobs at tech startups.
-- [Lightboard](https://lightboard.io) - bite-sized design projects (4-20hrs) for marketing and sales departments. Vetted clients, managed projects.
-- [Loom](https://www.joinloom.com) - work-for-equity platform for entrepreneurs and developers.
-- [Moonlight](https://www.moonlightwork.com) - Hire expert software engineers as part-time consultants.
-- [Nextspace](http://nextspace.us/) - A coworking space for entrepreneurs and developers to work and network (US only for now)
-- [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) - Features remote IT jobs in a standardized and detailed way.
-- [PeoplePerHour](https://www.peopleperhour.com) - We help you start small, move fast and build it up!
-- [Pilot](https://pilot.co/) - A software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
-- [Remote|OK](https://remoteok.io/) - Let's find you a job you can do anywhere
-- [RemoteBase](https://remotebase.io/) - An open database of remote companies
-- [Remote Friendly](https://remotefriendly.work) - A jobs board for remote-friendly companies
-- [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com) - An extensive remote job board aggregator.
-- [Seven Days](https://www.sevendays.co/) - Where startups find talent
-- [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote) - Remote jobs for developers.
-- [Toptal](https://www.toptal.com/) - Hire the top 3% of freelance talent
-- [We Work Remotely](https://weworkremotely.com/) - Find jobs that aren't restricted by commutes or a particular geographic area.
-- [X-Team](http://x-team.com) - Provides motivated developers, ready to join your team. We are the most developer-centric company for remote developers, helping them learn and grow like few tech companies have done before. "Work on incredible projects. Unleash your potential. From anywhere."
-- [WFH](https://www.wfh.io/) - A job board focusing on remote jobs in the technology space.
-- [Working Nomads](http://www.workingnomads.co/jobs) - A curated list of remote jobs for the modern working nomad.
-- [Working Not Working](https://workingnotworking.com/) - A real-time network that connects the best creatives with the best companies.
+| Name                                                                                              | Alexa Rank (Lower is more popular) |
+|---------------------------------------------------------------------------------------------------|------------------------------------|
+| [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)                            | 57                                 |
+| [Fiverr](https://www.fiverr.com/)                                                                 | 556                                |
+| [Upwork](https://upwork.com)                                                                      | 593                                |
+| [Dribbble Jobs](https://dribbble.com/jobs?utf8=%E2%9C%93&amp;anywhere=true&amp;location=Anywhere) | 1176                               |
+| [Angel List Jobs](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D)                         | 2406                               |
+| [Toptal](https://www.toptal.com/)                                                                 | 6431                               |
+| [PeoplePerHour](https://www.peopleperhour.com)                                                    | 6908                               |
+| [CodeMentor.io](https://codementor.io)                                                            | 10233                              |
+| [Guru.com](http://www.guru.com/)                                                                  | 13604                              |
+| [FlexJobs](https://www.flexjobs.com)                                                              | 20566                              |
+| [Hired](https://hired.com/)                                                                       | 22504                              |
+| [We Work Remotely](https://weworkremotely.com/)                                                   | 41415                              |
+| [Remote|OK](https://remoteok.io/)                                                                 | 49211                              |
+| [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                         | 73573                              |
+| [Codeable](https://codeable.io/)                                                                  | 86665                              |
+| [Crew](https://crew.co/)                                                                          | 98419                              |
+| [Working Not Working](https://workingnotworking.com/)                                             | 116797                             |
+| [Authentic Jobs](http://www.authenticjobs.com/#onlyremote=1)                                      | 136124                             |
+| [HackHands](https://hackhands.com)                                                                | 138799                             |
+| [Working Nomads](http://www.workingnomads.co/jobs)                                                | 153535                             |
+| [X-Team](http://x-team.com)                                                                       | 174164                             |
+| [DOZ.com](https://www.doz.com)                                                                    | 280174                             |
+| [Gun.io](https://gun.io/)                                                                         | 306455                             |
+| [WFH](https://www.wfh.io/)                                                                        | 313488                             |
+| [CodersClan.net](https://codersclan.net)                                                          | 482254                             |
+| [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com)                                      | 552335                             |
+| [Lightboard](https://lightboard.io)                                                               | 590226                             |
+| [Nextspace](http://nextspace.us/)                                                                 | 823174                             |
+| [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html)                              | 844744                             |
+| [#freelance](http://freelance.chat/)                                                              | 861715                             |
+| [Moonlight](https://www.moonlightwork.com)                                                        | 944496                             |
+| [RemoteBase](https://remotebase.io/)                                                              | 962648                             |
+| [Pilot](https://pilot.co/)                                                                        | 1016443                            |
+| [Folyo](https://www.folyo.me)                                                                     | 1153666                            |
+| [10xmanagement](https://www.10xmanagement.com/)                                                   | 1169273                            |
+| [Coworks.com](https://coworks.com/for-freelancers/)                                               | 1260620                            |
+| [#frontenddevelopers.org](http://frontenddevelopers.org/)                                         | 1550259                            |
+| [Seven Days](https://www.sevendays.co/)                                                           | 1806718                            |
+| [Jobmote](http://jobmote.com/)                                                                    | 2133075                            |
+| [Remote Friendly](https://remotefriendly.work)                                                    | 3081421                            |
+| [Freelance Dev Leads](https://freelancedevleads.com/)                                             | 7021226                            |
+| [Domino](https://www.wearedomino.com/freelancer)                                                  | 9166876                            |
+| [Curated Jobs](http://curatedjobs.spirofloropoulos.com/)                                          | 10000000                           |
+| [Jobbox](https://www.jobbox.io/offers?t=&amp;s=featured&amp)                                      | 10000000                           |
+| [Jobscribe](http://jobscri.be/)                                                                   | 10000000                           |
+| [Loom](https://www.joinloom.com)                                                                  | 10000000                           |
 
 **French**
 
