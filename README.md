@@ -33,6 +33,7 @@ Thank you for looking :) Good hunting!
 - [Domino](https://www.wearedomino.com/freelancer) - Recommendation-only freelancing. Has a Slack channel for networking & discussions.
 - [DOZ.com](https://www.doz.com) - Plan your digital marketing campaigns and outsource them to marketing pros.
 - [Dribbble Jobs](https://dribbble.com/jobs?utf8=%E2%9C%93&amp;anywhere=true&amp;location=Anywhere) - Remote jobs for designers.
+- [Europe Remotely](http://europeremotely.com/) - Weekly newsletter with remote jobs for developers based in Europe.
 - [Fiverr](https://www.fiverr.com/) - A freelance plaform for several types of projects and skills.
 - [FlexJobs](https://www.flexjobs.com) - Membership site that posts professionally vetted remote, part-time, and flex opportunities. Not exclusive to engineering, but there are a large number of engineering and tech-related jobs on their board.
 - [Folyo](https://www.folyo.me) - Freelance Job listing board
