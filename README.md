@@ -19,7 +19,7 @@ See [Why](#why) and [Contributing](#contributing)
 | [FlexJobs](https://www.flexjobs.com)                                                              | 20566                              |
 | [Hired](https://hired.com/)                                                                       | 22504                              |
 | [We Work Remotely](https://weworkremotely.com/)                                                   | 41415                              |
-| [Remote|OK](https://remoteok.io/)                                                                 | 49211                              |
+| [Remote OK](https://remoteok.io/)                                                                 | 49211                              |
 | [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                         | 73573                              |
 | [Codeable](https://codeable.io/)                                                                  | 86665                              |
 | [Crew](https://crew.co/)                                                                          | 98419                              |
