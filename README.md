@@ -25,11 +25,11 @@ Thank you for looking :) Good hunting!
 - [#freelance](http://freelance.chat/) - A community for freelancers on Slack
 - [#frontenddevelopers.org](http://frontenddevelopers.org/) - A Slack powered community for creative developers to share knowledge
 - [Codeable](https://codeable.io/) - Remote jobs for top WordPress developers.
-- [Code Gophers](https://codegophers.com/) - Your personal army of programmers. Email us a programming task and we'll finish it in 48 hours. [Become a Gopher](https://codegophers.com/apply.html)
 - [CodeMentor.io](https://codementor.io) - Get paid while making an impact. Become a Codementor for the next wave of makers.
 - [CodersClan.net](https://codersclan.net) - Become a verified coder and do coding tasks with bounty between 25USD and 800USD
 - [Coworks.com](https://coworks.com/for-freelancers/) - \#1 freelance work platform for the creative industries.
 - [Crew](https://crew.co/) - Handpicked Freelance Web Designers & Developers
+- [Curated Jobs](http://curatedjobs.spirofloropoulos.com/) - A curated free job board for web and tech space.
 - [Domino](https://www.wearedomino.com/freelancer) - Recommendation-only freelancing. Has a Slack channel for networking & discussions.
 - [DOZ.com](https://www.doz.com) - Plan your digital marketing campaigns and outsource them to marketing pros.
 - [Dribbble Jobs](https://dribbble.com/jobs?utf8=%E2%9C%93&amp;anywhere=true&amp;location=Anywhere) - Remote jobs for designers.
@@ -53,6 +53,7 @@ Thank you for looking :) Good hunting!
 - [Pilot](https://pilot.co/) - A software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
 - [Remote|OK](https://remoteok.io/) - Let's find you a job you can do anywhere
 - [RemoteBase](https://remotebase.io/) - An open database of remote companies
+- [Remote Friendly](https://remotefriendly.work) - A jobs board for remote-friendly companies
 - [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com) - An extensive remote job board aggregator.
 - [Seven Days](https://www.sevendays.co/) - Where startups find talent
 - [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote) - Remote jobs for developers.
@@ -62,7 +63,6 @@ Thank you for looking :) Good hunting!
 - [WFH](https://www.wfh.io/) - A job board focusing on remote jobs in the technology space.
 - [Working Nomads](http://www.workingnomads.co/jobs) - A curated list of remote jobs for the modern working nomad.
 - [Working Not Working](https://workingnotworking.com/) - A real-time network that connects the best creatives with the best companies.
-- [Freelance Per Hour](https://freelance-perhour.com) - A free to join jobs board specifically for Freelancers, full/part time and freelnace work.
 
 ## French language
 
