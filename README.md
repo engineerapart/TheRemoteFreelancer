@@ -13,6 +13,7 @@ See [Why](#why) and [Contributing](#contributing)
 | [CodeMentor.io](https://codementor.io)         | 10,233                             | Clients & Tutoring | Software             |
 | [Guru.com](http://www.guru.com/)               | 13,604                             | Clients            | Software             |
 | [FlexJobs](https://www.flexjobs.com)           | 20,566                             | Clients & Jobs     | Software             |
+| [Moonlight](https://www.moonlightwork.com)            | 944,496                            | Clients | Software                      |
 | [Folyo](https://www.folyo.me)                  | 1,153,666                          | Clients            | Designers & Software |
 | [Loom](https://www.joinloom.com)               | 10,000,000                         | Clients            |                      |
 
@@ -59,7 +60,6 @@ See [Why](#why) and [Contributing](#contributing)
 | [Gun.io](https://gun.io/)                             | 306,455                            | Agency | Software                      |
 | [CodersClan.net](https://codersclan.net)              | 482,254                            | Agency |                               |
 | [Lightboard](https://lightboard.io)                   | 590,226                            | Agency | Designers                     |
-| [Moonlight](https://www.moonlightwork.com)            | 944,496                            | Agency | Software                      |
 | [Pilot](https://pilot.co/)                            | 1,016,443                          | Agency | Software                      |
 | [10xmanagement](https://www.10xmanagement.com/)       | 1,169,273                          | Agency | Designers & Software          |
 
