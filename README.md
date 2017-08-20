@@ -13,7 +13,7 @@ See [Why](#why) and [Contributing](#contributing)
 | [CodeMentor.io](https://codementor.io)         | 10,233                             | Clients & Tutoring | Software             |
 | [Guru.com](http://www.guru.com/)               | 13,604                             | Clients            | Software             |
 | [FlexJobs](https://www.flexjobs.com)           | 20,566                             | Clients & Jobs     | Software             |
-| [Truelancer](https://www.truelancer.com/)      | 40,076                             | Clients & Jobs     | Software & Designers |
+| [Truelancer](https://www.truelancer.com/)      | 40,076                             | Clients & Jobs     | Designers & Software |
 | [Moonlight](https://www.moonlightwork.com)            | 944,496                            | Clients | Software                      |
 | [Folyo](https://www.folyo.me)                  | 1,153,666                          | Clients            | Designers & Software |
 | [Loom](https://www.joinloom.com)               | 10,000,000                         | Clients            |                      |
