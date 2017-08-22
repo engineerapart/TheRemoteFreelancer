@@ -64,6 +64,7 @@ See [Why](#why) and [Contributing](#contributing)
 | [Pilot](https://pilot.co/)                            | 1,016,443                          | Agency | Software                      |
 | [10xmanagement](https://www.10xmanagement.com/)       | 1,169,273                          | Agency | Designers & Software          |
 
+**French**
 
 - [Codeur](https://www.codeur.com/) - Leader in France.
 - [Hopwork](https://www.hopwork.fr/) - Is getting some tractions.
