@@ -14,8 +14,9 @@ See [Why](#why) and [Contributing](#contributing)
 | [Guru.com](http://www.guru.com/)               | 13,604                             | Clients            | Software             |
 | [FlexJobs](https://www.flexjobs.com)           | 20,566                             | Clients & Jobs     | Software             |
 | [Truelancer](https://www.truelancer.com/)      | 40,076                             | Clients & Jobs     | Designers & Software |
-| [Moonlight](https://www.moonlightwork.com)            | 944,496                            | Clients | Software                      |
+| [Moonlight](https://www.moonlightwork.com)     | 944,496                            | Clients            | Software             |
 | [Folyo](https://www.folyo.me)                  | 1,153,666                          | Clients            | Designers & Software |
+| [Certace](https://www.certace.com)             | 8,721,268                          | Clients            | Data Science / ML    |
 | [Loom](https://www.joinloom.com)               | 10,000,000                         | Clients            |                      |
 
 | Name                                                                                              | Alexa Rank (Lower is more popular) | Type | Type                 |
