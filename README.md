@@ -72,7 +72,7 @@ See [Why](#why) and [Contributing](#contributing)
 - [Marktplaats](http://klussen.marktplaats.nl/diensten-en-vakmensen/klussen/0) - Kind of like Craigslist.
 
 **Spanish**
-- [Freelancer MX](https://www.freelancer.mx) - Contrata a freelancers expertos para tu trabajo en l?nea.
+- [Freelancer MX](https://www.freelancer.mx) - Contrata a freelancers expertos para tu trabajo en línea.
 
 **Persian**
 - [Ponisha](http://ponisha.ir) - Ponisha is an online network for freelance professionals, in Iran. 
