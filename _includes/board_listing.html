@@ -1,26 +1,29 @@
 {% assign current_section = "!" %}
-<table class="board-listing">
-{% for listing in site.data.data %}
-	{% if include.filter == undefined or listing.hiringtype contains include.filter %}
-	{% if current_section != listing.section %}
-		{% assign current_section = listing.section %}
-		<tr>
-		<th colspan="0"><h2>{{current_section}}</h2></th>
-		</tr>
-		
-		<tr>
-		<th>Name</th>
-		<th>Alexa Rank</th>
-		<th></th>
-		<th>Hires these Types</th>
-		</tr>
-	{% endif %}
-	<tr>
-		<td><img src="/icons/{{listing.netloc}}.ico" class="favicon"/><a href="{{listing.url}}">{{listing.name}}</a></td>
-		<td>{{listing.rank}}</td>
-		<td>{% if listing.type != current_section %}{{listing.type|remove_first:current_section}}{% endif %}</td>
-		<td>{{listing.hiringtype}}</td>
-	</tr>
-	{% endif %}
-{% endfor %}
-</table>  
+<div class="underline-table">
+    <table class="board-listing">
+        {% for listing in site.data.data %}
+        {% if include.filter == undefined or listing.hiringtype contains include.filter %}
+        {% if current_section != listing.section %}
+        {% assign current_section = listing.section %}
+        <tr>
+            <th colspan="0"><h2>{{current_section}}</h2></th>
+        </tr>
+
+        <tr>
+            <th>Name</th>
+            <th>Alexa Rank</th>
+            <th></th>
+            <th>Hires these Types</th>
+        </tr>
+        {% endif %}
+        <tr>
+            <td><img src="/icons/{{listing.netloc}}.ico" class="favicon"/><a href="{{listing.url}}">{{listing.name}}</a>
+            </td>
+            <td>{{listing.rank}}</td>
+            <td>{% if listing.type != current_section %}{{listing.type|remove_first:current_section}}{% endif %}</td>
+            <td>{{listing.hiringtype}}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+    </table>
+</div>

@@ -9,8 +9,8 @@ table h2 {
 }
 
 .favicon {
-  width: 16px; 
-  height: 16px; 
+  width: 16px;
+  height: 16px;
   margin-right: 10px;
   border-radius: 2px;
 }
@@ -26,55 +26,56 @@ table h2 {
   }
 }
 
-table {
-  text-align: left;
-  line-height: 40px;
-  border-collapse: separate;
-  border-spacing: 0;
-  border-radius: .25rem;
-  width: 100%;
-}
+.underline-table {
+  table {
+    text-align: left;
+    line-height: 40px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: .25rem;
+    width: 100%;
+  }
 
-@media only screen and (max-width: 640px) {
+  @media only screen and (max-width: 640px) {
     table {
       font-size: 3vw;
     }
-}
+  }
 
-thead tr:first-child {
-  background: #ed1c40;
-  color: #fff;
-  border: none;
-}
+  thead tr:first-child {
+    background: #ed1c40;
+    color: #fff;
+    border: none;
+  }
 
-thead tr:last-child th {
-  border-bottom: 3px solid #ddd;
-}
+  thead tr:last-child th {
+    border-bottom: 3px solid #ddd;
+  }
 
+  tbody tr:last-child td {
+    border: none;
+  }
 
-tbody tr:last-child td {
-  border: none;
-}
+  tbody td {
+    border-bottom: 1px solid #ddd;
+  }
 
-tbody td {
-  border-bottom: 1px solid #ddd;
-}
+  td:last-child {
+    text-align: right;
+    padding-right: 10px;
+  }
 
-td:last-child {
-  text-align: right;
-  padding-right: 10px;
-}
+  .button {
+    color: #aaa;
+    cursor: pointer;
+    vertical-align: middle;
+  }
 
-.button {
-  color: #aaa;
-  cursor: pointer;
-  vertical-align: middle;
-}
+  .edit:hover {
+    color: #0a79df;
+  }
 
-.edit:hover {
-  color: #0a79df;
-}
-
-.delete:hover {
-  color: #dc2a2a;
+  .delete:hover {
+    color: #dc2a2a;
+  }
 }
