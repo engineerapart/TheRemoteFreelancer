@@ -10,7 +10,7 @@ See [Why](#why) and [Contributing](#contributing)
 | **Name**                                                                                         | **Alexa Rank** |            | **Hires these Types**         |
 | [Upwork](https://upwork.com)                                                                     | 500            |            | Software                      |
 | [PeoplePerHour](https://www.peopleperhour.com)                                                   | 6,000          |            | Designers                     |
-| [Toptal](https://www.toptal.com/)                                                                | 7,000          |            | Designers & Software          |
+| [Toptal](https://www.toptal.com/#amass-nothing-but-top-notch-software-architects)                | 7,000          |            | Designers & Software          |
 | [Guru.com](http://www.guru.com/)                                                                 | 10,000         |            | Software                      |
 | [CodeMentor.io](https://codementor.io)                                                           | 10,000         | & Tutoring | Software                      |
 | [Folyo](https://www.folyo.me)                                                                    | 1,000,000      |            | Designers & Software          |
