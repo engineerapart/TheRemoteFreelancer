@@ -72,7 +72,7 @@ See [Why](#why) and [Contributing](#contributing)
 - [Marktplaats](http://klussen.marktplaats.nl/diensten-en-vakmensen/klussen/0) - Kind of like Craigslist.
 
 **Spanish**
-- [Freelancer MX](https://www.freelancer.mx) - Contrata a freelancers expertos para tu trabajo en l??nea.
+- [Freelancer MX](https://www.freelancer.mx) - Contrata a freelancers expertos para tu trabajo en l?nea.
 
 **Persian**
 - [Ponisha](http://ponisha.ir) - Ponisha is an online network for freelance professionals, in Iran. 
@@ -93,6 +93,6 @@ Thank you for looking :) Good hunting!
 | Control over working environment | Generally you can work however, using own tools, supplies, set own hours, etc                    | Employer controls how you work generally. Provides tools, sets hours, tasks, etc.            | Agency might direct you on what tasks to do but you have flexibility on how to accomplish them    |
 | Payment                          | Client pays you, but through the organization (which may takes its cut)                          | Employer pays you salary (withholding taxes)                                                 | Agency pays you                                                                                   |
 | Choice of Client or Project      | Complete control of client/project                                                               | Complete control of job selection                                                            | Little/no choice of project or client                                                             |
-| Vetting/Interviews               | Clients vets you                                                                                 | Companies vet you                                                                            | Organization vets you, Client wouldn???t really vet you individual                                  |
+| Vetting/Interviews               | Clients vets you                                                                                 | Companies vet you                                                                            | Organization vets you, Client wouldn't really vet you individual                                  |
 ## License
 None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts. (Ok, officially, "The Unlicense")
