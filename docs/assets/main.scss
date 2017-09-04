@@ -19,6 +19,8 @@ table h2 {
   border: 1px solid;
   padding: 4px;
   border-radius: 2px;
+  display: inline-block;
+  margin: 5px 0;
   &.active {
     border: 1px solid black;
     background-color: #1756a9;
