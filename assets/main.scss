@@ -14,17 +14,19 @@ table {
   border-collapse: separate;
   border-spacing: 0;
   border-radius: .25rem;
+  width: 100%;
+}
+
+@media only screen and (max-width: 640px) {
+    table {
+      font-size: 3vw;
+    }
 }
 
 thead tr:first-child {
   background: #ed1c40;
   color: #fff;
   border: none;
-}
-
-th:first-child,
-td:first-child {
-  padding: 0 15px 0 20px;
 }
 
 thead tr:last-child th {
