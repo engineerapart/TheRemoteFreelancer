@@ -24,7 +24,7 @@ See [Why](#why) and [Contributing](#contributing)
 | FlexJobs                | 20,000         | & Clients  | Software                      |
 | Hired                   | 20,000         |            | Software                      |
 | We Work Remotely        | 40,000         |            |                               |
-| Remote|OK               | 50,000         |            |                               |
+| RemoteOK                | 50,000         |            |                               |
 | No Fluff Jobs           | 70,000         |            |                               |
 | Authentic Jobs          | 100,000        |            | Designers & Software          |
 | Working Nomads          | 200,000        |            |                               |
