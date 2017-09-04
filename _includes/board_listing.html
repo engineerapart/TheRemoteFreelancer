@@ -11,14 +11,14 @@
 		<tr>
 		<th>Name</th>
 		<th>Alexa Rank</th>
-		<th>Type</th>
+		<th></th>
 		<th>Hires these Types</th>
 		</tr>
 	{% endif %}
 	<tr>
 		<td><img src="/icons/{{listing.netloc}}.ico" class="favicon"/><a href="{{listing.url}}">{{listing.name}}</a></td>
 		<td>{{listing.rank}}</td>
-		<td>{{listing.type}}</td>
+		<td>{% if listing.type != current_section %}{{listing.type|remove_first:current_section}}{% endif %}</td>
 		<td>{{listing.hiringtype}}</td>
 	</tr>
 	{% endif %}
