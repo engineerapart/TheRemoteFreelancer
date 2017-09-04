@@ -27,6 +27,9 @@ github_username:  andychase
 markdown: kramdown
 theme: minima
 plugins:
+collections:
+  filter_sections:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -5,31 +5,11 @@ layout: default
 <div class="home"> 
 
     {{ content }}
-  
+    
+    <a href="{% link _filter_sections/software.html %}" class="filter-section-link">Show only software</a>
+    <a href="{% link _filter_sections/designers.html %}" class="filter-section-link">Show only designers</a>
 
-    {% assign current_section = "!" %}
-    <table>
-    {% for listing in site.data.data %}
-    	{% if current_section != listing.section %}
-    		{% assign current_section = listing.section %}
-    		<tr>
-    		<th colspan="0"><h2>{{current_section}}</h2></th>
-    		</tr>
-    		
-    		<tr>
-    		<th>Name</th>
-    		<th>Alexa Rank</th>
-    		<th>Type</th>
-    		<th>Hires these Types</th>
-    		</tr>
-    	{% endif %}
-    	<tr>
-    		<td><img src="/icons/{{listing.netloc}}.ico" class="favicon"/><a href="{{listing.url}}">{{listing.name}}</a></td>
-    		<td>{{listing.rank}}</td>
-    		<td>{{listing.type}}</td>
-    		<td>{{listing.hiringtype}}</td>
-		</tr>
-    {% endfor %}
-	</table>  
+  
+    {% include board_listing.html %}
 
 </div>

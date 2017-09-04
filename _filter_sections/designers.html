@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+<div class="home"> 
+    <a href="{% link _filter_sections/software.html %}" class="filter-section-link">Show only software</a>
+    <a href="{% link _filter_sections/designers.html %}" class="filter-section-link active">Show only designers</a>
+    <a href="{% link index.md %}" class="filter-section-link">Show all</a>
+    {% include board_listing.html filter="Designers" %}
+</div>
