@@ -1,0 +1,8 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+    <a class="site-title" href="{{ "/" | relative_url }}" style="margin: 10px 0;"><img src="/logo.svg" style="height: 64px;"/><span style="vertical-align: bottom; margin-left: 10px; font-weight: bold;">The Remote Freelancer</span></a>
+  </div>
+</header>

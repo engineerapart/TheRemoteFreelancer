@@ -1,0 +1,81 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+table h2 {
+	margin: 10px 0;
+}
+
+.favicon {
+  width: 16px;
+  height: 16px;
+  margin-right: 10px;
+  border-radius: 2px;
+}
+
+.filter-section-link {
+  border: 1px solid;
+  padding: 4px;
+  border-radius: 2px;
+  &.active {
+    border: 1px solid black;
+    background-color: #1756a9;
+    color: white;
+  }
+}
+
+.underline-table {
+  table {
+    text-align: left;
+    line-height: 40px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: .25rem;
+    width: 100%;
+  }
+
+  @media only screen and (max-width: 640px) {
+    table {
+      font-size: 3vw;
+    }
+  }
+
+  thead tr:first-child {
+    background: #ed1c40;
+    color: #fff;
+    border: none;
+  }
+
+  thead tr:last-child th {
+    border-bottom: 3px solid #ddd;
+  }
+
+  tbody tr:last-child td {
+    border: none;
+  }
+
+  tbody td {
+    border-bottom: 1px solid #ddd;
+  }
+
+  td:last-child {
+    text-align: right;
+    padding-right: 10px;
+  }
+
+  .button {
+    color: #aaa;
+    cursor: pointer;
+    vertical-align: middle;
+  }
+
+  .edit:hover {
+    color: #0a79df;
+  }
+
+  .delete:hover {
+    color: #dc2a2a;
+  }
+}

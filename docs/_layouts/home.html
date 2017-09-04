@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="home"> 
+
+    {{ content }}
+    
+    <a href="{% link _filter_sections/software.html %}" class="filter-section-link">Show only software</a>
+    <a href="{% link _filter_sections/designers.html %}" class="filter-section-link">Show only designers</a>
+
+  
+    {% include board_listing.html %}
+
+</div>
