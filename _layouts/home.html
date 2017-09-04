@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="home"> 
+
+    {{ content }}
+  
+
+    {% assign current_section = "!" %}
+    <table>
+    {% for listing in site.data.data %}
+    	{% if current_section != listing.section %}
+    		{% assign current_section = listing.section %}
+    		<tr>
+    		<th colspan="0"><h2>{{current_section}}</h2></th>
+    		</tr>
+    		
+    		<tr>
+    		<th>Name</th>
+    		<th>Alexa Rank</th>
+    		<th>Type</th>
+    		<th>Hires these Types</th>
+    		</tr>
+    	{% endif %}
+    	<tr>
+    		<td><a href="{{listing.url}}">{{listing.name}}</a></td>
+    		<td>{{listing.rank}}</td>
+    		<td>{{listing.type}}</td>
+    		<td>{{listing.hiringtype}}</td>
+		</tr>
+    {% endfor %}
+	</table>  
+
+</div>
