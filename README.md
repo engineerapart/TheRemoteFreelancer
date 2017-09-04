@@ -5,66 +5,61 @@ See [Why](#why) and [Contributing](#contributing)
 
 **English**
 
-| Name                                           | Alexa Rank (Lower is more popular) | Type               | Type                 |
-|------------------------------------------------|------------------------------------|--------------------|----------------------|
-| [Upwork](https://upwork.com)                   | 593                                | Clients            | Software             |
-| [Toptal](https://www.toptal.com/)              | 6,431                              | Clients            | Designers & Software |
-| [PeoplePerHour](https://www.peopleperhour.com) | 6,908                              | Clients            | Designers            |
-| [CodeMentor.io](https://codementor.io)         | 10,233                             | Clients & Tutoring | Software             |
-| [Guru.com](http://www.guru.com/)               | 13,604                             | Clients            | Software             |
-| [FlexJobs](https://www.flexjobs.com)           | 20,566                             | Clients & Jobs     | Software             |
-| [Truelancer](https://www.truelancer.com/)      | 40,076                             | Clients & Jobs     | Designers & Software |
-| [Moonlight](https://www.moonlightwork.com)     | 944,496                            | Clients            | Software             |
-| [Folyo](https://www.folyo.me)                  | 1,153,666                          | Clients            | Designers & Software |
-| [Certace](https://www.certace.com)             | 8,721,268                          | Clients            | Data Science / ML    |
-| [Loom](https://www.joinloom.com)               | 10,000,000                         | Clients            |                      |
-
-| Name                                                                                              | Alexa Rank (Lower is more popular) | Type | Type                 |
-|---------------------------------------------------------------------------------------------------|------------------------------------|------|----------------------|
-| [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)                            | 57                                 | Jobs | Software             |
-| [Dribbble Jobs](https://dribbble.com/jobs?utf8=%E2%9C%93&amp;anywhere=true&amp;location=Anywhere) | 1,176                              | Jobs | Designers            |
-| [Angel List Jobs](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D)                         | 2,406                              | Jobs | Variety              |
-| [Hired](https://hired.com/)                                                                       | 22,504                             | Jobs | Software             |
-| [We Work Remotely](https://weworkremotely.com/)                                                   | 41,415                             | Jobs |                      |
-| [Remote OK](https://remoteok.io/)                                                                 | 49,211                             | Jobs |                      |
-| [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                         | 73,573                             | Jobs |                      |
-| [Authentic Jobs](http://www.authenticjobs.com/#onlyremote=1)                                      | 136,124                            | Jobs | Designers & Software |
-| [Working Nomads](http://www.workingnomads.co/jobs)                                                | 153,535                            | Jobs |                      |
-| [WFH](https://www.wfh.io/)                                                                        | 313,488                            | Jobs | Software             |
-| [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com)                                      | 552,335                            | Jobs |                      |
-| [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html)                              | 844,744                            | Jobs | Golang developers    |
-| [RemoteBase](https://remotebase.io/)                                                              | 962,648                            | Jobs | Software             |
-| [Coworks.com](https://coworks.com/for-freelancers/)                                               | 1,260,620                          | Jobs |                      |
-| [Seven Days](https://www.sevendays.co/)                                                           | 1,806,718                          | Jobs |                      |
-| [Jobmote](http://jobmote.com/)                                                                    | 2,133,075                          | Jobs |                      |
-| [Remote Friendly](https://remotefriendly.work)                                                    | 3,081,421                          | Jobs |                      |
-| [Freelance Dev Leads](https://freelancedevleads.com/)                                             | 7,021,226                          | Jobs |                      |
-| [Curated Jobs](http://curatedjobs.spirofloropoulos.com/)                                          | 10,000,000                         | Jobs |                      |
-| [Jobbox](https://www.jobbox.io/offers?t=&amp;s=featured&amp)                                      | 10,000,000                         | Jobs |                      |
-| [Jobscribe](http://jobscri.be/)                                                                   | 10,000,000                         | Jobs |                      |
-
-| Name                                                      | Alexa Rank (Lower is more popular) | Type      | Type     |
-|-----------------------------------------------------------|------------------------------------|-----------|----------|
-| [#freelance](http://freelance.chat/)                      | 861,715                            | Community | Software |
-| [#frontenddevelopers.org](http://frontenddevelopers.org/) | 1,550,259                          | Community |          |
-| [Domino](https://www.wearedomino.com/freelancer)          | 9,166,876                          | Community |          |
-| [Fiverr](https://www.fiverr.com/)                         | 556                                | Gigs      | Variety  |
-| [HackHands](https://hackhands.com)                        | 138,799                            | Tutoring  |          |
-| [Pull Request](https://www.pullrequest.com/)              | 672,035                            | Review    | Software |
-
-
-| Name                                                  | Alexa Rank (Lower is more popular) | Type   | Type                          |
-|-------------------------------------------------------|------------------------------------|--------|-------------------------------|
-| [Codeable](https://codeable.io/)                      | 86,665                             | Agency | Wordpress software developers |
-| [Crew](https://crew.co/)                              | 98,419                             | Agency |                               |
-| [Working Not Working](https://workingnotworking.com/) | 116,797                            | Agency |                               |
-| [X-Team](http://x-team.com)                           | 174,164                            | Agency |                               |
-| [DOZ.com](https://www.doz.com)                        | 280,174                            | Agency | Marketing                     |
-| [Gun.io](https://gun.io/)                             | 306,455                            | Agency | Software                      |
-| [CodersClan.net](https://codersclan.net)              | 482,254                            | Agency |                               |
-| [Lightboard](https://lightboard.io)                   | 590,226                            | Agency | Designers                     |
-| [Pilot](https://pilot.co/)                            | 1,016,443                          | Agency | Software                      |
-| [10xmanagement](https://www.10xmanagement.com/)       | 1,169,273                          | Agency | Designers & Software          |
+| **Clients**             |                |            |                               |
+|-------------------------|----------------|------------|-------------------------------|
+| **Name**                | **Alexa Rank** |            | **Hires these Types**         |
+| Upwork                  | 500            |            | Software                      |
+| PeoplePerHour           | 6,000          |            | Designers                     |
+| Toptal                  | 7,000          |            | Designers & Software          |
+| Guru.com                | 10,000         |            | Software                      |
+| CodeMentor.io           | 10,000         | & Tutoring | Software                      |
+| Folyo                   | 1,000,000      |            | Designers & Software          |
+| Certace                 | 9,000,000      |            | Data Science                  |
+| Loom                    | 10,000,000     |            |                               |
+| **Jobs**                |                |            |                               |
+| **Name**                | **Alexa Rank** |            | **Hires these Types**         |
+| Stack Overflow Careers  | 60             |            | Software                      |
+| Dribbble Jobs           | 1,000          |            | Designers                     |
+| Angel List Jobs         | 2,000          |            | Variety                       |
+| FlexJobs                | 20,000         | & Clients  | Software                      |
+| Hired                   | 20,000         |            | Software                      |
+| We Work Remotely        | 40,000         |            |                               |
+| Remote|OK               | 50,000         |            |                               |
+| No Fluff Jobs           | 70,000         |            |                               |
+| Authentic Jobs          | 100,000        |            | Designers & Software          |
+| Working Nomads          | 200,000        |            |                               |
+| WFH                     | 400,000        |            | Software                      |
+| Remotely Awesome Jobs   | 500,000        |            |                               |
+| Golang Jobs             | 800,000        |            | Golang developers             |
+| RemoteBase              | 900,000        |            | Software                      |
+| Coworks.com             | 1,000,000      |            |                               |
+| Seven Days              | 2,000,000      |            |                               |
+| Jobmote                 | 2,000,000      |            |                               |
+| Remote Friendly         | 4,000,000      |            |                               |
+| Freelance Dev Leads     | 8,000,000      |            |                               |
+| Curated Jobs            | 10,000,000     |            |                               |
+| Jobbox                  | 10,000,000     |            |                               |
+| Jobscribe               | 10,000,000     |            |                               |
+| **Other**               |                |            |                               |
+| **Name**                | **Alexa Rank** |            | **Hires these Types**         |
+| Fiverr                  | 400            | Gigs       | Variety                       |
+| HackHands               | 200,000        | Tutoring   |                               |
+| #freelance              | 1,000,000      | Community  | Software                      |
+| #frontenddevelopers.org | 2,000,000      | Community  |                               |
+| Domino                  | 10,000,000     | Community  |                               |
+| **Agency**              |                |            |                               |
+| **Name**                | **Alexa Rank** |            | **Hires these Types**         |
+| Codeable                | 100,000        |            | Wordpress software developers |
+| Crew                    | 100,000        |            |                               |
+| Working Not Working     | 100,000        |            |                               |
+| X-Team                  | 200,000        |            |                               |
+| DOZ.com                 | 300,000        |            | Marketing                     |
+| Gun.io                  | 400,000        |            | Software                      |
+| Lightboard              | 500,000        |            | Designers                     |
+| CodersClan.net          | 700,000        |            |                               |
+| Moonlight               | 1,000,000      |            | Software                      |
+| 10xmanagement           | 1,000,000      |            | Designers & Software          |
+| Pilot                   | 1,000,000      |            | Software                      |
 
 **French**
 
@@ -77,7 +72,7 @@ See [Why](#why) and [Contributing](#contributing)
 - [Marktplaats](http://klussen.marktplaats.nl/diensten-en-vakmensen/klussen/0) - Kind of like Craigslist.
 
 **Spanish**
-- [Freelancer MX](https://www.freelancer.mx) - Contrata a freelancers expertos para tu trabajo en línea.
+- [Freelancer MX](https://www.freelancer.mx) - Contrata a freelancers expertos para tu trabajo en l??nea.
 
 **Persian**
 - [Ponisha](http://ponisha.ir) - Ponisha is an online network for freelance professionals, in Iran. 
@@ -98,6 +93,6 @@ Thank you for looking :) Good hunting!
 | Control over working environment | Generally you can work however, using own tools, supplies, set own hours, etc                    | Employer controls how you work generally. Provides tools, sets hours, tasks, etc.            | Agency might direct you on what tasks to do but you have flexibility on how to accomplish them    |
 | Payment                          | Client pays you, but through the organization (which may takes its cut)                          | Employer pays you salary (withholding taxes)                                                 | Agency pays you                                                                                   |
 | Choice of Client or Project      | Complete control of client/project                                                               | Complete control of job selection                                                            | Little/no choice of project or client                                                             |
-| Vetting/Interviews               | Clients vets you                                                                                 | Companies vet you                                                                            | Organization vets you, Client wouldn’t really vet you individual                                  |
+| Vetting/Interviews               | Clients vets you                                                                                 | Companies vet you                                                                            | Organization vets you, Client wouldn???t really vet you individual                                  |
 ## License
 None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts. (Ok, officially, "The Unlicense")
