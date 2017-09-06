@@ -1,6 +1,8 @@
 # The Remote Freelancer
 List of community-curated resources to find topical remote freelance &amp; contract work for software developers, web designers, and more!
 
+Now available in website form! (theremotefreelancer.com)[https://theremotefreelancer.com]
+
 See [Why](#why) and [Contributing](#contributing)
 
 **English**
