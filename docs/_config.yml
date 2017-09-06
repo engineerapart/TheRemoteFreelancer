@@ -28,6 +28,8 @@ google_analytics: UA-105858060-1
 markdown: kramdown
 theme: minima
 plugins:
+    - jekyll-sitemap
+    - jekyll-seo-tag
 collections:
   filter_sections:
     output: true
