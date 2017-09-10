@@ -13,6 +13,7 @@ import itertools
 import math
 
 import alexa
+from download_favicons import download_favicons
 
 sites_path = os.path.join(os.path.dirname(__file__), "..", "_data", "sites.csv")
 
@@ -70,6 +71,8 @@ def main(func):
     with open(sites_path, 'r') as csvfile:
         links = list(csv.DictReader(csvfile))
     links = func(links)
+    if not links:
+        return
     with open(sites_path, 'w') as csvfile:
         fieldnames = list(links[0].keys())
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -80,3 +83,4 @@ def main(func):
 if __name__ == "__main__":
     main(update_alexa)
     main(sort)
+    main(download_favicons)
