@@ -14,11 +14,15 @@ import alexa
 
 sites_path = os.path.join(os.path.dirname(__file__), "..", "_data", "sites.csv")
 
+update_blank_only = os.environ.get("update_blank_only", "false") == "true"
+
 
 def main():
     with open(sites_path, 'r') as csvfile:
         links = list(csv.DictReader(csvfile))
     for link in links:
+        if link['rank'] and update_blank_only:
+            continue
         print("Updating {}.. ".format(link['netloc']), end="")
         sys.stdout.flush()
         rank = alexa.get_rank(link['netloc'])

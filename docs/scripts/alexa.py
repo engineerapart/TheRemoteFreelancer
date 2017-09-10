@@ -14,8 +14,12 @@ import requests
 
 rank_search = re.compile("<aws:Rank>(.*?)</aws:Rank>")
 
+session = None
+
 
 def get_awi_url_info(url):
+    global session
+
     access_key = os.environ.get("access_key")
     secret_key = os.environ.get("secret_key")
     service_host = "awis.amazonaws.com"
@@ -44,7 +48,9 @@ def get_awi_url_info(url):
 
     query_url = "http://awis.amazonaws.com/?%s&Signature=%s" % (query_params, signed)
 
-    result = requests.get(url=query_url)
+    if not session:
+        session = requests.Session()
+    result = session.get(url=query_url)
     return ET.fromstring(result.content)
 
 
