@@ -9,7 +9,6 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime
 
-import math
 import requests
 
 rank_search = re.compile("<aws:Rank>(.*?)</aws:Rank>")
@@ -68,11 +67,3 @@ def get_rank(url):
         return min(download_aws_rank(url_without), download_aws_rank(url))
     else:
         return download_aws_rank(url)
-
-
-def round_rank(rank: int):
-    return round(rank, 1 - (1 + int(math.log10(abs(rank)))))
-
-
-def add_commas_to_rank(rank):
-    return "{:,}".format(rank)
