@@ -1,7 +1,7 @@
 {% assign current_section = "!" %}
 <div class="underline-table">
     <table class="board-listing">
-        {% for listing in site.data.data %}
+        {% for listing in site.data.sites %}
         {% if include.filter == undefined or listing.hiringtype contains include.filter %}
         {% if current_section != listing.section %}
         {% assign current_section = listing.section %}
