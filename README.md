@@ -63,6 +63,10 @@ See [Why](#why) and [Contributing](#contributing)
 | [10xmanagement](https://www.10xmanagement.com/)                                                  | 1,000,000      |            | Designers & Software          |
 | [Pilot](https://pilot.co/)                                                                       | 1,000,000      |            |                               |
 
+**Latin America**
+
+- [Workana](https://www.workana.com) -- Largest Latin American freelancer network
+
 **French**
 
 - [Codeur](https://www.codeur.com/) - Leader in France.
