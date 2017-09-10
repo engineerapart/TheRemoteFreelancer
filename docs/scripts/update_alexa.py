@@ -3,24 +3,34 @@
 This script updates the alexa rankings in the csv file.
 Usage:
 
-    python3 update_alexa path/to/data.csv
+    python3 update_alexa.py
 """
 
 import csv
 import sys
+import os
 
-def main(input_rows):
-	yield from input_rows
+import alexa
+
+sites_path = os.path.join(os.path.dirname(__file__), "..", "_data", "sites.csv")
+
+
+def main():
+    with open(sites_path, 'r') as csvfile:
+        links = list(csv.DictReader(csvfile))
+    for link in links:
+        print("Updating {}.. ".format(link['netloc']), end="")
+        sys.stdout.flush()
+        rank = alexa.get_rank(link['netloc'])
+        if rank:
+            link['rank'] = alexa.add_commas_to_rank(alexa.round_rank(rank))
+            print(link['rank'])
+    with open(sites_path, 'w') as csvfile:
+        fieldnames = list(links[0].keys())
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(links)
+
 
 if __name__ == "__main__":
-	if len(sys.argv) < 2:
-		print(__doc__)
-		exit(1)
-	with open(sys.argv[1], 'r') as csvfile:
-		reader = csv.DictReader(csvfile)
-		output = list(main(reader))
-	with open(sys.argv[1], 'w') as csvfile:
-		fieldnames = list(output[0].keys())
-		writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-		writer.writeheader()
-		writer.writerows(output)
+    main()
