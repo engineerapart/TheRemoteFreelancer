@@ -20,7 +20,10 @@ update_blank_only = os.environ.get("update_blank_only", "false") == "true"
 
 
 def add_commas_to_rank(number):
-    return "{:,}".format(number)
+    if number:
+        if isinstance(number, str):
+            number = remove_commas(number)
+        return "{:,}".format(number)
 
 
 def round_rank(rank: int):
@@ -33,6 +36,7 @@ def remove_commas(string_number):
 
 def update_alexa(links):
     for link in links:
+        link['rank'] = add_commas_to_rank(link['rank'])
         if link['rank'] and update_blank_only:
             continue
         print("Updating {}.. ".format(link['netloc']), end="")
