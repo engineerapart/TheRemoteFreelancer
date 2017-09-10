@@ -23,10 +23,10 @@ See [Why](#why) and [Contributing](#contributing)
 | [Loom](https://www.joinloom.com)                                                         | 10,000,000     |            | Designers & Developers                    |
 | **Other**                                                                                |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
-| [Fiverr](https://www.fiverr.com/)                                                        | 400            |            | Gigs                                      |
-| [Bonsai](https://www.hellobonsai.com/)                                                   | 100,000        |            | Tools                                     |
-| [HackHands](https://hackhands.com)                                                       | 200,000        |            | Tutoring                                  |
-| [\#freelance](http://freelance.chat/)                                                    | 2,000,000      |            | Community                                 |
+| [Fiverr](https://www.fiverr.com/)                                                        | 400            | Gigs       | Variety                                   |
+| [Bonsai](https://www.hellobonsai.com/)                                                   | 100,000        | Tools      | Designers, Developers, & Others           |
+| [HackHands](https://hackhands.com)                                                       | 200,000        | Tutoring   | Developers                                |
+| [\#freelance](http://freelance.chat/)                                                    | 2,000,000      | Community  | Developers                                |
 | [\#frontenddevelopers.org](http://frontenddevelopers.org/)                               | 2,000,000      | Community  | Developers                                |
 | **Jobs**                                                                                 |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
