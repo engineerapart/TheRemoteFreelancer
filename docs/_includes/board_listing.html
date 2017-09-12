@@ -18,7 +18,7 @@
         </tr>
         {% endif %}
         <tr>
-            <td><img src="/icons/{{listing.netloc}}.ico" class="favicon"/><a href="{{listing.url}}">{{listing.name}}</a>
+            <td><img src="/icons/{{listing.netloc}}.ico" class="favicon"/><a href="{% if listing.affiliate_link %}{{ listing.affiliate_link }}{% else %}{{listing.url}}{% endif %}">{{listing.name}}</a>
             </td>
             <td>{{listing.rank}}</td>
             <td>{% if listing.type != current_section %}{{listing.type|remove_first:current_section}}{% endif %}</td>
