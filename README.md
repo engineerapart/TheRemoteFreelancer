@@ -45,6 +45,7 @@ See [Why](#why) and [Contributing](#contributing)
 | [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html)                     | 800,000        |            | Golang Developers                         |
 | [RemoteBase](https://remotebase.io/)                                                     | 800,000        |            | Developers                                |
 | [Seven Days](https://www.sevendays.co/)                                                  | 2,000,000      |            | Designers & Developers                    |
+| [Let's Make Apps](https://www.letsmakeapps.io/)                                          | 3,000,000      | Email digest| Designers & Developers                  |
 | [Freelance Dev Leads](https://freelancedevleads.com/)                                    | 10,000,000     |            | Developers                                |
 | [Curated Jobs](http://curatedjobs.spirofloropoulos.com/)                                 | 10,000,000     |            | Developers                                |
 | [Jobbox](https://www.jobbox.io/offers?t=&s=featured&amp)                                 | 10,000,000     |            | Developers                                |
