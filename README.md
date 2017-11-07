@@ -75,6 +75,10 @@ See [Why](#why) and [Contributing](#contributing)
 - [Codeur](https://www.codeur.com/) - Leader in France.
 - [Hopwork](https://www.hopwork.fr/) - Is getting some tractions.
 
+**Denmark**
+
+- [Codeable](http://www.codeable.io) - Leader in Denmark for Wordpress freelancing.
+
 **Dutch**
 
 - [Freelance.nl](https://freelance.nl/) - Leader in the Netherlands.
