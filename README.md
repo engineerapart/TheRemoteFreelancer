@@ -108,7 +108,7 @@ Thank you for looking :) Good hunting!
 | Choice of Client or Project      | Complete control of client/project                                                               | Complete control of job selection                                                            | Little/no choice of project or client                                                             |
 | Vetting/Interviews               | Clients vets you                                                                                 | Companies vet you                                                                            | Organization vets you, Client wouldn't really vet you individual                                  |
 
-## Other resources:
+## Other resources
 
 ### Aggregators
 
@@ -116,6 +116,7 @@ http://jobscribe.com/
 https://www.hellobonsai.com/gig-list  
 https://www.folyo.me/  
 http://www.lancelist.com/  
+https://www.letsmakeapps.io/  
 
 ### Remote jobs
 
