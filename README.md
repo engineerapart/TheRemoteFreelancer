@@ -112,16 +112,16 @@ Thank you for looking :) Good hunting!
 
 ### Aggregators
 
-http://jobscribe.com/
-https://www.hellobonsai.com/gig-list
-https://www.folyo.me/
-http://www.lancelist.com/
+http://jobscribe.com/  
+https://www.hellobonsai.com/gig-list  
+https://www.folyo.me/  
+http://www.lancelist.com/  
 
 ### Remote jobs
 
 [lukasz-madonawesome-remote-job A curated list of awesome remote jobs and resources. Inspired by httpsgithub.comvintaawesome-python](https://github.com/lukasz-madon/awesome-remote-job#job-boards)
 
-[HN Hiring (hnhiring.me)][http://hnhiring.me/]
+[HN Hiring (hnhiring.me)](http://hnhiring.me/)
 
 ## License
 None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts. (Ok, officially, "The Unlicense")
