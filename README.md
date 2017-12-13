@@ -11,14 +11,14 @@ See [Why](#why) and [Contributing](#contributing)
 |------------------------------------------------------------------------------------------|----------------|------------|-------------------------------------------|
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
 | [Upwork](https://upwork.com)                                                             | 500            |            | Designers, Developers, & Others           |
-| [Freelancer](https://www.freelancer.com/affiliates/andychase)                            | 1,000          |            | Designers, Developers, & Others           |
-| [PeoplePerHour](https://www.peopleperhour.com)                                           | 6,000          | & Gigs     | Designers, Developers, & Others           |
-| [Toptal](https://www.toptal.com/#amass-nothing-but-top-notch-software-architects)        | 7,000          |            | Designers, Developers, & Others           |
+| [Freelancer](https://www.freelancer.com/affiliates/andychase)                            | 2,000          |            | Designers, Developers, & Others           |
+| [PeoplePerHour](https://www.peopleperhour.com)                                           | 5,000          | & Gigs     | Designers, Developers, & Others           |
+| [Toptal](https://www.toptal.com/#amass-nothing-but-top-notch-software-architects)        | 8,000          |            | Designers, Developers, & Others           |
 | [Guru.com](http://www.guru.com/)                                                         | 10,000         |            | Designers, Developers, & Others           |
 | [CodeMentor.io](https://www.codementor.io/i/2kz84aesbl)                                  | 10,000         | & Tutoring | Developers                                |
 | [Crossover](https://www.crossover.com)                                                   | 50,000         |            | Developers & Business Mangers             |
-| [Speedlancer](https://speedlancer.com/)                                                  | 300,000        |            | Designers & Developers                    |
-| [Scalable Path](https://www.scalablepath.com/)                                           | 500,000        |            | Designers & Developers                    |
+| [Speedlancer](https://speedlancer.com/)                                                  | 400,000        |            | Designers & Developers                    |
+| [Scalable Path](https://www.scalablepath.com/)                                           | 600,000        |            | Designers & Developers                    |
 | [Certace](https://www.certace.com)                                                       | 9,000,000      |            | Data Scientists                           |
 | [Loom](https://www.joinloom.com)                                                         | 10,000,000     |            | Designers & Developers                    |
 | **Other**                                                                                |                |            |                                           |
@@ -26,8 +26,8 @@ See [Why](#why) and [Contributing](#contributing)
 | [Fiverr](https://www.fiverr.com/)                                                        | 400            | Gigs       | Variety                                   |
 | [Bonsai](https://www.hellobonsai.com/)                                                   | 100,000        | Tools      | Designers, Developers, & Others           |
 | [HackHands](https://hackhands.com)                                                       | 200,000        | Tutoring   | Developers                                |
-| [\#freelance](http://freelance.chat/)                                                    | 2,000,000      | Community  | Developers                                |
 | [\#frontenddevelopers.org](http://frontenddevelopers.org/)                               | 2,000,000      | Community  | Developers                                |
+| [\#freelance](http://freelance.chat/)                                                    | 10,000,000     | Community  | Developers                                |
 | **Jobs**                                                                                 |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
 | [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)                   | 60             |            | Developers                                |
@@ -38,31 +38,21 @@ See [Why](#why) and [Contributing](#contributing)
 | [We Work Remotely](https://weworkremotely.com/)                                          | 40,000         |            | Variety                                   |
 | [RemoteOK](https://remoteok.io/)                                                         | 50,000         |            | Developers                                |
 | [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                | 70,000         |            | Developers                                |
-| [Authentic Jobs](http://www.authenticjobs.com/#onlyremote=1)                             | 100,000        |            | Designers & Developers                    |
-| [Working Nomads](http://www.workingnomads.co/jobs)                                       | 200,000        |            | Variety                                   |
-| [WFH](https://www.wfh.io/)                                                               | 400,000        |            | Developers                                |
-| [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com)                             | 500,000        |            | Developers                                |
-| [Golang Jobs](http://www.golangprojects.com/golang-remote-jobs.html)                     | 800,000        |            | Golang Developers                         |
-| [RemoteBase](https://remotebase.io/)                                                     | 800,000        |            | Developers                                |
-| [Seven Days](https://www.sevendays.co/)                                                  | 2,000,000      |            | Designers & Developers                    |
-| [Freelance Dev Leads](https://freelancedevleads.com/)                                    | 10,000,000     |            | Developers                                |
-| [Curated Jobs](http://curatedjobs.spirofloropoulos.com/)                                 | 10,000,000     |            | Developers                                |
-| [Jobbox](https://www.jobbox.io/offers?t=&s=featured&amp)                                 | 10,000,000     |            | Developers                                |
 | **Agency**                                                                               |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
 | [Codeable](https://codeable.io/)                                                         | 100,000        |            | Wordpress Developers developers           |
 | [Crew](https://crew.co/)                                                                 | 100,000        |            |                                           |
 | [Working Not Working](https://workingnotworking.com/)                                    | 100,000        |            |                                           |
 | [X-Team](http://x-team.com)                                                              | 200,000        |            |                                           |
-| [Gigster](https://gigs.to/r/Dz2vevg)                                                     | 200,000        |            | Developers                                |
+| [Konsus](https://www.konsus.com/)                                                        | 200,000        |            | Designers, Writers, Researchers           |
+| [Gigster](https://gigs.to/r/Dz2vevg)                                                     | 300,000        |            | Developers                                |
 | [DOZ.com](https://www.doz.com)                                                           | 300,000        |            | Marketing                                 |
-| [Konsus](https://www.konsus.com/)                                                        | 300,000        |            | Designers, Writers, Researchers           |
 | [Gun.io](https://gun.io/)                                                                | 400,000        |            | Developers                                |
 | [Lightboard](https://lightboard.io)                                                      | 500,000        |            | Designers                                 |
 | [CodersClan.net](https://codersclan.net)                                                 | 700,000        |            |                                           |
-| [Moonlight](https://www.moonlightwork.com)                                               | 1,000,000      |            | Developers                                |
 | [10xmanagement](https://www.10xmanagement.com/)                                          | 1,000,000      |            | Designers & Developers                    |
-| [Pilot](https://pilot.co/)                                                               | 1,000,000      |            | Developers                                |
+| [Pilot](https://pilot.co/)                                                               | 2,000,000      |            | Developers                                |
+| [Moonlight](https://www.moonlightwork.com)                                               | 3,000,000      |            | Developers                                |
 | [Dreamlance](http://dreamlance.io/)                                                      | 10,000,000     |            | Designers & Developers                    |
 
 
