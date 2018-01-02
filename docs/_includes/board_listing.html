@@ -13,8 +13,7 @@
             <th>Name</th>
             <th>Alexa Rank</th>
             <th></th>
-            <th>Hires these Types</th>
-            <th>Opinions</th>
+            <th>Summary</th>
         </tr>
         {% endif %}
         <tr>
@@ -22,8 +21,7 @@
             </td>
             <td>{{listing.rank}}</td>
             <td>{% if listing.type != current_section %}{{listing.type|remove_first:current_section}}{% endif %}</td>
-            <td>{{listing.hiringtype}}</td>
-            <td>{{listing.opinions | markdownify}}</td>
+            <td>{{listing.sdescription}}</td>
         </tr>
         {% endif %}
         {% endfor %}
