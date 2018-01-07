@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Why people hate Upwork"
+title:  "Why do people hate Upwork?"
 date:   2017-09-04 10:35:01 -0700
 published: true
 ---
 
 My name is [Andy Chase][andychase]. I've been working as a freelance software engineer for about 5 years. When I started working I used Upwork (then called oDesk) to find clients.
+
+See my list of [alternatives to upwork here](/)!
 
 # Upwork is the Tinder of Freelance
 
