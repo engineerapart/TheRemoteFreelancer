@@ -20,6 +20,9 @@
     .column div {
       padding: 15px;
     }
+    .column.left {
+      background-color: #e6e6e6;
+    }
 }
 
 .row:after {
@@ -33,11 +36,11 @@
 }
 
 .left {
-    width: 25%;
+    width: 30%;
 }
 
 .right {
-    width: 75%;
+    width: 70%;
 }
 
 @media (max-width: 600px) {
