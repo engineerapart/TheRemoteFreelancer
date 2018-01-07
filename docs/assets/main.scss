@@ -40,6 +40,12 @@
     width: 75%;
 }
 
+@media (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+
 .favicon {
   width: 16px;
   height: 16px;
