@@ -4,9 +4,24 @@
 
 @import "minima";
 
+@font-face{
+  font-family:GoodNews;
+  src: url("https://d12gd74eaa9d1v.cloudfront.net/GoodWeb-News.woff") format("woff");
+}
+
+body {
+  font-family: GoodNews,Helvetica,Arial,sans-serif;
+}
+
+.section-title {
+  text-align: center;
+}
+
 .ad-box { 
   background-color: #e6e6e6;
-  padding: 10px;
+  padding: 15px;
+  margin-bottom: 15px;
+  border: 1px solid #d0d0d0;
   p {
     margin: 10px 0;
   }
@@ -14,14 +29,15 @@
 }
 
 .site-card {
-    border: 1px solid #9a9a9a;
-    margin-bottom: 15px;
-    display: block;
+    padding: 0 0 0 10px;
+    margin: 10px 0 20px 0;
+    border: 1px solid #e8e8e8;
+    border-radius: 3px;
+    background-color: #eef;
     .column div {
       padding: 15px;
     }
     .column.left {
-      background-color: #e6e6e6;
     }
 }
 

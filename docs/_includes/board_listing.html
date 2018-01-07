@@ -4,7 +4,7 @@
         {% if include.filter == undefined or listing.hiringtype contains include.filter %}
         {% if current_section != listing.section %}
         {% assign current_section = listing.section %}
-        <h2>{{current_section}}</h2>
+        <h2 class="section-title">{{current_section}}</h2>
         {% endif %}
         <div class="site-card row">
             <div class="column left">
