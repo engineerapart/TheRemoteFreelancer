@@ -1,29 +1,25 @@
 {% assign current_section = "!" %}
 <div class="underline-table">
-    <table class="board-listing">
         {% for listing in site.data.sites %}
         {% if include.filter == undefined or listing.hiringtype contains include.filter %}
         {% if current_section != listing.section %}
         {% assign current_section = listing.section %}
-        <tr>
-            <th colspan="0"><h2>{{current_section}}</h2></th>
-        </tr>
-
-        <tr>
-            <th>Name</th>
-            <th>Alexa Rank</th>
-            <th></th>
-            <th>Summary</th>
-        </tr>
+        <h2>{{current_section}}</h2>
         {% endif %}
-        <tr>
-            <td><img src="/icons/{{listing.netloc}}.ico" class="favicon"/><a href="{% if listing.affiliate_link %}{{ listing.affiliate_link }}{% else %}{{listing.url}}{% endif %}">{{listing.name}}</a>
-            </td>
-            <td>{{listing.rank}}</td>
-            <td>{% if listing.type != current_section %}{{listing.type|remove_first:current_section}}{% endif %}</td>
-            <td>{{listing.sdescription}}</td>
-        </tr>
+        <div class="site-card row">
+            <div class="column left">
+                <div>
+                    <h3><img src="/icons/{{listing.netloc}}.ico" class="favicon"/><a href="{% if listing.affiliate_link %}{{ listing.affiliate_link }}{% else %}{{listing.url}}{% endif %}">{{listing.name}}</a>
+                    </h3>
+                    <h4>Alexa Rank {{listing.rank}}</h4>
+                </div>
+            </div>
+            <div class="column right">
+                    <div>
+                    <span>{{listing.sdescription}}</span>
+                </div>
+            </div>
+        </div>
         {% endif %}
         {% endfor %}
-    </table>
 </div>

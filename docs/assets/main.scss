@@ -4,8 +4,40 @@
 
 @import "minima";
 
-table h2 {
-	margin: 10px 0;
+.ad-box { 
+  background-color: #e6e6e6;
+  padding: 10px;
+  p {
+    margin: 10px 0;
+  }
+  margin-bottom: 20px;
+}
+
+.site-card {
+    border: 1px solid #9a9a9a;
+    margin-bottom: 15px;
+    display: block;
+    .column div {
+      padding: 15px;
+    }
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column {
+    float: left;
+}
+
+.left {
+    width: 25%;
+}
+
+.right {
+    width: 75%;
 }
 
 .favicon {
