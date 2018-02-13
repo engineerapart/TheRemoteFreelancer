@@ -5,6 +5,13 @@ Now available in website also! [theremotefreelancer.com](https://theremotefreela
 
 See [Why](#why) and [Contributing](#contributing)
 
+---
+
+Are you looking for a job in San Francisco Bay Area or New York, NY? Take a look at [TripleByte](https://triplebyte.com/iv/cQCz3qM/cp).
+
+An online coding quiz from TripleByte can land you job offers from top tech companies.
+
+---
 
 **English**
 
