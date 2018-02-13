@@ -7,5 +7,5 @@ This page lists out many different job boards, gig services, communities, and co
 
 
 <div class="ad-box">
-<p>Want to be added to my personal referral list? Please drop your email here: <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3vV_y_40x4QVAY4esKiLScqsU4ZSUvTED4vkJRyFrnNFuYg/viewform?usp=sf_link">Google Form / Freelancer Information Form</a>. Thanks!
+<p>Want to be added to my personal referral list? Please drop your email here: <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3vV_y_40x4QVAY4esKiLScqsU4ZSUvTED4vkJRyFrnNFuYg/viewform?usp=sf_link">Google Form / Freelancer Information Form</a>. Thanks!</p>
 </div>
