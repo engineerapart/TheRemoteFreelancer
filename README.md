@@ -51,6 +51,7 @@ Want to be added to my personal referral list? Please drop your email here: [Goo
 | [Working Not Working](https://workingnotworking.com/)                                    | 100,000        |            |                                           |
 | [X-Team](http://x-team.com)                                                              | 200,000        |            |                                           |
 | [Konsus](https://www.konsus.com/)                                                        | 200,000        |            | Designers, Writers, Researchers           |
+| [Experfy(Harvard Innovation Lab](https://www.experfy.com/)                               | 200,000        |            | Data Scientists & Developers              |
 | [Gigster](https://gigs.to/r/Dz2vevg)                                                     | 300,000        |            | Developers                                |
 | [DOZ.com](https://www.doz.com)                                                           | 300,000        |            | Marketing                                 |
 | [Gun.io](https://gun.io/)                                                                | 400,000        |            | Developers                                |
@@ -60,7 +61,7 @@ Want to be added to my personal referral list? Please drop your email here: [Goo
 | [Pilot](https://pilot.co/)                                                               | 2,000,000      |            | Developers                                |
 | [Moonlight](https://www.moonlightwork.com)                                               | 3,000,000      |            | Developers                                |
 | [Dreamlance](http://dreamlance.io/)                                                      | 10,000,000     |            | Designers & Developers                    |
-| [Experfy(Harvard Innovation Lab](https://www.experfy.com/)                               |  84598         |            | Data Scientists, Machine learning, AI, Big Data, Blockchain, RPA, developers, engineers                    |
+
 
 
 **Latin America**
