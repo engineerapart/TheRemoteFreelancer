@@ -26,7 +26,7 @@ Want to be added to my personal referral list? Please drop your email here: [Goo
 | [Speedlancer](https://speedlancer.com/)                                                  | 400,000        |            | Designers & Developers                    |
 | [Scalable Path](https://www.scalablepath.com/)                                           | 600,000        |            | Designers & Developers                    |
 | [Certace](https://www.certace.com)                                                       | 9,000,000      |            | Data Scientists                           |
-| [Loom](https://www.joinloom.com)                                                         | 10,000,000     |            | Designers & Developers                    |
+| [Loom](https://www.loom.co)                                                              | 10,000,000     |            | Designers & Developers                    |
 | **Other**                                                                                |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
 | [Fiverr](https://www.fiverr.com/)                                                        | 400            | Gigs       | Variety                                   |
