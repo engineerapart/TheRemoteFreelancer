@@ -7,5 +7,7 @@ This page lists out many different job boards, gig services, communities, and co
 
 
 <div class="ad-box">
-<p>Want to be added to my personal referral list? Please drop your email here: <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3vV_y_40x4QVAY4esKiLScqsU4ZSUvTED4vkJRyFrnNFuYg/viewform?usp=sf_link">Google Form / Freelancer Information Form</a>. Thanks!</p>
+<p>Are you looking for a job in San Francisco Bay Area or New York, NY? Take a look at <a href="https://triplebyte.com/iv/cQCz3qM/cp">TripleByte</a>.</p>
+<p>An online coding quiz from TripleByte can land you job offers from top tech companies.</p>
 </div>
+

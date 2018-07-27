@@ -7,7 +7,7 @@ See [Why](#why) and [Contributing](#contributing)
 
 ---
 
-Want to be added to my personal referral list? Please drop your email here: [Google Form / Freelancer Information Form](https://docs.google.com/forms/d/e/1FAIpQLSd3vV_y_40x4QVAY4esKiLScqsU4ZSUvTED4vkJRyFrnNFuYg/viewform?usp=sf_link). Thanks!
+Are you looking for a job in San Francisco Bay Area or New York, NY? Take a look at [TripleByte](https://triplebyte.com/iv/cQCz3qM/cp).
 
 ---
 
