@@ -26,7 +26,7 @@ Are you looking for a job in San Francisco Bay Area or New York, NY? Take a look
 | [Speedlancer](https://speedlancer.com/)                                                  | 400,000        |            | Designers & Developers                    |
 | [Scalable Path](https://www.scalablepath.com/)                                           | 600,000        |            | Designers & Developers                    |
 | [Certace](https://www.certace.com)                                                       | 9,000,000      |            | Data Scientists                           |
-| [Loom](https://www.joinloom.com)                                                         | 10,000,000     |            | Designers & Developers                    |
+| [Loom](https://www.loom.co)                                                              | 10,000,000     |            | Designers & Developers                    |
 | **Other**                                                                                |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
 | [Fiverr](https://www.fiverr.com/)                                                        | 400            | Gigs       | Variety                                   |
@@ -44,6 +44,8 @@ Are you looking for a job in San Francisco Bay Area or New York, NY? Take a look
 | [We Work Remotely](https://weworkremotely.com/)                                          | 40,000         |            | Variety                                   |
 | [RemoteOK](https://remoteok.io/)                                                         | 50,000         |            | Developers                                |
 | [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                | 70,000         |            | Developers                                |
+| [Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html)             | 1,000,000      |            | Go/Golang jobs, filter on remote jobs     |
+| [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html)                        | 20,000,000     |            | AI/Machine learning jobs, filter on remote jobs  |
 | **Agency**                                                                               |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
 | [Codeable](https://codeable.io/)                                                         | 100,000        |            | Wordpress Developers developers           |
