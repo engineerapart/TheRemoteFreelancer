@@ -25,6 +25,7 @@ Are you looking for a job in San Francisco Bay Area or New York, NY? Take a look
 | [Crossover](https://www.crossover.com)                                                   | 50,000         |            | Developers & Business Mangers             |
 | [Speedlancer](https://speedlancer.com/)                                                  | 400,000        |            | Designers & Developers                    |
 | [Scalable Path](https://www.scalablepath.com/)                                           | 600,000        |            | Designers & Developers                    |
+| [Soshace](https://www.soshace.com/)                                                      | 2,000,000      |            | Developers                                |
 | [Certace](https://www.certace.com)                                                       | 9,000,000      |            | Data Scientists                           |
 | [Loom](https://www.loom.co)                                                              | 10,000,000     |            | Designers & Developers                    |
 | **Other**                                                                                |                |            |                                           |
