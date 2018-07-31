@@ -27,7 +27,6 @@ Are you looking for a job in San Francisco Bay Area or New York, NY? Take a look
 | [Scalable Path](https://www.scalablepath.com/)                                           | 600,000        |            | Designers & Developers                    |
 | [Soshace](https://www.soshace.com/)                                                      | 2,000,000      |            | Developers                                |
 | [Certace](https://www.certace.com)                                                       | 9,000,000      |            | Data Scientists                           |
-| [Loom](https://www.loom.co)                                                              | 10,000,000     |            | Designers & Developers                    |
 | **Other**                                                                                |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
 | [Fiverr](https://www.fiverr.com/)                                                        | 400            | Gigs       | Variety                                   |
