@@ -18,9 +18,10 @@ Are you looking for a job in San Francisco Bay Area or New York, NY? Take a look
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
 | [Upwork](https://upwork.com)                                                             | 500            |            | Designers, Developers, & Others           |
 | [Freelancer](https://www.freelancer.com/affiliates/andychase)                            | 2,000          |            | Designers, Developers, & Others           |
-| [PeoplePerHour](https://www.peopleperhour.com)                                           | 5,000          | & Gigs     | Designers, Developers, & Others           |
+| [PeoplePerHour](https://www.peopleperhour.com)                                           | 8,000          | & Gigs     | Designers, Developers, & Others           |
 | [Toptal](https://www.toptal.com/#amass-nothing-but-top-notch-software-architects)        | 8,000          |            | Designers, Developers, & Others           |
-| [Guru.com](http://www.guru.com/)                                                         | 10,000         |            | Designers, Developers, & Others           |
+| [Guru.com](http://www.guru.com/)                                                         | 13,000         |            | Designers, Developers, & Others           |
+| [Truelancer](https://www.truelancer.com)                                                 | 29,000         |            | Designers, Developers, & Others           |
 | [CodeMentor.io](https://www.codementor.io/i/2kz84aesbl)                                  | 10,000         | & Tutoring | Developers                                |
 | [Crossover](https://www.crossover.com)                                                   | 50,000         |            | Developers & Business Mangers             |
 | [Speedlancer](https://speedlancer.com/)                                                  | 400,000        |            | Designers & Developers                    |
