@@ -42,6 +42,7 @@ See [Why](#why) and [Contributing](#contributing)
 | [RemoteOK](https://remoteok.io/)                                                         | 50,000         |            | Developers                                |
 | [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                | 70,000         |            | Developers                                |
 | [Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html)             | 1,000,000      |            | Go/Golang jobs, filter on remote jobs     |
+| [Team Extension](https://teamextension.io/)                                | 3,400,000         |            | Developers, Designers, QA      
 | [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html)                        | 20,000,000     |            | AI/Machine learning jobs, filter on remote jobs  |
 | **Agency**                                                                               |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
