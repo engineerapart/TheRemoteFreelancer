@@ -88,6 +88,11 @@ See [Why](#why) and [Contributing](#contributing)
 **Persian**
 - [Ponisha](http://ponisha.ir) - Ponisha is an online network for freelance professionals, in Iran. 
 
+**Russian**
+- [Freelansim](https://freelansim.ru/) - биржа удаленной работы для IT-специалистов. 
+- [FL](https://www.fl.ru/) - профессиональный ресурс, предназначенный для поиска работы или исполнителя на удаленную работу.
+- [freelance.ru](https://freelance.ru/) - Биржа фриланса, каталог фрилансеров и самозанятых по категориям.
+
 ## Why
 This repo was inspired by [this Hacker News thread](https://news.ycombinator.com/item?id=12773282) about one software developer's experience with Upwork. For all those who have had bad experiences with Upwork, I wanted to create a list of additional resources that software developers can use to find freelance, nomadic and contract work.
 
