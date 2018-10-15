@@ -88,6 +88,9 @@ See [Why](#why) and [Contributing](#contributing)
 **Persian**
 - [Ponisha](http://ponisha.ir) - Ponisha is an online network for freelance professionals, in Iran. 
 
+**Brazilian**
+- [99 Freelas](https://www.99freelas.com.br) - Contrate os melhores freelancers do Brasil. 
+
 **Russian**
 - [Freelansim](https://freelansim.ru/) - биржа удаленной работы для IT-специалистов. 
 - [FL](https://www.fl.ru/) - профессиональный ресурс, предназначенный для поиска работы или исполнителя на удаленную работу.
