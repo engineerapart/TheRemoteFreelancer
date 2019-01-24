@@ -126,13 +126,13 @@ https://freelandr.com
 https://remotephp.io
 
 ### Bounties based and open source
-https://gitcoin.co
-https://bountysource.com
+https://gitcoin.co  
+https://bountysource.com  
 https://gitpay.me
 
 ### Remote jobs
 
-[lukasz-madonawesome-remote-job A curated list of awesome remote jobs and resources. Inspired by httpsgithub.comvintaawesome-python](https://github.com/lukasz-madon/awesome-remote-job#job-boards)
+[lukasz-madonawesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards) -- A curated list of awesome remote jobs and resources. Inspired by github.com/vintaawesome-python
 
 [HN Hiring (hnhiring.me)](http://hnhiring.me/)
 
