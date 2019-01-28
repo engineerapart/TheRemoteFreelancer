@@ -124,6 +124,7 @@ http://www.lancelist.com/
 https://www.letsmakeapps.io/  
 https://freelandr.com  
 https://remotephp.io
+https://periodix.net/
 
 ### Bounties based and open source
 https://gitcoin.co  
