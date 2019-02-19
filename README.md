@@ -24,6 +24,7 @@ See [Why](#why) and [Contributing](#contributing)
 | [Speedlancer](https://speedlancer.com/)                                                  | 600,000        |            | Designers & Developers                    |
 | [Soshace](https://www.soshace.com/)                                                      | 2,000,000      |            | Developers                                |
 | [Certace](https://www.certace.com)                                                       | 9,000,000      |            | Data Scientists                           |
+| [digitalminds.io](https://www.cdigitalminds.io/)                                         |                |            | Developers, Data Scientists & Others      |
 | **Other**                                                                                |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
 | [Fiverr](https://www.fiverr.com/)                                                        | 400            | Gigs       | Variety                                   |
