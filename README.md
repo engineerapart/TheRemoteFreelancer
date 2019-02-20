@@ -22,9 +22,10 @@ See [Why](#why) and [Contributing](#contributing)
 | [Scalable Path](https://www.scalablepath.com/)                                           | 200,000        |            | Designers & Developers                    |
 | [Lorem](https://www.asklorem.com/)                                                       | 400,000        |            | Designers, Developers, & Others           |
 | [Speedlancer](https://speedlancer.com/)                                                  | 600,000        |            | Designers & Developers                    |
+| [Worksome](https://worksome.co.uk/)                                                      | 1,800,000      |            | Consultants, Data Scientists, & Developers|
 | [Soshace](https://www.soshace.com/)                                                      | 2,000,000      |            | Developers                                |
 | [Certace](https://www.certace.com)                                                       | 9,000,000      |            | Data Scientists                           |
-| [digitalminds.io](https://www.cdigitalminds.io/)                                         |                |            | Developers, Data Scientists & Others      |
+| [digitalminds.io](https://www.cdigitalminds.io/)                                         |                |            | Developers,  & Others      |
 | **Other**                                                                                |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
 | [Fiverr](https://www.fiverr.com/)                                                        | 400            | Gigs       | Variety                                   |
@@ -76,6 +77,7 @@ See [Why](#why) and [Contributing](#contributing)
 **Denmark**
 
 - [Codeable](http://www.codeable.io) - Leader in Denmark for Wordpress freelancing.
+- [Worksome](http://www.worksome.dk) - Denmark's largest platform for local freelancers.
 
 **Dutch**
 
