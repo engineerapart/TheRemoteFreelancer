@@ -25,7 +25,6 @@ See [Why](#why) and [Contributing](#contributing)
 | [Worksome](https://worksome.co.uk/)                                                      | 1,800,000      |            | Consultants, Data Scientists, & Developers|
 | [Soshace](https://www.soshace.com/)                                                      | 2,000,000      |            | Developers                                |
 | [Certace](https://www.certace.com)                                                       | 9,000,000      |            | Data Scientists                           |
-| [digitalminds.io](https://www.cdigitalminds.io/)                                         |                |            | Developers,  & Others      |
 | **Other**                                                                                |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
 | [Fiverr](https://www.fiverr.com/)                                                        | 400            | Gigs       | Variety                                   |
