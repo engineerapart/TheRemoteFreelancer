@@ -43,6 +43,7 @@ See [Why](#why) and [Contributing](#contributing)
 | [We Work Remotely](https://weworkremotely.com/)                                          | 40,000         |            | Variety                                   |
 | [RemoteOK](https://remoteok.io/)                                                         | 60,000         |            | Developers                                |
 | [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                | 70,000         |            | Developers                                |
+| [Jobdone.net](https://jobdone.net/explore?)                                              | 961,426        | Gigs       | Variety                                   |
 | [Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html)             | 1,000,000      |            | Go/Golang jobs, filter on remote jobs     |
 | [Team Extension](https://teamextension.io/)                                | 3,400,000         |            | Eastern Euro Developers, Designers, QA      
 | [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html)                        | 20,000,000     |            | AI/Machine learning jobs, filter on remote jobs  |
