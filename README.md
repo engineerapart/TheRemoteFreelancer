@@ -30,6 +30,7 @@ See [Why](#why) and [Contributing](#contributing)
 | [Fiverr](https://www.fiverr.com/)                                                        | 400            | Gigs       | Variety                                   |
 | [Bonsai](https://www.hellobonsai.com/)                                                   | 100,000        | Tools      | Designers, Developers, & Others           |
 | [HackHands](https://hackhands.com)                                                       | 200,000        | Tutoring   | Developers                                |
+| [Jobdone.net](https://jobdone.net/explore?)                                              | 1,000,000        | Gigs       | Variety                                   |
 | [Remote One](https://remote.one/)                                                        | 3,000,000      | Tools      | Designers, Developers, & Others           |
 | [\#frontenddevelopers.org](http://frontenddevelopers.org/)                               | 3,000,000      | Community  | Developers                                |
 | [\#freelance](http://freelance.chat/)                                                    | 10,000,000     | Community  | Developers                                |
