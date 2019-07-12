@@ -130,6 +130,7 @@ https://freelandr.com/
 https://remotephp.io  
 https://periodix.net  
 https://www.remotelyawesomejobs.com
+https://www.nynedge.com/
 
 ### Bounties based and open source
 https://gitcoin.co  
