@@ -20,6 +20,7 @@ See [Why](#why) and [Contributing](#contributing)
 | [CodeMentor.io](https://www.codementor.io/i/2kz84aesbl)                                  | 10,000         | & Tutoring | Developers                                |
 | [Crossover](https://www.crossover.com)                                                   | 50,000         |            | Developers & Business Mangers             |
 | [Scalable Path](https://www.scalablepath.com/)                                           | 200,000        |            | Designers & Developers                    |
+| [Turing](https://turing.com/)                                                            | 400,000        |            | Developers                                |
 | [Lorem](https://www.asklorem.com/)                                                       | 400,000        |            | Designers, Developers, & Others           |
 | [Speedlancer](https://speedlancer.com/)                                                  | 600,000        |            | Designers & Developers                    |
 | [Worksome](https://worksome.co.uk/)                                                      | 1,800,000      |            | Consultants, Data Scientists, & Developers|
