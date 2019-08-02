@@ -22,6 +22,7 @@ See [Why](#why) and [Contributing](#contributing)
 | [Scalable Path](https://www.scalablepath.com/)                                           | 200,000        |            | Designers & Developers                    |
 | [Turing](https://turing.com/)                                                            | 400,000        |            | Developers                                |
 | [Lorem](https://www.asklorem.com/)                                                       | 400,000        |            | Designers, Developers, & Others           |
+| [Arc](https://arc.dev/)                                                                  | 600,000        |            | Developers                                |
 | [Speedlancer](https://speedlancer.com/)                                                  | 600,000        |            | Designers & Developers                    |
 | [Worksome](https://worksome.co.uk/)                                                      | 1,800,000      |            | Consultants, Data Scientists, & Developers|
 | [Soshace](https://www.soshace.com/)                                                      | 2,000,000      |            | Developers                                |
