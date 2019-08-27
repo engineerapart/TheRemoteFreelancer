@@ -42,12 +42,13 @@ See [Why](#why) and [Contributing](#contributing)
 | [Dribbble Jobs](https://dribbble.com/obs?utf8=%E2%9C%93&anywhere=true&location=Anywhere) | 1,000          |            | Designers                                 |
 | [Angel List Jobs](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D)                | 4,000          |            | Variety                                   |
 | [FlexJobs](https://www.flexjobs.com)                                                     | 20,000         |            | Variety                                   |
+| [We Work Remotely](https://weworkremotely.com/)                                          | 20,000         |            | Variety                                   |
 | [Hired](https://hired.com/)                                                              | 30,000         |            | Designers, Developers, & Product Managers |
-| [We Work Remotely](https://weworkremotely.com/)                                          | 40,000         |            | Variety                                   |
-| [RemoteOK](https://remoteok.io/)                                                         | 60,000         |            | Developers                                |
-| [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                | 70,000         |            | Developers                                |
-| [Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html)             | 1,000,000      |            | Go/Golang jobs, filter on remote jobs     |
-| [Team Extension](https://teamextension.io/)                                | 3,400,000         |            | Eastern Euro Developers, Designers, QA      
+| [RemoteOK](https://remoteok.io/)                                                         | 40,000         |            | Developers                                |
+| [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                | 130,000        |            | Developers                                |
+| [RemoteRole](https://remoterole.com/)                                                    | 290,000        |            | Designers, Developers, & Product Managers |
+| [Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html)             | 700,000        |            | Go/Golang jobs, filter on remote jobs     |
+| [Team Extension](https://teamextension.io/)                                              | 3,800,000      |            | Eastern Euro Developers, Designers, QA      
 | [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html)                        | 20,000,000     |            | AI/Machine learning jobs, filter on remote jobs  |
 | **Agency**                                                                               |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
