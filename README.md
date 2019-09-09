@@ -131,8 +131,9 @@ https://www.letsmakeapps.io/
 https://freelandr.com/  
 https://remotephp.io  
 https://periodix.net  
-https://www.remotelyawesomejobs.com
-https://www.nynedge.com/
+https://www.remotelyawesomejobs.com  
+https://www.nynedge.com/  
+https://remotework.fyi/
 
 ### Bounties based and open source
 https://gitcoin.co  
