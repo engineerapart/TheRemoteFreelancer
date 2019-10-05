@@ -17,7 +17,7 @@ See [Why](#why) and [Contributing](#contributing)
 | [Toptal](https://www.toptal.com/#amass-nothing-but-top-notch-software-architects)        | 7,000          |            | Designers, Developers, & Others           |
 | [Guru.com](http://www.guru.com/)                                                         | 13,000         |            | Designers, Developers, & Others           |
 | [Truelancer](https://www.truelancer.com)                                                 | 29,000         |            | Designers, Developers, & Others           |
-| [CodeMentor.io](https://www.codementor.io/i/2kz84aesbl)                                  | 10,000         | & Tutoring | Developers                                |
+| [CodeMentor.io](https://www.codementor.io)                                               | 10,000         | & Tutoring | Developers                                |
 | [Crossover](https://www.crossover.com)                                                   | 50,000         |            | Developers & Business Mangers             |
 | [Scalable Path](https://www.scalablepath.com/)                                           | 200,000        |            | Designers & Developers                    |
 | [Turing](https://turing.com/)                                                            | 400,000        |            | Developers                                |
