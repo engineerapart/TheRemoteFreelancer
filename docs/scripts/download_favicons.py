@@ -21,7 +21,7 @@ def download_favicons(links):
             try:
                 print(url)
                 response = requests.get(
-                    "https://realfavicongenerator.p.mashape.com/favicon/icon",
+                    "https://realfavicongenerator.p.rapidapi.com/favicon/icon",
                     params={'platform': 'desktop', "site": url},
                     headers={'X-Mashape-Key': os.environ.get("mashape_key")}
                 )

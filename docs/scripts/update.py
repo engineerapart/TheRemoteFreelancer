@@ -59,7 +59,7 @@ def get_groups(links):
 
 def get_groups_in_order(links):
     rank_sorted_groups = dict(get_groups(links))
-    for group in ["Clients", "Tutoring", "Other", "Agency"]:
+    for group in ["Clients", "Tutoring", "Other", "Agency", "Jobs"]:
         yield from rank_sorted_groups[group]
 
 
