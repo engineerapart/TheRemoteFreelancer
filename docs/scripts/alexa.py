@@ -7,30 +7,19 @@ import re
 import urllib.error
 import urllib.parse
 import xml.etree.ElementTree as ET
-from datetime import datetime
 
 import requests
+from aws_requests_auth.aws_auth import AWSRequestsAuth
 
 rank_search = re.compile("<aws:Rank>(.*?)</aws:Rank>")
 
-session = None
-
 
 def get_awi_url_info(url):
-    global session
-
-    access_key = os.environ.get("access_key")
-    secret_key = os.environ.get("secret_key")
-    service_host = "awis.amazonaws.com"
-
-    # 
+    access_key = os.environ.get("AWS_ACCESS_KEY_ID")
+    secret_key = os.environ.get("AWS_SECRET_ACCESS_KEY")
     params = {
         'Action': 'UrlInfo',
-        'AWSAccessKeyId': access_key,
-        'ResponseGroup': 'Rank',
-        'SignatureMethod': 'HmacSHA256',
-        'SignatureVersion': '2',
-        'Timestamp': datetime.utcnow().isoformat(),
+        'ResponseGroup': "Rank",
         'Url': url
     }
 
@@ -39,17 +28,11 @@ def get_awi_url_info(url):
     query_params = "&".join(
         ["%s=%s" % (k, urllib.parse.quote(v, '[^A-Za-z0-9\-_.~]')) for k, v in ordered_params.items()])
 
-    # Signing Key
-    data = "GET\n" + service_host.lower() + "\n/\n" + query_params
-    data_hash = hmac.new(secret_key.encode("utf-8"), data.encode("utf-8"), hashlib.sha256).digest()
-    data_base64 = base64.b64encode(data_hash).strip()
-    signed = urllib.parse.quote(data_base64, '[^A-Za-z0-9\-_.~]')
+    auth = AWSRequestsAuth(access_key, secret_key, "awis.us-west-1.amazonaws.com", 'us-west-1', 'awis')
 
-    query_url = "http://awis.amazonaws.com/?%s&Signature=%s" % (query_params, signed)
+    query_url = f"https://awis.us-west-1.amazonaws.com/api?{query_params}"
 
-    if not session:
-        session = requests.Session()
-    result = session.get(url=query_url)
+    result = requests.get(url=query_url, auth=auth)
     return ET.fromstring(result.content)
 
 
