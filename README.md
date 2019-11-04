@@ -57,7 +57,7 @@ See [Why](#why) and [Contributing](#contributing)
 | [X-Team](http://x-team.com)                                                              | 80,000         |            |                                           |
 | [Experfy](https://www.experfy.com/)                                                      | 90,000         |            | Data Scientists & Developers              |
 | [Konsus](https://www.konsus.com/)                                                        | 200,000        |            | Designers, Writers, Researchers           |
-| [Gigster](https://gigs.to/r/Dz2vevg)                                                     | 200,000        |            | Developers                                |
+| [Gigster](https://gigster.com/)                                                          | 200,000        |            | Developers                                |
 | [Gun.io](https://gun.io/)                                                                | 200,000        |            | Developers                                |
 | [DOZ.com](https://www.doz.com)                                                           | 300,000        |            | Marketing                                 |
 | [Crew](https://crew.co/)                                                                 | 500,000        |            |                                           |
