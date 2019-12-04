@@ -23,7 +23,7 @@ See [Why](#why) and [Contributing](#contributing)
 | [Turing](https://turing.com/)                                                            | 100,000        |            | Developers                                |
 | [Lorem](https://www.asklorem.com/)                                                       | 200,000        |            | Designers, Developers, & Others           |
 | [Soshace](https://www.soshace.com/)                                                      | 200,000        |            | Developers                                |
-| [Adeva](https://adevait.com/)                                          		           | 500,000        |            | Developers                                |
+| [Adeva](https://adevait.com/)                                             		           | 500,000        |            | Developers                                |
 | [Speedlancer](https://speedlancer.com/)                                                  | 600,000        |            | Designers & Developers                    |
 | [Worksome](https://worksome.co.uk/)                                                      | 900,000        |            | Consultants, Data Scientists, & Developers|
 | [Certace](https://www.certace.com)                                                       | 10,000,000     |            | Data Scientists                           |
