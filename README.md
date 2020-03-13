@@ -103,6 +103,11 @@ See [Why](#why) and [Contributing](#contributing)
 - [FL](https://www.fl.ru/) - профессиональный ресурс, предназначенный для поиска работы или исполнителя на удаленную работу.
 - [freelance.ru](https://freelance.ru/) - Биржа фриланса, каталог фрилансеров и самозанятых по категориям.
 
+**Indonesian**
+- [Projects.co.id](https://projects.co.id/) - Leader in Indonesia.
+- [Fastwork](https://m.fastwork.id/) - Newcomers.
+- [Sribu.com](https://sribu.com/) - is For Designer (but sribulancer.com is dead).
+
 ## Why
 This repo was inspired by [this Hacker News thread](https://news.ycombinator.com/item?id=12773282) about one software developer's experience with Upwork. For all those who have had bad experiences with Upwork, I wanted to create a list of additional resources that software developers can use to find freelance, nomadic and contract work.
 
