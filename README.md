@@ -20,6 +20,7 @@ See [Why](#why) and [Contributing](#contributing)
 | [Crossover](https://www.crossover.com)                                                   | 40,000         |            | Developers & Business Mangers             |
 | [arc.dev](https://arc.dev/)                                                              | 60,000         |            | Developers                                |
 | [Scalable Path](https://www.scalablepath.com/)                                           | 100,000        |            | Designers & Developers                    |
+| [pimentaGROUP](https://www.pimenta.group/)                                               | 150,000        |            | Designers & Developers                    |
 | [Turing](https://turing.com/)                                                            | 100,000        |            | Developers                                |
 | [Lorem](https://www.asklorem.com/)                                                       | 200,000        |            | Designers, Developers, & Others           |
 | [Soshace](https://www.soshace.com/)                                                      | 200,000        |            | Developers                                |
