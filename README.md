@@ -77,7 +77,8 @@ See [Why](#why) and [Contributing](#contributing)
 **French**
 
 - [Codeur](https://www.codeur.com/) - Leader in France.
-- [Hopwork](https://www.hopwork.fr/) - Is getting some tractions.
+- [Malt](https://www.malt.fr/) - One of the largest plateform for french Freelancers.
+- [Comet](https://www.comet.co/) - French plateform that search and qualify IT freelancers for each mission.
 
 **Denmark**
 
