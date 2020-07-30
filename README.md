@@ -141,6 +141,7 @@ https://periodix.net
 https://www.remotelyawesomejobs.com  
 https://www.nynedge.com/  
 https://remotework.fyi/
+https://www.vollna.com/
 
 ### Bounties based and open source
 https://gitcoin.co  
