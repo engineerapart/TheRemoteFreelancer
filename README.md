@@ -29,7 +29,6 @@ See [Why](#why) and [Contributing](#contributing)
 | [Certace](https://www.certace.com)                                                       | 10,000,000     |            | Data Scientists                           |
 | **Tutoring**                                                                             |                |            |                                           |
 | [CodeMentor.io](https://www.codementor.io)                                               | 10,000         | Tutoring   | Developers                                |
-| [HackHands](https://hackhands.com)                                                       | 3,000,000      | Tutoring   | Developers                                |
 | **Other**                                                                                |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
 | [Fiverr](https://www.fiverr.com/)                                                        | 100            | Gigs       | Variety                                   |
