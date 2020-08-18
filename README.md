@@ -3,7 +3,7 @@ List of community-curated resources to find topical remote freelance &amp; contr
 
 Now available in website also! [theremotefreelancer.com](https://theremotefreelancer.com)
 
-See [Why](#why) and [Contributing](#contributing)
+See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estimation on how popular the site is, with #1 being the most viewed site on the internet in the US.
 
 
 **English**
