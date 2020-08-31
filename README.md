@@ -36,6 +36,7 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [Jobdone.net](https://jobdone.net/explore?)                                              | 1,000,000      | Gigs       | Variety                                   |
 | [Remote One](https://remote.one/)                                                        | 3,000,000      | Tools      | Designers, Developers, & Others           |
 | [\#frontenddevelopers.org](http://frontenddevelopers.org/)                               | 3,000,000      | Community  | Developers                                |
+| [Hypelance](http://frontenddevelopers.org/)                               | 7,000,000      | Community  | Designers, Developers, & Others                      |
 | [\#freelance](http://freelance.chat/)                                                    | 10,000,000     | Community  | Developers                                |
 | **Jobs**                                                                                 |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
