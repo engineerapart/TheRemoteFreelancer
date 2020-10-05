@@ -50,7 +50,7 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [RemoteOK](https://remoteok.io/)                                                         | 30,000         |            | Developers                                |
 | [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                | 100,000        |            | Developers                                |
 | [Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html)             | 900,000        |            | Go/Golang jobs, filter on remote jobs     |
-| [Team Extension](https://teamextension.io/)                                              | 5,000,000      |            | Eastern Euro Developers, Designers, QA      
+| [Team Extension](https://teamextension.io/)                                              | 5,000,000      |            | Eastern Euro Developers, Designers, QA
 | [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html)                        | 10,000,000     |            | AI/Machine learning jobs, filter on remote jobs  |
 | **Agency**                                                                               |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
@@ -73,13 +73,13 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 
 **Latin America**
 
-- [Workana](https://www.workana.com) -- Largest Latin American freelancer network
+- [Workana](https://www.workana.com) – Largest Latin American freelancer network
 
 **French**
 
 - [Codeur](https://www.codeur.com/) - Leader in France.
-- [Malt](https://www.malt.fr/) - One of the largest plateform for french Freelancers.
-- [Comet](https://www.comet.co/) - French plateform that search and qualify IT freelancers for each mission.
+- [Malt](https://www.malt.fr/) - One of the largest platform for french Freelancers.
+- [Comet](https://www.comet.co/) - French platform that search and qualify IT freelancers for each mission.
 
 **Denmark**
 
@@ -118,7 +118,7 @@ Please please please contribute to the list! If you have freelance work availabl
 
 Thank you for looking :) Good hunting!
 
-## Differences betwteen types
+## Differences between types
 
 |                                  | Clients                                                                                          | Jobs                                                                                         | Agency                                                                                            |
 |----------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
@@ -132,29 +132,35 @@ Thank you for looking :) Good hunting!
 
 ### Aggregators
 
-http://jobscribe.com/  
-https://www.hellobonsai.com/gig-list  
-https://www.folyo.me/  
-http://www.lancelist.com/  
-https://www.letsmakeapps.io/  
-https://freelandr.com/  
-https://remotephp.io  
-https://periodix.net  
-https://www.remotelyawesomejobs.com  
-https://www.nynedge.com/  
-https://remotework.fyi/
-https://www.vollna.com/
+- http://jobscribe.com/
+- https://www.hellobonsai.com/gig-list
+- https://www.folyo.me/
+- http://www.lancelist.com/
+- https://www.letsmakeapps.io/
+- https://freelandr.com/
+- https://remotephp.io
+- https://periodix.net
+- https://www.remotelyawesomejobs.com
+- https://www.nynedge.com/
+- https://remotework.fyi/
+- https://www.vollna.com/
 
 ### Bounties based and open source
-https://gitcoin.co  
-https://bountysource.com  
-https://gitpay.me
+- https://gitcoin.co
+- https://bountysource.com
+- https://gitpay.me
 
 ### Remote jobs
 
-[lukasz-madonawesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards) -- A curated list of awesome remote jobs and resources. Inspired by github.com/vintaawesome-python
+- [lukasz-madonawesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards) – A curated list of awesome remote jobs and resources. Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
+- [HN Hiring (hnhiring.me)](http://hnhiring.me/)
+- [HNHIRING](https://hnhiring.com/) – All Jobs From Hacker News 'Who is Hiring?'.
+- [Remote Leaf](https://remoteleaf.com/) – Receive hand-picked remote jobs posted anywhere delivered straight to your inbox.
 
-[HN Hiring (hnhiring.me)](http://hnhiring.me/)
+### Tools
+- [ALRM](https://alrm.app/) – The best way to receive notifications when relevant jobs are posted on Upwork, Freelance and PeoplePerHour.
+- [Upfeed](https://upfeed.io/) – Smart and personalized Upwork's feed.
+- [Upwork jobs feed tracker](https://chrome.google.com/webstore/detail/upwork-jobs-feed-tracker/gcjmekbfkkmaccloaoccfiohjnmgkddm) – Convenient way to track new jobs for Upwork freelancers.
 
 ## License
 None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts. (Ok, officially, "The Unlicense")
