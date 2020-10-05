@@ -132,40 +132,35 @@ Thank you for looking :) Good hunting!
 
 ### Aggregators
 
-http://jobscribe.com/
-https://www.hellobonsai.com/gig-list
-https://www.folyo.me/
-http://www.lancelist.com/
-https://www.letsmakeapps.io/
-https://freelandr.com/
-https://remotephp.io
-https://periodix.net
-https://www.remotelyawesomejobs.com
-https://www.nynedge.com/
-https://remotework.fyi/
-https://www.vollna.com/
+- http://jobscribe.com/
+- https://www.hellobonsai.com/gig-list
+- https://www.folyo.me/
+- http://www.lancelist.com/
+- https://www.letsmakeapps.io/
+- https://freelandr.com/
+- https://remotephp.io
+- https://periodix.net
+- https://www.remotelyawesomejobs.com
+- https://www.nynedge.com/
+- https://remotework.fyi/
+- https://www.vollna.com/
 
 ### Bounties based and open source
-https://gitcoin.co
-https://bountysource.com
-https://gitpay.me
+- https://gitcoin.co
+- https://bountysource.com
+- https://gitpay.me
 
 ### Remote jobs
 
-[lukasz-madonawesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards) – A curated list of awesome remote jobs and resources. Inspired by github.com/vintaawesome-python
-
-[HN Hiring (hnhiring.me)](http://hnhiring.me/)
-
-[HNHIRING](https://hnhiring.com/) – All Jobs From Hacker News 'Who is Hiring?'.
-
-[Remote Leaf](https://remoteleaf.com/) – Receive hand-picked remote jobs posted anywhere delivered straight to your inbox.
+- [lukasz-madonawesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards) – A curated list of awesome remote jobs and resources. Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
+- [HN Hiring (hnhiring.me)](http://hnhiring.me/)
+- [HNHIRING](https://hnhiring.com/) – All Jobs From Hacker News 'Who is Hiring?'.
+- [Remote Leaf](https://remoteleaf.com/) – Receive hand-picked remote jobs posted anywhere delivered straight to your inbox.
 
 ### Tools
-[ALRM](https://alrm.app/) – The best way to receive notifications when relevant jobs are posted on Upwork, Freelance and PeoplePerHour.
-
-[Upfeed](https://upfeed.io/) – Smart and personalized Upwork's feed.
-
-[Upwork jobs feed tracker](https://chrome.google.com/webstore/detail/upwork-jobs-feed-tracker/gcjmekbfkkmaccloaoccfiohjnmgkddm) – Convenient way to track new jobs for Upwork freelancers.
+- [ALRM](https://alrm.app/) – The best way to receive notifications when relevant jobs are posted on Upwork, Freelance and PeoplePerHour.
+- [Upfeed](https://upfeed.io/) – Smart and personalized Upwork's feed.
+- [Upwork jobs feed tracker](https://chrome.google.com/webstore/detail/upwork-jobs-feed-tracker/gcjmekbfkkmaccloaoccfiohjnmgkddm) – Convenient way to track new jobs for Upwork freelancers.
 
 ## License
 None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts. (Ok, officially, "The Unlicense")
