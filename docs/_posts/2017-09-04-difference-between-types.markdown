@@ -46,6 +46,6 @@ published: true
     <td class="tg-yw4l">Vetting/Interviews</td>
     <td class="tg-yw4l">Clients vets you</td>
     <td class="tg-yw4l">Companies vet you</td>
-    <td class="tg-yw4l">Organization vets you, Client wouldn’t really vet you individual</td>
+    <td class="tg-yw4l">Organization vets you, Client wouldn’t really vet you individually</td>
   </tr>
 </table>
