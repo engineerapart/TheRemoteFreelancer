@@ -47,11 +47,12 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [FlexJobs](https://www.flexjobs.com)                                                     | 5,000          |            | Variety                                   |
 | [We Work Remotely](https://weworkremotely.com/)                                          | 10,000         |            | Variety                                   |
 | [Hired](https://hired.com/)                                                              | 20,000         |            | Designers, Developers, & Product Managers |
-| [RemoteOK](https://remoteok.io/)                                                         | 30,000         |            | Developers                                |
+| [RemoteOK](https://remoteok.io/)                                                         | 30,000         |            | Developers 
 | [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                | 100,000        |            | Developers                                |
 | [Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html)             | 900,000        |            | Go/Golang jobs, filter on remote jobs     |
 | [Team Extension](https://teamextension.io/)                                              | 5,000,000      |            | Eastern Euro Developers, Designers, QA
 | [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html)                        | 10,000,000     |            | AI/Machine learning jobs, filter on remote jobs  |
+| [Remotebond](https://remotebond.com/)                                                    | 12,000,00      |            | Developers, Designers, Marketing |
 | **Agency**                                                                               |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
 | [Codeable](https://codeable.io/)                                                         | 30,000         |            | Wordpress Developers developers           |
@@ -144,6 +145,7 @@ Thank you for looking :) Good hunting!
 - https://www.nynedge.com/
 - https://remotework.fyi/
 - https://www.vollna.com/
+- https://remotebond.com/
 
 ### Bounties based and open source
 - https://gitcoin.co
