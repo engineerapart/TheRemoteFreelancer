@@ -144,6 +144,7 @@ Thank you for looking :) Good hunting!
 - https://www.nynedge.com/
 - https://remotework.fyi/
 - https://www.vollna.com/
+- https://remotebond.com/
 
 ### Bounties based and open source
 - https://gitcoin.co
