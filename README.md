@@ -49,6 +49,7 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [Hired](https://hired.com/)                                                              | 20,000         |            | Designers, Developers, & Product Managers |
 | [RemoteOK](https://remoteok.io/)                                                         | 30,000         |            | Developers                                |
 | [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                | 100,000        |            | Developers                                |
+| [Findwork.dev](https://findwork.dev/?remote=true)                                        | 500,000        |            | Variety, filter on remote jobs                                   |
 | [Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html)             | 900,000        |            | Go/Golang jobs, filter on remote jobs     |
 | [Team Extension](https://teamextension.io/)                                              | 5,000,000      |            | Eastern Euro Developers, Designers, QA
 | [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html)                        | 10,000,000     |            | AI/Machine learning jobs, filter on remote jobs  |
