@@ -2,6 +2,7 @@ from io import StringIO
 import pandas 
 
 commit_dates = {
+"552d89f30406792844daa13825f503f119e1d9f8":"Feb 15 2020",
 "993bfdf5ec4e19148d11fe16de7f48364dd0c52e":"Nov 2 2019",
 "90cd77d68222726e8a0d0a76440f754d9cb69b88":"Nov 2 2019",
 "2867866de9247e8c291f3aeb50735c81af519001":"Nov 6 2018",
