@@ -127,6 +127,7 @@ Thank you for looking :) Good hunting!
 
 ### Aggregators
 
+- https://findwork.dev
 - http://jobscribe.com/
 - https://www.hellobonsai.com/gig-list
 - https://www.folyo.me/
