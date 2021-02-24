@@ -154,8 +154,7 @@ Thank you for looking :) Good hunting!
 - [HNHIRING](https://hnhiring.com/) – All Jobs From Hacker News 'Who is Hiring?'.
 - [Remote Leaf](https://remoteleaf.com/) – Receive hand-picked remote jobs posted anywhere delivered straight to your inbox.
 
-### Tools
-- [ALRM](https://alrm.app/) – The best way to receive notifications when relevant jobs are posted on Upwork, Freelance and PeoplePerHour.
+### Job tracking tools
 - [Upfeed](https://upfeed.io/) – Smart and personalized Upwork's feed.
 - [Upwork jobs feed tracker](https://chrome.google.com/webstore/detail/upwork-jobs-feed-tracker/gcjmekbfkkmaccloaoccfiohjnmgkddm) – Convenient way to track new jobs for Upwork freelancers.
 
