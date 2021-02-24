@@ -78,7 +78,6 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 
 **Denmark**
 
-- [Codeable](http://www.codeable.io) - Leader in Denmark for Wordpress freelancing.
 - [Worksome](http://www.worksome.dk) - Denmark's largest platform for local freelancers.
 
 **Dutch**
