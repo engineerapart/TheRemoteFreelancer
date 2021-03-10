@@ -45,7 +45,7 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [RemoteOK](https://remoteok.io/)                                                         | 30,000         |            | Developers                                |
 | [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                | 300,000        |            | Developers                                |
 | [Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html)             | 900,000        |            | Go/Golang jobs, filter on remote jobs     |
-| [Remotesome.com](https://www.remotesome.com/)                                            | 980,000        |            | Variety, remote jobs                      |
+| [Remotesome.com](https://www.remotesome.com/)                                            | 1,000,000      |            | Developers                      |
 | [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html)                        | 7,000,000      |            | AI/Machine learning jobs, filter on remote jobs  |
 | [Team Extension](https://teamextension.io/)                                              | 8,000,000      |            | Eastern Euro Developers, Designers, QA
 | **Agency**                                                                               |                |            |                                           |
