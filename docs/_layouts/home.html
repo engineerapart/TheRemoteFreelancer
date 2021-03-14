@@ -2,10 +2,101 @@
 layout: default
 ---
 
-<div class="home"> 
+<div class="overflow-hidden lg:flex">
+  <div class="relative w-full lg:w-1/3 xl:w-2/5 2xl:w-1/2 lg:h-screen">
+    <div class="h-full">
+      <img
+        class="absolute object-cover object-center w-full h-full"
+        src="/images/bg.jpg"
+      />
 
-    {{ content }}
-    
-    {% include board_listing.html %}
+      <div
+        class="relative flex flex-col h-full p-12 text-center text-white lg:text-left lg:justify-between"
+      >
+        <div>{% include logo.html %}</div>
 
+        <div class="py-20 lg:py-0 lg:max-w-md">
+          <div>
+            <h1 class="text-3xl 2xl:text-5xl font-extralight">
+              Top Services <br />
+              For Freelancers
+            </h1>
+
+            <p class="mt-3 text-base font-light 2xl:text-lg 2xl:mt-6">
+              Your available freelancer list out many different job boards, gig
+              services, communities, and consulting agencies.
+            </p>
+          </div>
+
+          <div class="hidden w-full mt-8 lg:inline-block 2xl:mt-16">
+            <div class="h-1 w-9 bg-brand"></div>
+
+            <h1 class="mt-4 text-xl 2xl:text-2xl">Recent Articles</h1>
+
+            <div class="mt-5">
+              {% for post in site.posts limit:3 %}
+              <a
+                class="block font-light underline truncate"
+                href="{{ post.url }}"
+              >
+                {{ post.title }}</a
+              >
+              {% endfor %}
+            </div>
+
+            <div class="mt-5">
+              <a class="text-brand hover:underline" href="/posts"
+                >More Articles</a
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="hidden lg:inline-block lg:max-w-md">
+          <div>
+            <p class="text-lg font-medium">Andy Chase</p>
+            <a
+              class="font-light hover:underline"
+              href="mailto:contact@theremotefreelancer.com"
+              >contact@theremotefreelancer.com</a
+            >
+          </div>
+
+          <div class="mt-5 space-x-5 text-xs font-base 2xl:mt-10">
+            <a
+              href="https://github.com/engineerapart/TheRemoteFreelancer"
+              target="_blank"
+              class="cursor-pointer hover:underline"
+            >
+              Suggest a change
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {% include board_listing.html %}
+
+  <div class="block lg:hidden bg-brand-gray-10 px-8">
+    <div class="w-full mt-8 inline-block text-center text-white">
+      <div class="h-1 w-9 bg-brand mx-auto"></div>
+
+      <h1 class="mt-4 text-xl 2xl:text-2xl">Recent Articles</h1>
+
+      <div class="mt-5">
+        {% for post in site.posts limit:3 %}
+        <a class="block font-light underline truncate" href="{{ post.url }}">
+          {{ post.title }}</a
+        >
+        {% endfor %}
+      </div>
+
+      <div class="mt-5">
+        <a class="text-brand hover:underline" href="/posts">More Articles</a>
+      </div>
+    </div>
+
+    {% include footer.html %}
+  </div>
 </div>

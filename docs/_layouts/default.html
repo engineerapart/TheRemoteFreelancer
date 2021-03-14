@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/assets/app.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>{{ site.title }}</title>
+
+    <style>
+      details > summary {
+        list-style-type: none;
+      }
+
+      details > summary::-webkit-details-marker {
+        display: none;
+      }
+
+      details > summary::before {
+        display: block;
+        content: " ";
+        background-image: url("/images/chevron-down.svg");
+        background-size: 28px 28px;
+        height: 28px;
+        width: 28px;
+      }
+
+      details[open] > summary::before {
+        display: block;
+        content: " ";
+        background-image: url("/images/chevron-up.svg");
+        background-size: 28px 28px;
+        height: 28px;
+        width: 28px;
+      }
+    </style>
+  </head>
+
+  <body class="min-h-screen font-sans antialiased text-brand-gray-9">
+    {{ content }}
+    <!-- <div id="content-container" class="mx-auto prose max-w-prose">
+      <main class="p-1" aria-label="Content">{{ content }}</main>
+    </div> -->
+  </body>
+</html>

@@ -4,3 +4,6 @@ _site/
 .jekyll-metadata
 __pycache__
 .idea/
+node_modules
+# Local Netlify folder
+.netlify
