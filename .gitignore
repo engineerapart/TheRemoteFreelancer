@@ -8,3 +8,4 @@ node_modules
 # Local Netlify folder
 .netlify
 docs/.netlify
+docs/.jekyll-cache

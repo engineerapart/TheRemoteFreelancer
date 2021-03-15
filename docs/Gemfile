@@ -1,12 +1,3 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.8.5"
-
-group :jekyll_plugins do
-    # gem "github-pages"
-    gem "jekyll-sitemap"
-    gem "jekyll-seo-tag"
-    gem 'jekyll-postcss'
-end
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
+gem 'github-pages', group: :jekyll_plugins
