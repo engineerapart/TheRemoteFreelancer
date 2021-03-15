@@ -1,25 +1,121 @@
-{% assign current_section = "!" %}
-<div class="underline-table">
-        {% for listing in site.data.sites %}
-        {% if include.filter == undefined or listing.hiringtype contains include.filter %}
-        {% if current_section != listing.section %}
-        {% assign current_section = listing.section %}
-        <h2 class="section-title">{{current_section}}</h2>
-        {% endif %}
-        <div class="site-card row">
-            <div class="column left">
-                <div>
-                    <h3><img src="/icons/{{listing.netloc}}.ico" class="favicon"/><a href="{% if listing.affiliate_link %}{{ listing.affiliate_link }}{% else %}{{listing.url}}{% endif %}">{{listing.name}}</a>
-                    </h3>
-                    <h4><small>Alexa Rank</small>{{listing.rank}}</h4>
-                </div>
+<div class="flex flex-col w-full bg-brand-gray-2 lg:w-2/3 xl:w-3/5 2xl:w-1/2 lg:h-screen">
+    <div class="flex items-center justify-between px-6 bg-white shadow lg:p-6 2xl:p-10">
+      <div class="space-x-4 tab-links">
+        <a
+          data-tab="clients"
+          class="inline-block py-3 text-base md:text-lg font-medium border-b-2 cursor-pointer text-brand-gray-9 lg:py-1 border-brand"
+          >Clients</a
+        >
+        <a
+          data-tab="jobs"
+          class="inline-block py-3 text-base md:text-lg font-medium cursor-pointer text-brand-gray-3 lg:py-1"
+          >Jobs</a
+        >
+        <a
+          data-tab="other"
+          class="inline-block py-3 text-base md:text-lg font-medium cursor-pointer text-brand-gray-3 lg:py-1"
+          >Other</a
+        >
+        <a
+          data-tab="agency"
+          class="inline-block py-3 text-base md:text-lg font-medium cursor-pointer text-brand-gray-3 lg:py-1"
+          >Agency</a
+        >
+      </div>
+
+      <div class="hidden md:flex space-x-3"> 
+        <a href="https://github.com/engineerapart/TheRemoteFreelancer" target="_blank">
+          <svg class="w-5 h-5 text-brand-gray-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"></path></svg>
+        </a>
+
+        <a href="https://twitter.com/tr_freelancer" target="_blank">
+          <svg class="w-5 h-5 text-brand-gray-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 26">
+            <circle id="Ellipse_1" data-name="Ellipse 1" cx="13" cy="13" r="13" fill="currentColor"/>
+            <path id="Social_Twitter_Bird_Symbol_copy_2" data-name="Social Twitter Bird Symbol copy 2" d="M1864.527,51.6a6.461,6.461,0,0,1-2.051.784,3.228,3.228,0,0,0-5.583,2.207,3.272,3.272,0,0,0,.083.736,9.161,9.161,0,0,1-6.652-3.372,3.232,3.232,0,0,0,1,4.309,3.228,3.228,0,0,1-1.462-.406v.04a3.231,3.231,0,0,0,2.589,3.166,3.236,3.236,0,0,1-1.458.055,3.231,3.231,0,0,0,3.014,2.241A6.477,6.477,0,0,1,1850,62.74a7.136,7.136,0,0,1-.77-.043,9.18,9.18,0,0,0,14.13-7.735l-.01-.418a6.49,6.49,0,0,0,1.613-1.669,6.444,6.444,0,0,1-1.853.509A3.246,3.246,0,0,0,1864.527,51.6Z" transform="translate(-1844 -44)" fill="#fff"/>
+          </svg>
+          
+        </a>
+      </div>
+    </div>
+
+    <div class="flex-1 px-6 py-10 mt-2 lg:overflow-scroll tabs lg:mt-0" >
+        <div id="clients">
+            <div class="hidden lg:block space-y-5">
+              {% include board_listing_item.html section='Clients' %}
             </div>
-            <div class="column right">
-                    <div>
-                    <span>{{listing.sdescription}}</span>
-                </div>
+            <div class="block lg:hidden space-y-5">
+              {% include board_listing_item_mobile.html section='Clients' %}
             </div>
         </div>
-        {% endif %}
-        {% endfor %}
-</div>
+        <div id="jobs" class="hidden">
+          <div class="hidden lg:block space-y-5">
+            {% include board_listing_item.html section='Jobs' %}
+          </div>
+          <div class="block lg:hidden space-y-5">
+            {% include board_listing_item_mobile.html section='Jobs' %}
+          </div>
+        </div>
+        <div id="other" class="hidden">
+          <div class="hidden lg:block space-y-5">
+            {% include board_listing_item.html section='Other' %}
+          </div>
+          <div class="block lg:hidden space-y-5">
+            {% include board_listing_item_mobile.html section='Other' %}
+          </div>
+        </div>
+        <div id="agency" class="hidden">
+          <div class="hidden lg:block space-y-5">
+            {% include board_listing_item.html section='Agency' %}
+          </div>
+          <div class="block lg:hidden space-y-5">
+            {% include board_listing_item_mobile.html section='Agency' %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let getSiblings = function (e) {
+      // for collecting siblings
+      let siblings = [];
+      // if no parent, return no sibling
+      if (!e.parentNode) {
+        return siblings;
+      }
+      // first child of the parent node
+      let sibling = e.parentNode.firstChild;
+
+      // collecting siblings
+      while (sibling) {
+        if (sibling.nodeType === 1 && sibling !== e) {
+          siblings.push(sibling);
+        }
+        sibling = sibling.nextSibling;
+      }
+      return siblings;
+    };
+
+    let links = document.querySelectorAll(".tab-links > a");
+
+    links.forEach((link) => {
+      link.addEventListener("click", function (event) {
+        event.preventDefault();
+
+        this.className =
+          "text-base md:text-lg text-brand-gray-9 font-medium cursor-pointer py-3 inline-block lg:py-1 border-b-2 border-brand";
+
+        getSiblings(this).forEach((sibling) => {
+          sibling.className =
+            "text-base md:text-lg text-brand-gray-3 font-medium cursor-pointer py-3 inline-block lg:py-1";
+        });
+
+        let tab = document.querySelector(".tabs div#" + this.dataset["tab"]);
+        tab.className = "";
+
+        getSiblings(tab).forEach((sibling) => {
+          sibling.className = "hidden";
+        });
+      });
+    });
+  </script>

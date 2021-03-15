@@ -20,16 +20,16 @@ description: > # this means to ignore newlines until "baseurl:"
   List of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://theremotefreelancer.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username: tr_freelancer
 github_username:  andychase
 google_analytics: UA-105858060-1
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
     - jekyll-sitemap
     - jekyll-seo-tag
+    - jekyll-postcss
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -42,3 +42,12 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - yarn.lock
+  - package-lock.json
+  - README.md
+  - postcss.config.js
+  - .gitignore

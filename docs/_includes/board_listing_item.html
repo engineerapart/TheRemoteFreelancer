@@ -1,0 +1,145 @@
+{{ section }} {% assign listings = site.data.sites | where:'section',
+include.section %} {% for listing in listings %}
+<div class="md:flex bg-white shadow">
+  <div class="w-full md:w-1/4 bg-brand-gray-1 border-r border-gray-200 p-6">
+    <div class="flex md:flex-col justify-between h-full">
+      <div>
+        <img
+          class="w-12 h-12"
+          src="/icons/{{listing.netloc}}.ico"
+          class="favicon"
+        />
+
+        <a
+          class="block mt-5 text-lg"
+          href="{% if listing.affiliate_link %}{{ listing.affiliate_link }}{% else %}{{listing.url}}{% endif %}"
+        >
+          {{listing.name}}
+        </a>
+      </div>
+      <div class="flex flex-col md:flex-row items-center justify-between">
+        <small
+          class="text-xs text-brand-gray-4 uppercase tracking-wide font-medium"
+        >
+          Alexa Rank
+        </small>
+
+        <div class="flex items-center text-sm">
+          <svg
+            class="mr-2"
+            xmlns="http://www.w3.org/2000/svg"
+            width="16"
+            height="13"
+            viewBox="0 0 16 13"
+          >
+            <path
+              id="Rectangle_7_copy_3"
+              data-name="Rectangle 7 copy 3"
+              d="M1104,357V347h4v10Zm-6,0V344h4v13Zm-6,0v-5h4v5Z"
+              transform="translate(-1092 -344)"
+              fill="#ffc601"
+            />
+          </svg>
+
+          {{listing.rank}}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="flex-1 flex flex-col p-6" style="min-height: 100px">
+    <div class="text-xs text-brand-gray-4">SUMMARY</div>
+    <div class="flex-1 mt-4">
+      <div class="font-light prose">
+        {% if listing.sdescription == "" or listing.sdescription == nil %}
+          -
+        {% else %}
+          {{listing.sdescription}}
+        {% endif %}
+       </div>
+    </div>
+
+    <div class="mt-4 grid grid-cols-2 gap-2 xl:gap-4 md:flex md:justify-between">
+      <div class="flex items-center text-xs">
+        <span
+          class="text-xs text-brand-gray-4 mr-2 uppercase tracking-wide font-medium"
+          >Type</span
+        >
+        {{ listing.type }}
+      </div>
+
+      <div class="flex items-center text-xs justify-end md:justify-start">
+        <span
+          class="text-xs text-brand-gray-4 mr-2 uppercase tracking-wide font-medium"
+          >SUPPORT</span
+        >
+        {% assign support = listing.support | plus: 0 %} {% for i in (1..5) %}
+        {% if i <= support and support <= 3 %}
+        <div class="flex-shrink-0 w-2.5 h-2.5 rounded-full mr-1 bg-brand-light"></div>
+        {% elsif i <= support and support > 3 %}
+        <div class="flex-shrink-0 w-2.5 h-2.5 rounded-full mr-1 bg-brand-green"></div>
+        {% else %}
+        <div
+          class="flex-shrink-0 w-2.5 h-2.5 rounded-full mr-1 bg-white border border-gray-300"
+        ></div>
+        {% endif %} {% endfor %}
+      </div>
+
+      <div class="flex items-center">
+        <span
+          class="text-xs text-brand-gray-4 mr-2 uppercase tracking-wide font-medium"
+          >JOB TERM</span
+        >
+        {% assign jobterm = listing.jobterm | plus: 0 %} {% for i in (1..5) %}
+        {% if i <= jobterm and jobterm <= 3 %}
+        <div class="flex-shrink-0 w-2.5 h-2.5 rounded-full mr-1 bg-brand-light"></div>
+        {% elsif i <= jobterm and jobterm > 3 %}
+        <div class="flex-shrink-0 w-2.5 h-2.5 rounded-full mr-1 bg-brand-green"></div>
+        {% else %}
+        <div
+          class="flex-shrink-0 w-2.5 h-2.5 rounded-full mr-1 bg-white border border-gray-300"
+        ></div>
+        {% endif %} {% endfor %}
+      </div>
+
+      <div class="flex items-center text-xs justify-end md:justify-start">
+        <span
+          class="text-xs text-brand-gray-4 mr-2 uppercase tracking-wide font-medium"
+          >SCREENING</span
+        >
+
+        {% if listing.screening == 'Open' %}
+        <svg
+          class="w-5 h-5 text-brand-green"
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M8 11V7a4 4 0 118 0m-4 8v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2z"
+          ></path>
+        </svg>
+        {% else %}
+        <svg
+          class="w-5 h-5 text-brand-light"
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"
+          ></path>
+        </svg>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}
