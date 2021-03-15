@@ -156,5 +156,9 @@ Thank you for looking :) Good hunting!
 - [Upfeed](https://upfeed.io/) – Smart and personalized Upwork's feed.
 - [Upwork jobs feed tracker](https://chrome.google.com/webstore/detail/upwork-jobs-feed-tracker/gcjmekbfkkmaccloaoccfiohjnmgkddm) – Convenient way to track new jobs for Upwork freelancers.
 
+## Who
+
+[codinronan](https://github.com/engineerapart) originally started this resource, [Andy Chase](https://github.com/andychase) has been maintaining since 2017. Special thanks to everyone who has submitted corrections and new sites. Also thanks to [Georges Kabbouchi](https://github.com/KABBOUCHI) who developed the website version based on a design from [Ovidiu Alexandrescu](https://github.com/owystyle).
+
 ## License
 None. Literally, why would I include a license in this. Copy, paste, skewer, go nuts. (Ok, officially, "The Unlicense")
