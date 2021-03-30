@@ -67,7 +67,7 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 
 **UK**
 - [Gigged AI](https://gigged.ai) - Newcomer in the space with Clients ready but little talent.
-- 
+
 **Latin America**
 
 - [Workana](https://www.workana.com) – Largest Latin American freelancer network
