@@ -13,7 +13,7 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [Freelancer](https://www.freelancer.com/affiliates/andychase)                            | 1,000          |            | Designers, Developers, & Others           |
 | [Guru.com](http://www.guru.com/)                                                         | 5,000          |            | Designers, Developers, & Others           |
 | [PeoplePerHour](https://www.peopleperhour.com)                                           | 6,000          | & Gigs     | Designers, Developers, & Others           |
-| [Toptal](https://www.toptal.com/#amass-nothing-but-top-notch-software-architects)        | 6,000          |            | Designers, Developers, & Others           |
+| [Toptal](https://www.toptal.com/BLjoyn/worlds-top-talent)        | 6,000          |            | Designers, Developers, & Others           |
 | [Truelancer](https://www.truelancer.com)                                                 | 9,000          |            | Designers, Developers, & Others           |
 | [Crossover](https://www.crossover.com)                                                   | 20,000         |            | Developers & Business Mangers             |
 | [Turing](https://turing.com/)                                                            | 20,000         |            | Developers                                |
