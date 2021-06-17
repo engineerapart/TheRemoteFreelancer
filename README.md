@@ -23,7 +23,10 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [Soshace](https://www.soshace.com/)                                                      | 100,000        |            | Developers                                |
 | [Adeva](https://adevait.com/)                                             		       | 200,000        |            | Designers, Developers, & QA               |
 | [Worksome](https://worksome.co.uk/)                                                      | 300,000        |            | Consultants, Data Scientists, & Developers|
-| [Speedlancer](https://speedlancer.com/)                                                  | 700,000        |            | Designers & Developers                    |
+| [Speedlancer](https://speedlancer.com/)                                                  | 700,000        |            | Designers & Developers                    | [Grindez](https://grindez.com/)                                                  | 800,000        | Gigs           | Designers, Developers, & Others
+                    
+
+
 | **Tutoring**                                                                             |                |            |                                           |
 | [CodeMentor.io](https://www.codementor.io)                                               | 7,000          | Tutoring   | Developers                                |
 | **Other**                                                                                |                |            |                                           |
