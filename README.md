@@ -65,6 +65,9 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [CodersClan.net](https://codersclan.net)                                                 | 10,000,000     |            | Developers                                |
 
 
+**UK**
+- [Gigged AI](https://gigged.ai) - Newcomer in the space with Clients ready but little Talent.
+
 **Latin America**
 
 - [Workana](https://www.workana.com) – Largest Latin American freelancer network
