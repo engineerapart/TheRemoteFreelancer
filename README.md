@@ -17,6 +17,7 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [Truelancer](https://www.truelancer.com)                                                 | 9,000          |            | Designers, Developers, & Others           |
 | [Crossover](https://www.crossover.com)                                                   | 20,000         |            | Developers & Business Mangers             |
 | [Turing](https://turing.com/)                                                            | 20,000         |            | Developers                                |
+| [Edworking](https://edworking.com/)                                                      | 20,000         |            | Developers,Designers,  & Others           |
 | [arc.dev](https://arc.dev/)                                                              | 40,000         |            | Developers                                |
 | [StoreTasker](https://www.storetasker.com/)                                              | 40,000         |            | Shopify Developers                        |
 | [Scalable Path](https://www.scalablepath.com/)                                           | 90,000         |            | Designers & Developers                    |
