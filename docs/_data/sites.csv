@@ -1,50 +1,50 @@
 netloc,name,url,rank,section,type,opinions,affiliate_link,screening,sdescription,support,jobterm
-upwork.com,Upwork,https://upwork.com,300,Clients,Clients,[Why people hate Upwork](/2017/09/04/why-people-hate-upwork.html),,Open,"Fixed or hourly projects. Largest client listing. Lots of low-paid competition. Horrible Support. Guaranteed payment for hourly 20%/10%/5% depending on engagement length. <br /><a href=""2017/09/04/why-people-hate-upwork.html"">Why do people hate Upwork?</a>",4,4
-freelancer.com,Freelancer,https://www.freelancer.com/,"1,000",Clients,Clients,,https://www.freelancer.com/affiliates/andychase,Open,Much like upwork but their pricing is more around paying per listing/application. ,4,5
+upwork.com,Upwork,https://upwork.com,200,Clients,Clients,[Why people hate Upwork](/2017/09/04/why-people-hate-upwork.html),,Open,"Fixed or hourly projects. Largest client listing. Lots of low-paid competition. Horrible Support. Guaranteed payment for hourly 20%/10%/5% depending on engagement length. <br /><a href=""2017/09/04/why-people-hate-upwork.html"">Why do people hate Upwork?</a>",4,4
+freelancer.com,Freelancer,https://www.freelancer.com/,700,Clients,Clients,,https://www.freelancer.com/affiliates/andychase,Open,Much like upwork but their pricing is more around paying per listing/application. ,4,5
+www.peopleperhour.com,PeoplePerHour,https://www.peopleperhour.com,"2,000",Clients,Clients & Gigs,,,Open,Emphasis on shorter projects. Spec work also.,4,2
+www.toptal.com,Toptal,https://www.toptal.com/,"3,000",Clients,Clients,,https://www.toptal.com/#amass-nothing-but-top-notch-software-architects,Screening,"Can be hard to actually get jobs. Big name clients. Hourly or weekly engagements. Recruiters sell you to clients. Some sense of ""community"".",2,4
 www.guru.com,Guru,http://www.guru.com/,"5,000",Clients,Clients,,,Open,"Larger profile section for freelancers. Payment on completion with ""resolution process"" if client is unhappy.",3,4
-www.peopleperhour.com,PeoplePerHour,https://www.peopleperhour.com,"6,000",Clients,Clients & Gigs,,,Open,Emphasis on shorter projects. Spec work also.,4,2
-www.toptal.com,Toptal,https://www.toptal.com/,"6,000",Clients,Clients,,https://www.toptal.com/#amass-nothing-but-top-notch-software-architects,Screening,"Can be hard to actually get jobs. Big name clients. Hourly or weekly engagements. Recruiters sell you to clients. Some sense of ""community"".",2,4
-www.truelancer.com,Truelancer,https://www.truelancer.com,"9,000",Clients,Clients,,,,,4,4
-www.crossover.com,Crossover,https://www.crossover.com,"20,000",Clients,Clients,,,Screening,Emphasis on long term engagements.,2,3
-turing.com,Turing,https://turing.com,"20,000",Clients,Clients,,,,,4,4
-arc.dev,Arc,https://arc.dev/,"40,000",Clients,Clients,,https://www.codementor.io/i/2kz84aesbl,Screening,Get paid for short tutoring sessions or find clients. Bit of a vetting process. For client projects payments aren't guaranteed.,4,4
-storetasker.com,StoreTasker,https://www.storetasker.com/,"40,000",Clients,Clients,,,,,3,4
-www.scalablepath.com,Scalable Path,https://www.scalablepath.com,"90,000",Clients,Clients,,,,,4,4
+turing.com,Turing,https://turing.com,"6,000",Clients,Clients,,,,,4,4
+www.truelancer.com,Truelancer,https://www.truelancer.com,"10,000",Clients,Clients,,,,,4,4
+www.crossover.com,Crossover,https://www.crossover.com,"10,000",Clients,Clients,,,Screening,Emphasis on long term engagements.,2,3
+arc.dev,Arc,https://arc.dev/,"20,000",Clients,Clients,,https://www.codementor.io/i/2kz84aesbl,Screening,Get paid for short tutoring sessions or find clients. Bit of a vetting process. For client projects payments aren't guaranteed.,4,4
+www.scalablepath.com,Scalable Path,https://www.scalablepath.com,"70,000",Clients,Clients,,,,,4,4
+storetasker.com,StoreTasker,https://www.storetasker.com/,"100,000",Clients,Clients,,,,,3,4
 www.soshace.com,Soshace,https://www.soshace.com,"100,000",Clients,Clients,,,,,4,3
 adevait.com,Adeva,https://adevait.com/,"200,000",Clients,Clients,,,,,4,4
-worksome.co.uk,Worksome,https://worksome.co.uk,"300,000",Clients,Clients,,,,,4,4
-speedlancer.com,Speedlancer,https://speedlancer.com,"700,000",Clients,Clients,,,,,4,4
-codementor.io,CodeMentor,https://codementor.io/,"7,000",Tutoring,Tutoring,,https://www.codementor.io/i/2kz84aesbl,,,1,5
-www.fiverr.com,Fiverr,https://www.fiverr.com/,200,Other,Gigs,,http://track.fiverr.com/visit/?bta=15132&nci=5490,Open,,4,4
-hellobonsai.com,Bonsai,https://www.hellobonsai.com/,"20,000",Other,Tools,,https://app.hellobonsai.com/users/sign_up?refer=8728021d,,,4,5
-jobdone.net,JobDone,https://jobdone.net/explore?,"600,000",Other,Gigs,,,,,5,4
-frontenddevelopers.org,#frontenddevelopers.org,http://frontenddevelopers.org/,"2,000,000",Other,Community,,,,,4,4
+speedlancer.com,Speedlancer,https://speedlancer.com,"600,000",Clients,Clients,,,,,4,4
+worksome.co.uk,Worksome,https://worksome.co.uk,"2,000,000",Clients,Clients,,,,,4,4
+codementor.io,CodeMentor,https://codementor.io/,"10,000",Tutoring,Tutoring,,https://www.codementor.io/i/2kz84aesbl,,,1,5
+www.fiverr.com,Fiverr,https://www.fiverr.com/,100,Other,Gigs,,http://track.fiverr.com/visit/?bta=15132&nci=5490,Open,,4,4
+jobdone.net,JobDone,https://jobdone.net/explore?,"1,000,000",Other,Gigs,,,,,5,4
+frontenddevelopers.org,#frontenddevelopers.org,http://frontenddevelopers.org/,"1,000,000",Other,Community,,,,,4,4
+remote.one,Remote One,https://remote.one/,"1,000,000",Other,Tools,,,,,4,4
 clarrow.com,Clarrow,https://clarrow.com/,"2,000,000",Other,Tools,,,,,4,4
-remote.one,Remote One,https://remote.one/,"5,000,000",Other,Tools,,,,,4,4
-hypelance.com,Hypelance,https://hypelance.com/,"5,000,000",Other,Community,,,,,4,4
-freelance.chat,#freelance,http://freelance.chat/,"10,000,000",Other,Community,,,,,4,4
+freelance.chat,#freelance,http://freelance.chat/,"6,000,000",Other,Community,,,,,4,4
+hellobonsai.com,Bonsai,https://www.hellobonsai.com/,"10,000,000",Other,Tools,,https://app.hellobonsai.com/users/sign_up?refer=8728021d,,,4,5
+hypelance.com,Hypelance,https://hypelance.com/,"10,000,000",Other,Community,,,,,4,4
 codeable.io,Codeable,https://codeable.io/,"40,000",Agency,Agency,,,,,4,4
+superside.com,Superside,https://www.superside.com/,"50,000",Agency,Agency,,,,,4,4
 workingnotworking.com,Working Not Working,https://workingnotworking.com/,"70,000",Agency,Agency,,,,,3,4
-superside.com,Superside,https://www.superside.com/,"70,000",Agency,Agency,,,,,4,4
+x-team.com,X-Team,http://x-team.com,"70,000",Agency,Agency,,,,,4,4
 www.experfy.com,Experfy,https://www.experfy.com/,"80,000",Agency,Agency,,,,,4,4
-x-team.com,X-Team,http://x-team.com,"90,000",Agency,Agency,,,,,4,4
 gun.io,Gun.io,https://gun.io/,"100,000",Agency,Agency,,,,,4,4
 gigster.com,Gigster,https://gigster.com,"200,000",Agency,Agency,,https://gigs.to/r/Dz2vevg,,,4,4
-pilot.co,Pilot,https://pilot.co/,"300,000",Agency,Agency,,,,,4,4
+pilot.co,Pilot,https://pilot.co/,"200,000",Agency,Agency,,,,,4,4
 www.doz.com,DOZ.com,https://www.doz.com,"500,000",Agency,Agency,,,,,4,4
-www.moonlightwork.com,Moonlight,https://www.moonlightwork.com,"600,000",Agency,Agency,,,,,4,4
-www.10xmanagement.com,10xmanagement,https://www.10xmanagement.com/,"900,000",Agency,Agency,,,,,4,4
-lightboard.io,Lightboard,https://lightboard.io,"1,000,000",Agency,Agency,,,,,4,4
+www.moonlightwork.com,Moonlight,https://www.moonlightwork.com,"1,000,000",Agency,Agency,,,,,4,4
+www.10xmanagement.com,10xmanagement,https://www.10xmanagement.com/,"1,000,000",Agency,Agency,,,,,4,4
+lightboard.io,Lightboard,https://lightboard.io,"2,000,000",Agency,Agency,,,,,4,4
 dreamlance.io,Dreamlance,http://dreamlance.io/,"10,000,000",Agency,Agency,,,,,4,4
 codersclan.net,CodersClan.net,https://codersclan.net,"10,000,000",Agency,Agency,,,,,4,4
-careers.stackoverflow.com,Stack Overflow Careers,http://careers.stackoverflow.com/jobs/remote,50,Jobs,Jobs,,,,,4,4
+careers.stackoverflow.com,Stack Overflow Careers,http://careers.stackoverflow.com/jobs/remote,60,Jobs,Jobs,,,,,4,4
 dribbble.com,Dribbble Jobs,https://dribbble.com/obs?utf8=%E2%9C%93&anywhere=true&location=Anywhere,"1,000",Jobs,Jobs,,,,,4,4
-www.flexjobs.com,FlexJobs,https://www.flexjobs.com,"6,000",Jobs,Jobs,,,,,4,4
-angel.co,Angel List Jobs,https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D,"7,000",Jobs,Jobs,,,,,4,4
+angel.co,Angel List Jobs,https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D,"2,000",Jobs,Jobs,,,,,4,4
+www.flexjobs.com,FlexJobs,https://www.flexjobs.com,"7,000",Jobs,Jobs,,,,,4,4
 weworkremotely.com,We Work Remotely,https://weworkremotely.com/,"10,000",Jobs,Jobs,,,,,4,4
-hired.com,Hired,https://hired.com/,"30,000",Jobs,Jobs,,,,,4,4
-remoteok.io,RemoteOK,https://remoteok.io/,"30,000",Jobs,Jobs,,,,,4,4
-nofluffjobs.com,No Fluff Jobs,https://nofluffjobs.com/#criteria=remote,"300,000",Jobs,Jobs,,,,,4,4
-www.golangprojects.com,Golangprojects.com,https://www.golangprojects.com/golang-remote-jobs.html,"900,000",Jobs,Jobs,,,,,4,4
-jobhunt.ai,Jobhunt.ai,https://jobhunt.ai/machinelearning-remote-jobs.html,"7,000,000",Jobs,Jobs,,,,,4,4
+hired.com,Hired,https://hired.com/,"20,000",Jobs,Jobs,,,,,4,4
+remoteok.io,RemoteOK,https://remoteok.io/,"80,000",Jobs,Jobs,,,,,4,4
+nofluffjobs.com,No Fluff Jobs,https://nofluffjobs.com/#criteria=remote,"200,000",Jobs,Jobs,,,,,4,4
+www.golangprojects.com,Golangprojects.com,https://www.golangprojects.com/golang-remote-jobs.html,"600,000",Jobs,Jobs,,,,,4,4
+jobhunt.ai,Jobhunt.ai,https://jobhunt.ai/machinelearning-remote-jobs.html,"8,000,000",Jobs,Jobs,,,,,4,4
 teamextension.io,Team Extension,https://teamextension.io/,"8,000,000",Jobs,Jobs,,,,,4,4
