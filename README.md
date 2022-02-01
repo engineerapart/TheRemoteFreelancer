@@ -43,6 +43,7 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [We Work Remotely](https://weworkremotely.com/)                                          | 10,000         |            | Variety                                   |
 | [Hired](https://hired.com/)                                                              | 20,000         |            | Designers, Developers, & Product Managers |
 | [RemoteOK](https://remoteok.io/)                                                         | 80,000         |            | Developers                                |
+| [Himalayas](https://himalayas.app)                                                       | 200,000        |            | Designers, Developers, & Product Managers |
 | [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                | 200,000        |            | Developers                                |
 | [Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html)             | 600,000        |            | Go/Golang jobs, filter on remote jobs     |
 | [Remotesome.com](https://www.remotesome.com/)                                            | 1,000,000      |            | Developers                                |
