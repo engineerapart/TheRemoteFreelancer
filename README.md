@@ -48,7 +48,8 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html)             | 600,000        |            | Go/Golang jobs, filter on remote jobs     |
 | [Remotesome.com](https://www.remotesome.com/)                                            | 1,000,000      |            | Developers                                |
 | [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html)                        | 8,000,000      |            | AI/Machine learning jobs, filter on remote jobs  |
-| [Team Extension](https://teamextension.io/)                                              | 8,000,000      |            | Eastern Euro Developers, Designers, QA
+| [Team Extension](https://teamextension.io/)                                              | 8,000,000      |            | Eastern Euro Developers, Designers, QA                 |
+| [Remote Web3 Jobs](https://remote3.co/)                                                  | 426,053        |            | Developers, Designers, Non Tech
 | **Agency**                                                                               |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
 | [Codeable](https://codeable.io/)                                                         | 40,000         |            | Wordpress Developers developers           |
