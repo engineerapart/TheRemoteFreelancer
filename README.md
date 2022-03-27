@@ -45,7 +45,9 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [RemoteOK](https://remoteok.io/)                                                         | 80,000         |            | Developers                                |
 | [Himalayas](https://himalayas.app)                                                       | 200,000        |            | Designers, Developers, & Product Managers |
 | [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                | 200,000        |            | Developers                                |
+| [GermanTechJobs.de - remote](https://germantechjobs.de/jobs/all/remote)                  | 550,000        |            | Developers, Designers, DevOps, Security                                |
 | [Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html)             | 600,000        |            | Go/Golang jobs, filter on remote jobs     |
+| [DevITjobs.uk](https://devitjobs.uk/jobs/all/remote)                                     | 900,000        |            | Developers, Designers, DevOps     |
 | [Remotesome.com](https://www.remotesome.com/)                                            | 1,000,000      |            | Developers                                |
 | [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html)                        | 8,000,000      |            | AI/Machine learning jobs, filter on remote jobs  |
 | [Team Extension](https://teamextension.io/)                                              | 8,000,000      |            | Eastern Euro Developers, Designers, QA
