@@ -19,6 +19,7 @@ See [Why](#why) and [Contributing](#contributing)
 | [Truelancer](https://www.truelancer.com)                                                 | 29,000         |            | Designers, Developers, & Others           |
 | [CodeMentor.io](https://www.codementor.io/i/2kz84aesbl)                                  | 10,000         | & Tutoring | Developers                                |
 | [Crossover](https://www.crossover.com)                                                   | 50,000         |            | Developers & Business Mangers             |
+| [freelancermap](https://www.freelancermap.com/it-projects.html)                          | 82,500         |            | Developers, Engineers, Consultants, Others|
 | [Speedlancer](https://speedlancer.com/)                                                  | 400,000        |            | Designers & Developers                    |
 | [Lorem](https://www.asklorem.com/)                                                       | 500,000        |            | Designers, Developers, & Others           |
 | [Scalable Path](https://www.scalablepath.com/)                                           | 600,000        |            | Designers & Developers                    |
