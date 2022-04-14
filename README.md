@@ -19,6 +19,7 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [Crossover](https://www.crossover.com)                                                   | 10,000         |            | Developers & Business Mangers             |
 | [arc.dev](https://arc.dev/)                                                              | 20,000         |            | Developers                                |
 | [Scalable Path](https://www.scalablepath.com/)                                           | 70,000         |            | Designers & Developers                    |
+| [freelancermap](https://www.freelancermap.com/it-projects.html)                          | 80,000         |            | Developers, Engineers, Consultants, Others|
 | [StoreTasker](https://www.storetasker.com/)                                              | 100,000        |            | Shopify Developers                        |
 | [Soshace](https://www.soshace.com/)                                                      | 100,000        |            | Developers                                |
 | [Adeva](https://adevait.com/)                                             		       | 200,000        |            | Designers, Developers, & QA               |
