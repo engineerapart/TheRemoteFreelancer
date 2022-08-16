@@ -3,9 +3,6 @@ List of community-curated resources to find topical remote freelance &amp; contr
 
 See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estimation on how popular the site is, with #1 being the most viewed site on the internet in the US. [Graph of changes over time](https://public.tableau.com/profile/andrew.chase#!/vizhome/theremotefreelancer/AlexaRankOverTime?publish=yes)
 
-
-**English**
-
 | **Clients**                                                                              |                |            |                                           |
 |------------------------------------------------------------------------------------------|----------------|------------|-------------------------------------------|
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
@@ -65,47 +62,38 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [Dreamlance](http://dreamlance.io/)                                                      | 10,000,000     |            | Designers & Developers                    |
 | [CodersClan.net](https://codersclan.net)                                                 | 10,000,000     |            | Developers                                |
 
+## Regional, or Language-Specific
 
-**UK**
-- [Gigged AI](https://gigged.ai) - Newcomer in the space with Clients ready but little Talent.
-
-**Latin America**
-
-- [Workana](https://www.workana.com) – Largest Latin American freelancer network
-
-**French**
-
-- [Codeur](https://www.codeur.com/) - Leader in France.
-- [Malt](https://www.malt.fr/) - One of the largest platform for french Freelancers.
-- [Comet](https://www.comet.co/) - French platform that search and qualify IT freelancers for each mission.
-
-**Denmark**
-
-- [Worksome](http://www.worksome.dk) - Denmark's largest platform for local freelancers.
-
-**Dutch**
-
-- [Freelance.nl](https://freelance.nl/) - Leader in the Netherlands.
-- [Marktplaats](http://klussen.marktplaats.nl/diensten-en-vakmensen/klussen/0) - Kind of like Craigslist.
-
-**Spanish**
-- [Freelancer MX](https://www.freelancer.mx) - Contrata a freelancers expertos para tu trabajo en l?nea.
-
-**Persian**
-- [Ponisha](http://ponisha.ir) - Ponisha is an online network for freelance professionals, in Iran.
-
-**Brazilian**
-- [99 Freelas](https://www.99freelas.com.br) - Contrate os melhores freelancers do Brasil.
-
-**Russian**
-- [Freelansim](https://freelansim.ru/) - биржа удаленной работы для IT-специалистов.
-- [FL](https://www.fl.ru/) - профессиональный ресурс, предназначенный для поиска работы или исполнителя на удаленную работу.
-- [freelance.ru](https://freelance.ru/) - Биржа фриланса, каталог фрилансеров и самозанятых по категориям.
-
-**Indonesian**
-- [Projects.co.id](https://projects.co.id/) - Leader in Indonesia.
-- [Fastwork](https://m.fastwork.id/) - Newcomers.
-- [Sribu.com](https://sribu.com/) - is For Designer (but sribulancer.com is dead).
+* UK
+  * [Gigged AI](https://gigged.ai) - Newcomer in the space with Clients ready but little Talent.
+  * [devitjobs.uk](https://devitjobs.uk/jobs/all/remote)
+* Germany
+  * [germantechjobs](https://germantechjobs.de/jobs/all/remote)
+* Latin America
+  * [Workana](https://www.workana.com) – Largest Latin American freelancer network
+* French
+  * [Codeur](https://www.codeur.com/) - Leader in France.
+  * [Malt](https://www.malt.fr/) - One of the largest platform for french Freelancers.
+  * [Comet](https://www.comet.co/) - French platform that search and qualify IT freelancers for each mission.
+* Denmark
+  * [Worksome](http://www.worksome.dk) - Denmark's largest platform for local freelancers.
+* Dutch
+  * [Freelance.nl](https://freelance.nl/) - Leader in the Netherlands.
+  * [Marktplaats](http://klussen.marktplaats.nl/diensten-en-vakmensen/klussen/0) - Kind of like Craigslist.
+* Spanish
+  * [Freelancer MX](https://www.freelancer.mx) - Contrata a freelancers expertos para tu trabajo en l?nea.
+* Persian
+  * [Ponisha](http://ponisha.ir) - Ponisha is an online network for freelance professionals, in Iran.
+* Brazilian
+  * [99 Freelas](https://www.99freelas.com.br) - Contrate os melhores freelancers do Brasil.
+* Russian
+  * [Freelansim](https://freelansim.ru/) - биржа удаленной работы для IT-специалистов.
+  * [FL](https://www.fl.ru/) - профессиональный ресурс, предназначенный для поиска работы или исполнителя на удаленную работу.
+  * [freelance.ru](https://freelance.ru/) - Биржа фриланса, каталог фрилансеров и самозанятых по категориям.
+* Indonesian
+  * [Projects.co.id](https://projects.co.id/) - Leader in Indonesia.
+  * [Fastwork](https://m.fastwork.id/) - Newcomers.
+  * [Sribu.com](https://sribu.com/) - is For Designer (but sribulancer.com is dead).
 
 ## Why
 This repo was inspired by [this Hacker News thread](https://news.ycombinator.com/item?id=12773282) about one software developer's experience with Upwork. For all those who have had bad experiences with Upwork, I wanted to create a list of additional resources that software developers can use to find freelance, nomadic and contract work.
