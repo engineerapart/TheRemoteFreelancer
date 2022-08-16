@@ -37,7 +37,6 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [Clarrow](https://clarrow.com/)                                                          | 2,000,000      | Tools      | Designers, Developer & Others             |
 | **Jobs**                                                                                 |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
-| [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)                   | 60             |            | Developers                                |
 | [Dribbble Jobs](https://dribbble.com/obs?utf8=%E2%9C%93&anywhere=true&location=Anywhere) | 1,000          |            | Designers                                 |
 | [Angel List Jobs](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D)                | 2,000          |            | Variety                                   |
 | [FlexJobs](https://www.flexjobs.com)                                                     | 7,000          |            | Variety                                   |
