@@ -39,7 +39,8 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [FlexJobs](https://www.flexjobs.com)                                                     | 7,000          |            | Variety                                   |
 | [We Work Remotely](https://weworkremotely.com/)                                          | 10,000         |            | Variety                                   |
 | [Hired](https://hired.com/)                                                              | 20,000         |            | Designers, Developers, & Product Managers |
-| [RemoteOK](https://remoteok.io/)                                                         | 80,000         |            | Developers                                |
+| [RemoteOK](https://remoteok.com/)                                                         | 80,000         |            | Developers                                |
+| [4dayweek](https://4dayweek.io/)                                                         | 150,000         |            | Developers                                |
 | [Himalayas](https://himalayas.app)                                                       | 200,000        |            | Designers, Developers, & Product Managers |
 | [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                | 200,000        |            | Developers                                |
 | [Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html)             | 600,000        |            | Go/Golang jobs, filter on remote jobs     |
@@ -61,6 +62,7 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [Lightboard](https://lightboard.io)                                                      | 2,000,000      |            | Designers                                 |
 | [Dreamlance](http://dreamlance.io/)                                                      | 10,000,000     |            | Designers & Developers                    |
 | [CodersClan.net](https://codersclan.net)                                                 | 10,000,000     |            | Developers                                |
+| [BlockchainDevs.net](https://www.blockchaindevs.net)                                                 | 10,000,000     |            | Developers                                |
 
 ## Regional, or Language-Specific
 
