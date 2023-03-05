@@ -61,6 +61,7 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [Lightboard](https://lightboard.io)                                                      | 2,000,000      |            | Designers                                 |
 | [Dreamlance](http://dreamlance.io/)                                                      | 10,000,000     |            | Designers & Developers                    |
 | [CodersClan.net](https://codersclan.net)                                                 | 10,000,000     |            | Developers                                |
+| [Web3 Jobs](https://web3.career/remote-jobs)                                             | 55,000         |            | Designers, Developers, & Product Managers |
 
 ## Regional, or Language-Specific
 
