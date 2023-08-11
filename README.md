@@ -144,6 +144,7 @@ Thank you for looking :) Good hunting!
 - [HN Hiring (hnhiring.me)](http://hnhiring.me/)
 - [HNHIRING](https://hnhiring.com/) – All Jobs From Hacker News 'Who is Hiring?'.
 - [Remote Leaf](https://remoteleaf.com/) – Receive hand-picked remote jobs posted anywhere delivered straight to your inbox.
+- [Remote Salary / Salary Search](https://remotesalary.ai/board?remote=true&utm_campaign=TheRemoteFreelancer) - 20,000+ jobs all over $150,000 salary. Find your ideal high paying remote role.
 
 ### Job tracking tools
 - [Upfeed](https://upfeed.io/) – Smart and personalized Upwork's feed.
