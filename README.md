@@ -13,7 +13,7 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
 | [Guru.com](http://www.guru.com/)                                                         | 5,000          |            | Designers, Developers, & Others           |
 | [Turing](https://turing.com/)                                                            | 6,000          |            | Developers                                |
 | [Truelancer](https://www.truelancer.com)                                                 | 10,000         |            | Designers, Developers, & Others           |
-| [Crossover](https://www.crossover.com)                                                   | 10,000         |            | Developers & Business Mangers             |
+| [Crossover](https://www.crossover.com)                                                   | 10,000         |            | Developers & Business Managers             |
 | [arc.dev](https://arc.dev/)                                                              | 20,000         |            | Developers                                |
 | [Scalable Path](https://www.scalablepath.com/)                                           | 70,000         |            | Designers & Developers                    |
 | [freelancermap](https://www.freelancermap.com/it-projects.html)                          | 80,000         |            | Developers, Engineers, Consultants, Others|
