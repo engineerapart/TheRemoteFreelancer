@@ -1,11 +1,11 @@
 # The Remote Freelancer
 List of community-curated resources to find topical remote freelance &amp; contract work for software developers, web designers, and more!
 
-See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estimation on how popular the site is, with #1 being the most viewed site on the internet in the US. [Graph of changes over time](https://public.tableau.com/profile/andrew.chase#!/vizhome/theremotefreelancer/AlexaRankOverTime?publish=yes)
+See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation on how popular the site is, with #1 being the most viewed site on the internet in the US. Up until 2022 Alexa was used, Similar web will be used for future ratings. [Graph of changes over time](https://public.tableau.com/profile/andrew.chase#!/vizhome/theremotefreelancer/AlexaRankOverTime?publish=yes)
 
 | **Clients**                                                                              |                |            |                                           |
 |------------------------------------------------------------------------------------------|----------------|------------|-------------------------------------------|
-| **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
+| **Name**                                                                                 | **Rank** |            | **Hires these Types**                     |
 | [Upwork](https://upwork.com)                                                             | 200            |            | Designers, Developers, & Others           |
 | [Freelancer](https://www.freelancer.com/affiliates/andychase)                            | 700            |            | Designers, Developers, & Others           |
 | [PeoplePerHour](https://www.peopleperhour.com)                                           | 2,000          | & Gigs     | Designers, Developers, & Others           |
@@ -13,7 +13,7 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [Guru.com](http://www.guru.com/)                                                         | 5,000          |            | Designers, Developers, & Others           |
 | [Turing](https://turing.com/)                                                            | 6,000          |            | Developers                                |
 | [Truelancer](https://www.truelancer.com)                                                 | 10,000         |            | Designers, Developers, & Others           |
-| [Crossover](https://www.crossover.com)                                                   | 10,000         |            | Developers & Business Mangers             |
+| [Crossover](https://www.crossover.com)                                                   | 10,000         |            | Developers & Business Managers             |
 | [arc.dev](https://arc.dev/)                                                              | 20,000         |            | Developers                                |
 | [Scalable Path](https://www.scalablepath.com/)                                           | 70,000         |            | Designers & Developers                    |
 | [freelancermap](https://www.freelancermap.com/it-projects.html)                          | 80,000         |            | Developers, Engineers, Consultants, Others|
@@ -22,10 +22,11 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [Adeva](https://adevait.com/)                                             		       | 200,000        |            | Designers, Developers, & QA               |
 | [Speedlancer](https://speedlancer.com/)                                                  | 600,000        |            | Designers & Developers                    |
 | [Worksome](https://worksome.co.uk/)                                                      | 2,000,000      |            | Consultants, Data Scientists, & Developers|
+| [weworkremotely.com](https://weworkremotely.com)                                         | 10,000,000     |            | Developers,Project Managers, copywriters & Designers |
 | **Tutoring**                                                                             |                |            |                                           |
 | [CodeMentor.io](https://www.codementor.io)                                               | 10,000         | Tutoring   | Developers                                |
 | **Other**                                                                                |                |            |                                           |
-| **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
+| **Name**                                                                                 | **Rank** |            | **Hires these Types**                     |
 | [Fiverr](https://www.fiverr.com/)                                                        | 100            | Gigs       | Variety                                   |
 | [Bonsai](https://app.hellobonsai.com/users/sign_up?refer=8728021d)                       | 20,000         | Tools      | Designers, Developers, & Others           |
 | [Jobdone.net](https://jobdone.net/explore?)                                              | 1,000,000      | Gigs       | Variety                                   |
@@ -33,7 +34,7 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [Remote One](https://remote.one/)                                                        | 1,000,000      | Tools      | Designers, Developers, & Others           |
 | [Clarrow](https://clarrow.com/)                                                          | 2,000,000      | Tools      | Designers, Developer & Others             |
 | **Jobs**                                                                                 |                |            |                                           |
-| **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
+| **Name**                                                                                 | **Rank** |            | **Hires these Types**                     |
 | [Dribbble Jobs](https://dribbble.com/obs?utf8=%E2%9C%93&anywhere=true&location=Anywhere) | 1,000          |            | Designers                                 |
 | [Angel List Jobs](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D)                | 2,000          |            | Variety                                   |
 | [FlexJobs](https://www.flexjobs.com)                                                     | 7,000          |            | Variety                                   |
@@ -47,7 +48,7 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html)                        | 8,000,000      |            | AI/Machine learning jobs, filter on remote jobs  |
 | [Team Extension](https://teamextension.io/)                                              | 8,000,000      |            | Eastern Euro Developers, Designers, QA
 | **Agency**                                                                               |                |            |                                           |
-| **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
+| **Name**                                                                                 | **Rank** |            | **Hires these Types**                     |
 | [Codeable](https://codeable.io/)                                                         | 40,000         |            | Wordpress Developers developers           |
 | [Superside](https://www.superside.com/)                                                  | 50,000         |            | Designers                                 |
 | [Working Not Working](https://workingnotworking.com/)                                    | 70,000         |            | Designers                                 |
@@ -59,8 +60,10 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [Moonlight](https://www.moonlightwork.com)                                               | 1,000,000      |            | Developers                                |
 | [10xmanagement](https://www.10xmanagement.com/)                                          | 1,000,000      |            | Designers & Developers                    |
 | [Lightboard](https://lightboard.io)                                                      | 2,000,000      |            | Designers                                 |
+| [MeteorOps.com](https://meteorops.com)                                                   | 10,000,000      |            | DevOps Engineers                          |
 | [Dreamlance](http://dreamlance.io/)                                                      | 10,000,000     |            | Designers & Developers                    |
 | [CodersClan.net](https://codersclan.net)                                                 | 10,000,000     |            | Developers                                |
+
 
 ## Regional, or Language-Specific
 
@@ -80,6 +83,7 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 * Dutch
   * [Freelance.nl](https://freelance.nl/) - Leader in the Netherlands.
   * [Marktplaats](http://klussen.marktplaats.nl/diensten-en-vakmensen/klussen/0) - Kind of like Craigslist.
+  * [Funle.nl](https://funle.nl/) - Aggregator of all available IT-specific freelance gigs in the Netherlands
 * Spanish
   * [Freelancer MX](https://www.freelancer.mx) - Contrata a freelancers expertos para tu trabajo en l?nea.
 * Persian
