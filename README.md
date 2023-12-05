@@ -133,6 +133,7 @@ Thank you for looking :) Good hunting!
 - https://remotework.fyi/
 - https://www.vollna.com/
 - https://remotebond.com/
+- https://okjob.io/ (4 day week jobs)
 
 ### Bounties based and open source
 - https://gitcoin.co
