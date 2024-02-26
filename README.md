@@ -40,6 +40,7 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
 | [We Work Remotely](https://weworkremotely.com/)                                          | 10,000         |            | Variety                                   |
 | [Hired](https://hired.com/)                                                              | 20,000         |            | Designers, Developers, & Product Managers |
 | [RemoteOK](https://remoteok.io/)                                                         | 80,000         |            | Developers                                |
+| [Expertini](https://us.expertini.com/jobs/search/remote-jobs-united-states/)             | 139,274        |            | Variety                                   |
 | [Himalayas](https://himalayas.app)                                                       | 200,000        |            | Designers, Developers, & Product Managers |
 | [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                | 200,000        |            | Developers                                |
 | [Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html)             | 600,000        |            | Go/Golang jobs, filter on remote jobs     |
@@ -64,30 +65,49 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
 | [CodersClan.net](https://codersclan.net)                                                 | 10,000,000     |            | Developers                                |
 
 ## Regional, or Language-Specific
-
 * UK
   * [Gigged AI](https://gigged.ai) - Newcomer in the space with Clients ready but little Talent.
   * [devitjobs.uk](https://devitjobs.uk/jobs/all/remote)
+  * [searchukjobs.com](https://searchukjobs.com/search/remote-jobs-united-kingdom/)
+* Australia
+  * [searchaustraliajobs.com](https://searchaustralianjobs.com/search/remote-jobs-australia/)
+* NZ
+  * [searchnzjobs.com](https://searchnzjobs.com/search/remote-jobs-new-zealand/)
+* European Union
+  * [searcheuropeanjobs.com](https://searcheuropeanjobs.com/search/remote-jobs-europe/)
 * Germany
   * [germantechjobs](https://germantechjobs.de/jobs/all/remote)
+  * [Germany Expertini](https://de.expertini.com/jobs/search/remote-jobs-germany/)
 * Latin America
   * [Workana](https://www.workana.com) – Largest Latin American freelancer network
+  * [LatinAmericaJobsCentral](https://latinamericajobscentral.com/search/remote-jobs-mexico/) - Latin American
 * French
   * [Codeur](https://www.codeur.com/) - Leader in France.
   * [Malt](https://www.malt.fr/) - One of the largest platform for french Freelancers.
   * [Comet](https://www.comet.co/) - French platform that search and qualify IT freelancers for each mission.
+  * [French Expertini](https://fr.expertini.com/jobs/search/remote-jobs-france/)
 * Denmark
   * [Worksome](http://www.worksome.dk) - Denmark's largest platform for local freelancers.
-* Dutch
+  * [Danish Expertini](https://dk.expertini.com/jobs/search/remote-jobs-denmark/)
+* Switzerland
+  * [Switzerland Expertini](https://ch.expertini.com/jobs/search/remote-jobs-switzerland/)
+* Dutch / Netherlands
   * [Freelance.nl](https://freelance.nl/) - Leader in the Netherlands.
   * [Marktplaats](http://klussen.marktplaats.nl/diensten-en-vakmensen/klussen/0) - Kind of like Craigslist.
   * [Funle.nl](https://funle.nl/) - Aggregator of all available IT-specific freelance gigs in the Netherlands
-* Spanish
+  * [Dutch Expertini](https://nl.expertini.com/jobs/search/remote-jobs-netherlands/)
+* Austria
+  * [Austria Expertini](https://at.expertini.com/jobs/search/remote-jobs-austria/)
+* Spain 
+  * [Spain Expertini](https://es.expertini.com/jobs/search/remote-jobs-spain/)
+* Spanish Mexican 
   * [Freelancer MX](https://www.freelancer.mx) - Contrata a freelancers expertos para tu trabajo en l?nea.
-* Persian
+  * [Mexico Expertini](https://mx.expertini.com/jobs/search/remote-jobs-mexico/)
+* Persian / Iran
   * [Ponisha](http://ponisha.ir) - Ponisha is an online network for freelance professionals, in Iran.
-* Brazilian
+* Brazil / Brazilian
   * [99 Freelas](https://www.99freelas.com.br) - Contrate os melhores freelancers do Brasil.
+  * [Brazil Expertini](https://br.expertini.com/jobs/search/remote-jobs-brazil/)
 * Russian
   * [Freelansim](https://freelansim.ru/) - биржа удаленной работы для IT-специалистов.
   * [FL](https://www.fl.ru/) - профессиональный ресурс, предназначенный для поиска работы или исполнителя на удаленную работу.
@@ -96,6 +116,7 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
   * [Projects.co.id](https://projects.co.id/) - Leader in Indonesia.
   * [Fastwork](https://m.fastwork.id/) - Newcomers.
   * [Sribu.com](https://sribu.com/) - is For Designer (but sribulancer.com is dead).
+ 
 
 ## Why
 This repo was inspired by [this Hacker News thread](https://news.ycombinator.com/item?id=12773282) about one software developer's experience with Upwork. For all those who have had bad experiences with Upwork, I wanted to create a list of additional resources that software developers can use to find freelance, nomadic and contract work.
@@ -119,13 +140,16 @@ Thank you for looking :) Good hunting!
 
 ### Aggregators
 
+- https://findremotejobs.info
 - https://findwork.dev
+- https://workfromhomejobs.tech
 - http://jobscribe.com/
 - https://www.hellobonsai.com/gig-list
 - https://www.folyo.me/
 - http://www.lancelist.com/
 - https://www.letsmakeapps.io/
 - https://freelandr.com/
+- https://findfreelancerjobs.info
 - https://remotephp.io
 - https://periodix.net
 - https://www.remotelyawesomejobs.com
