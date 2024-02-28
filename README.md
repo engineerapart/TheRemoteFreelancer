@@ -14,6 +14,7 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
 | [Turing](https://turing.com/)                                                            | 6,000          |            | Developers                                |
 | [Truelancer](https://www.truelancer.com)                                                 | 10,000         |            | Designers, Developers, & Others           |
 | [Crossover](https://www.crossover.com)                                                   | 10,000         |            | Developers & Business Managers             |
+| [Laotop](https://www.laotop.fr       )                                                   | 10,000         |            | Developers & Business Managers             |
 | [arc.dev](https://arc.dev/)                                                              | 20,000         |            | Developers                                |
 | [Scalable Path](https://www.scalablepath.com/)                                           | 70,000         |            | Designers & Developers                    |
 | [freelancermap](https://www.freelancermap.com/it-projects.html)                          | 80,000         |            | Developers, Engineers, Consultants, Others|
@@ -76,6 +77,7 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
   * [Codeur](https://www.codeur.com/) - Leader in France.
   * [Malt](https://www.malt.fr/) - One of the largest platform for french Freelancers.
   * [Comet](https://www.comet.co/) - French platform that search and qualify IT freelancers for each mission.
+  * [Laotop](https://www.laotop.fr/) - French platform that search and qualify IT freelancers for each mission.
 * Denmark
   * [Worksome](http://www.worksome.dk) - Denmark's largest platform for local freelancers.
 * Dutch
