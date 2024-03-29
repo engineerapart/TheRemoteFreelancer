@@ -6,6 +6,7 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
 | **Clients**                                                                              |                |            |                                           |
 |------------------------------------------------------------------------------------------|----------------|------------|-------------------------------------------|
 | **Name**                                                                                 | **Rank** |            | **Hires these Types**                     |
+| [Bing Pros](https://www.bing.com/pros/onboarding?utmsource=fbrep&mkt=en-us)              | 28             | Gigs       | Designers, Developers, Consultants, Others|
 | [Upwork](https://upwork.com)                                                             | 200            |            | Designers, Developers, & Others           |
 | [Freelancer](https://www.freelancer.com/affiliates/andychase)                            | 700            |            | Designers, Developers, & Others           |
 | [PeoplePerHour](https://www.peopleperhour.com)                                           | 2,000          | & Gigs     | Designers, Developers, & Others           |
@@ -65,6 +66,8 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
 
 ## Regional, or Language-Specific
 
+* US
+  * [Bing Pros](https://www.bing.com/pros/onboarding?utmsource=fbrep&mkt=en-us) - A marketplace platform powered by Microsoft that connects consumers to service providers in a wide range of categories.
 * UK
   * [Gigged AI](https://gigged.ai) - Newcomer in the space with Clients ready but little Talent.
   * [devitjobs.uk](https://devitjobs.uk/jobs/all/remote)
