@@ -76,6 +76,7 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
   * [Codeur](https://www.codeur.com/) - Leader in France.
   * [Malt](https://www.malt.fr/) - One of the largest platform for french Freelancers.
   * [Comet](https://www.comet.co/) - French platform that search and qualify IT freelancers for each mission.
+  * [Laotop](https://www.laotop.fr/) - French platform that search and qualify IT freelancers for each mission.
 * Denmark
   * [Worksome](http://www.worksome.dk) - Denmark's largest platform for local freelancers.
 * Dutch
