@@ -82,6 +82,7 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
   * [Freelance.nl](https://freelance.nl/) - Leader in the Netherlands.
   * [Marktplaats](http://klussen.marktplaats.nl/diensten-en-vakmensen/klussen/0) - Kind of like Craigslist.
   * [Funle.nl](https://funle.nl/) - Aggregator of all available IT-specific freelance gigs in the Netherlands
+  * [de Publieke Partner](https://depubliekepartner.nl/) - Agency in dutch Government freelance assignments.
 * Spanish
   * [Freelancer MX](https://www.freelancer.mx) - Contrata a freelancers expertos para tu trabajo en l?nea.
 * Persian
