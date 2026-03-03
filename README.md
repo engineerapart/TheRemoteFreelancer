@@ -32,6 +32,7 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
 | [\#frontenddevelopers.org](http://frontenddevelopers.org/)                               | 1,000,000      | Community  | Developers                                |
 | [Remote One](https://remote.one/)                                                        | 1,000,000      | Tools      | Designers, Developers, & Others           |
 | [Clarrow](https://clarrow.com/)                                                          | 2,000,000      | Tools      | Designers, Developer & Others             |
+| [Human Pages](https://humanpages.ai)                                                     |                |            | AI Agent Hiring                           |
 | **Jobs**                                                                                 |                |            |                                           |
 | **Name**                                                                                 | **Rank** |            | **Hires these Types**                     |
 | [Dribbble Jobs](https://dribbble.com/obs?utf8=%E2%9C%93&anywhere=true&location=Anywhere) | 1,000          |            | Designers                                 |
