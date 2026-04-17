@@ -46,6 +46,7 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
 | [Remotesome.com](https://www.remotesome.com/)                                            | 1,000,000      |            | Developers                                |
 | [RemoteYeah](https://remoteyeah.com/)                                                    | 2,000,000      |            | Data Scientists & Developers              |
 | [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html)                        | 8,000,000      |            | AI/Machine learning jobs, filter on remote jobs  |
+| [AI Dev Jobs](https://aidevboard.com)                                                     | 8,000,000      |            | AI/ML Developers, Data Scientists                |
 | [Team Extension](https://teamextension.io/)                                              | 8,000,000      |            | Eastern Euro Developers, Designers, QA
 | **Agency**                                                                               |                |            |                                           |
 | **Name**                                                                                 | **Rank** |            | **Hires these Types**                     |
