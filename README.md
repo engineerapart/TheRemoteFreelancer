@@ -63,6 +63,7 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
 | [MeteorOps.com](https://meteorops.com)                                                   | 10,000,000      |            | DevOps Engineers                          |
 | [Dreamlance](http://dreamlance.io/)                                                      | 10,000,000     |            | Designers & Developers                    |
 | [CodersClan.net](https://codersclan.net)                                                 | 10,000,000     |            | Developers                                |
+| [Witarist](https://witarist.com)                                                         | —              |            | Full-stack Developers (Next.js, Node.js, React, AI/LLM) |
 
 ## Regional, or Language-Specific
 
