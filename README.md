@@ -66,6 +66,8 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
 
 ## Regional, or Language-Specific
 
+* Canada
+  * [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-grad board with remote-friendly internships, co-ops, new-grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.
 * UK
   * [Gigged AI](https://gigged.ai) - Newcomer in the space with Clients ready but little Talent.
   * [devitjobs.uk](https://devitjobs.uk/jobs/all/remote)
