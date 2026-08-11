@@ -120,6 +120,9 @@ Thank you for looking :) Good hunting!
 
 ## Other resources
 
+- [QuoteBoundary](https://quoteboundary.evanguy.chatgpt.site/?utm_source=github&utm_medium=awesome_list&utm_campaign=the_remote_freelancer&utm_content=other_resources) - Browser-based toolkit for freelancers to scope projects, calculate quotes, and document change requests.
+
+
 ### Aggregators
 
 - https://findwork.dev
