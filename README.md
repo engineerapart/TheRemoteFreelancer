@@ -152,6 +152,7 @@ Thank you for looking :) Good hunting!
 ### Job tracking tools
 - [Upfeed](https://upfeed.io/) – Smart and personalized Upwork's feed.
 - [Upwork jobs feed tracker](https://chrome.google.com/webstore/detail/upwork-jobs-feed-tracker/gcjmekbfkkmaccloaoccfiohjnmgkddm) – Convenient way to track new jobs for Upwork freelancers.
+- [Vibeworker](https://tryvibeworker.com/) – Real-time Upwork job alerts by Telegram, push, webhook, RSS and API.
 
 ## Who
 
