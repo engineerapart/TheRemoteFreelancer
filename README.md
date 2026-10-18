@@ -136,6 +136,7 @@ Thank you for looking :) Good hunting!
 - https://remotework.fyi/
 - https://www.vollna.com/
 - https://remotebond.com/
+- https://aitrainer.jobs/
 
 ### Bounties based and open source
 - https://gitcoin.co
