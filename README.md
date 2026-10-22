@@ -99,6 +99,8 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
   * [Projects.co.id](https://projects.co.id/) - Leader in Indonesia.
   * [Fastwork](https://m.fastwork.id/) - Newcomers.
   * [Sribu.com](https://sribu.com/) - is For Designer (but sribulancer.com is dead).
+* Finnish
+  * [kooste.io](https://kooste.io) - Aggregator of freelance IT gigs (toimeksiannot) in Finland
 
 ## Why
 This repo was inspired by [this Hacker News thread](https://news.ycombinator.com/item?id=12773282) about one software developer's experience with Upwork. For all those who have had bad experiences with Upwork, I wanted to create a list of additional resources that software developers can use to find freelance, nomadic and contract work.
