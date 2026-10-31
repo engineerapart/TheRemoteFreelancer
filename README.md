@@ -144,7 +144,7 @@ Thank you for looking :) Good hunting!
 
 ### Remote jobs
 
-- [Autojob](https://autojob.org/jobs/remote) - Browse remote jobs without an account; optional paid automatic applications.
+- [Autojob](https://autojob.org/jobs/remote) - Job board with 20,000+ jobs and an auto-apply feature.
 
 - [lukasz-madonawesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards) – A curated list of awesome remote jobs and resources. Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [HN Hiring (hnhiring.me)](http://hnhiring.me/)
