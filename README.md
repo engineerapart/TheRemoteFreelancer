@@ -47,7 +47,7 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
 | [RemoteYeah](https://remoteyeah.com/)                                                    | 2,000,000      |            | Data Scientists & Developers              |
 | [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html)                        | 8,000,000      |            | AI/Machine learning jobs, filter on remote jobs  |
 | [Team Extension](https://teamextension.io/)                                              | 8,000,000      |            | Eastern Euro Developers, Designers, QA
-| [NodJobs](https://nodjobs.com) |  |  | Hand-picked remote roles sourced from company career pages; exact salary shown free, direct apply |
+| [NodJobs](https://nodjobs.com) |  |  | Remote jobs open to US residents; pay range on most listings, apply on the company's own page |
 | **Agency**                                                                               |                |            |                                           |
 | **Name**                                                                                 | **Rank** |            | **Hires these Types**                     |
 | [Codeable](https://codeable.io/)                                                         | 40,000         |            | Wordpress Developers developers           |
