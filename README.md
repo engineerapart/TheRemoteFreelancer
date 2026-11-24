@@ -66,6 +66,8 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
 
 ## Regional, or Language-Specific
 
+* Europe (pan-European)
+  * [EuroJobs.ai](https://eurojobs.ai) - 28,000+ IT jobs across Europe aggregated hourly from 21,000 employers' own career pages (Greenhouse, Lever, Ashby, Workable and others). Filters for country, remote, visa sponsorship and English-speaking teams.
 * UK
   * [Gigged AI](https://gigged.ai) - Newcomer in the space with Clients ready but little Talent.
   * [devitjobs.uk](https://devitjobs.uk/jobs/all/remote)
